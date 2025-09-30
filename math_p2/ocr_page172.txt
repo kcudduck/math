@@ -1,0 +1,28 @@
+7 THE SCHWARZSCHILD SOLUTION AND BLACK HOLES 165
+does not stop there, but goes on to say that if we have some vector fields which do not
+commute, but whose commutator closes — the commutator of any two fields in the set is a
+linear combination of other fields in the set — then the integral curves of these vector fields
+“fit together” to describe submanifolds of the manifold on which they are all defined. The
+dimensionality of the submanifold may be smaller than the number of vectors, or it could be
+equal, but obviously not larger. Vector fields which obey (7.1) will of course form 2-spheres.
+Since the vector fields stretch throughout the space, every point will be on exactly one of
+these spheres. (Actually, it’s almost every point — we will show below how it can fail to be
+absolutely every point.) Thus, we say that a spherically symmetric manifold can be foliated
+into spheres.
+
+Let’s consider some examples to bring this down to earth. The simplest example is
+flat three-dimensional Euclidean space. If we pick an origin, then R? is clearly spherically
+symmetric with respect to rotations around this origin. Under such rotations (i.e., under
+the flow of the Killing vector fields) points move into each other, but each point stays on an
+S? at a fixed distance from the origin.
+
+z
+X
+It is these spheres which foliate R?. Of course, they don’t really foliate all of the space, since
+the origin itself just stays put under rotations — it doesn’t move around on some two-sphere.
+But it should be clear that almost all of the space is properly foliated, and this will turn out
+to be enough for us.
+
+We can also have spherical symmetry without an “origin” to rotate things around. An
+example is provided by a “wormhole”, with topology R x S2. If we suppress a dimension
+and draw our two-spheres as circles, such a space might look like this:

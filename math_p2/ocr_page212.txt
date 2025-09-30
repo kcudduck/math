@@ -1,0 +1,31 @@
+7 THE SCHWARZSCHILD SOLUTION AND BLACK HOLES 205
+Reissner-Nordstrom: %
+q q
+2 2 2 D D
+GM~>p“+q q ¢ r=0
+'D ‘D
+q q
+D D
+i+ q $ it
+I It
+iO iO
+N I
+- q i‘
+L P ‘!D
+r=0¢ & timelike
+L 4 4 trajectories
+D D
+r = const ‘» S
+surfaces i+ 4 § i+
+I It
+;0 ;0
+I 1"
+i .. Y i
+q q
+D D
+‘D ‘i
+r= 0 ‘. ‘) r= 0
+q q
+D D
+q q
+Dy D

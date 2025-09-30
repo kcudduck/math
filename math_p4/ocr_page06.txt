@@ -1,0 +1,30 @@
+Multi-Symplectic Structure for SGN equations 5/9
+Indeed, the substitution of these relations into (2.1) yields the equations
+G + 3P + 315 = 202 - 3u - fsuv - gh, (2.5)
+0=9q- hu+ %s(p—hv% (2.7)
+0 = %(hv—p)-*— %s(q—hu)7 (2.8)
+-th = 3 (su-v), (2.9)
+Gp = u + %S’U, (2.10)
+-thy = -is, (2.11)
+0= 3(pu+qv-r-huv). (2.12)
+These equations have the following physical meaning. Equation (2.11) gives s = h, so
+s is the surface slope. Equations (2.7) and (2.8) yield p = hv and ¢ = hu that are the
+vertical and horizontal momenta, respectively. It follows that (2.6) is the mass conservation
+Iy +[hu], = 0 and (2.9) is the impermeability of the free surface h; + uh, = v (v is then the
+vertical velocity at the free surface). Equation (2.10) shows that the velocity field is not
+exactly irrotational for the Serre equations (a well-known result). The definition above of
+p and ¢ substituted into (2.12) gives r = huv. Finally, substituting all the preceding results
+into (2.5), after some algebra, one obtains
+o + 2+ éhZ u2 + gh - %}L2 Ugt — %hﬂu@x[}l,um] = 0.
+Differentiating this equation with respect of z, eliminating ¢ using (2.10) and exploiting
+the mass conservation, one gets the equation (1.6).
+It should be noted that eliminating p, ¢ and r, the ‘Hamiltonian’ S becomes
+S = Lhu? - thv? - Lgh? = $hu? - FhPul - 9B (2.13)
+so S is not a density of total energy, nor a Lagrangian density.
+3. Conservation laws
+A multi-symplectic system of partial differential equations has local conservation laws
+for the energy and momentum
+OE(z) + 0.F(z) = 0, 0I(z) + 0,G(z) = 0,
+where
+E(z) = S(2) + 3z.-K- 2, F(z) = -1z,-K-z,
+G(z) = S(2) + 2z,-M-z, I(z) = -12,-M-z.

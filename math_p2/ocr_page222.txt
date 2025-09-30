@@ -1,0 +1,42 @@
+7 THE SCHWARZSCHILD SOLUTION AND BLACK HOLES 215
+We won’t justify this, but you can look in Wald for an explanation. Then (7.144) becomes
+a limit on how much you can decrease the angular momentum:
+
+oM
+
+0 < — . (7.147)
+
+Qu
+If we exactly reach this limit, as the rock we throw in becomes more and more null, we have
+the “ideal” process, in which dJ = 0M/Qy.
+
+We will now use these ideas to prove a powerful result: although you can use the Penrose
+process to extract energy from the black hole, you can never decrease the area of the event
+horizon. For a Kerr metric, one can go through a straightforward computation (projecting
+the metric and volume element and so on) to compute the area of the event horizon:
+
+A=Ar(r: +ad?) . (7.148)
+To show that this doesn’t decrease, it is most convenient to work instead in terms of the
+irreducible mass of the black hole, defined by
+A
+M, = —
+= 4—Gz(ri +a?)
+1
+= 5 (M2 + /M~ (Ma/G)2)
+1
+= (A12+ Nioe (J/G’)2> . (7.149)
+We can differentiate to obtain, after a bit of work,
+a
+My = —————oo——— (' 0M - 6J) . 7.150
+4GV/G2M? - a?Mm( " ) (7.150)
+(I think I have the factors of G right, but it wouldn’t hurt to check.) Then our limit (7.147)
+becomes
+OMyy >0 . (7.151)
+The irreducible mass can never be reduced; hence the name. It follows that the maximum
+amount of energy we can extract from a black hole before we slow its rotation to zero is
+1 5 1/2
+M — My, =M - — <]W + Mt — (J/G)2> . (7.152)
+V2
+The result of this complete extraction is a Schwarzschild black hole of mass M;,. It turns
+out that the best we can do is to start with an extreme Kerr black hole; then we can get out
+approximately 29% of its total energy.

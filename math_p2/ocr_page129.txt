@@ -1,0 +1,33 @@
+4 GRAVITATION 122
+| K
+z Initial Data
+
+derivatives 0;g,w|s (With respect to some specified time coordinate) to be the “momenta”,
+which together specify the state. (There will also be coordinates and momenta for the matter
+fields, which we will not consider explicitly.) In fact the equations G, = 87GT),, do involve
+second derivatives of the metric with respect to time (since the connection involves first
+derivatives of the metric and the Einstein tensor involves first derivatives of the connection),
+so we seem to be on the right track. However, the Bianchi identity tells us that V,G* = 0.
+We can rewrite this equation as
+
+BGY = —9,G" — FﬁAG)“’ - I“Z)\G“A . (4.81)
+A close look at the right hand side reveals that there are no third-order time derivatives;
+therefore there cannot be any on the left hand side. Thus, although G* as a whole involves
+second-order time derivatives of the metric, the specific components G do not. Of the ten
+independent components in Einstein’s equations, the four represented by
+
+G = 8rGT™ (4.82)
+cannot be used to evolve the initial data (g, 99 ). Rather, they serve as constraints
+on this initial data; we are not free to specify any combination of the metric and its time
+derivatives on the hypersurface ¥, since they must obey the relations (4.82). The remaining
+equations,
+
+GY = 8rGTY (4.83)
+are the dynamical evolution equations for the metric. Of course, these are only six equations
+for the ten unknown functions g,,(x7), so the solution will inevitably involve a fourfold
+ambiguity. This is simply the freedom that we have already mentioned, to choose the four
+coordinate functions throughout spacetime.
+
+It is a straightforward but unenlightening exercise to sift through (4.83) to find that
+not all second time derivatives of the metric appear. In fact we find that 97g;; appears in
+(4.83), but not d?go,. Therefore a “state” in general relativity will consist of a specification

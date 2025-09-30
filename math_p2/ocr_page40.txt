@@ -1,0 +1,30 @@
+2 MANIFOLDS 33
+
+The most elementary notion is that of a map between two sets. (We assume you know
+what a set is.) Given two sets M and N, amap ¢ : M — N is a relationship which assigns, to
+each element of M, exactly one element of N. A map is therefore just a simple generalization
+of a function. The canonical picture of a map looks like this:
+
+M
+[E—
+N
+
+Given two maps ¢ : A — B and ¢ : B — C, we define the composition ) o¢: A — C
+by the operation (¢ o ¢)(a) = ¥(¢(a)). So a € A, ¢(a) € B, and thus (¢ o ¢)(a) € C. The
+order in which the maps are written makes sense, since the one on the right acts first. In
+pictures:
+
+é
+A \ / C
+B
+
+A map ¢ is called one-to-one (or “injective”) if each element of N has at most one
+element of M mapped into it, and onto (or “surjective”) if each element of N has at least
+one element of M mapped into it. (If you think about it, a better name for “one-to-one”
+would be “two-to-two”.) Consider a function ¢ : R — R. Then ¢(z) = ¢* is one-to-one, but
+not onto; ¢(z) = 2® — x is onto, but not one-to-one; ¢(r) = z* is both; and ¢(z) = 22 is
+neither.
+
+The set M is known as the domain of the map ¢, and the set of points in N which M
+gets mapped into is called the image of ¢. For some subset U C N, the set of elements of
+M which get mapped to U is called the preimage of U under ¢, or ¢~1(U). A map which is

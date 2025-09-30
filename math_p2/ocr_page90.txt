@@ -1,0 +1,17 @@
+3 CURVATURE 83
+about the curvature is contained in the single component of the Ricci scalar.) Consider a
+cylinder, R x S'. Although this looks curved from our point of view, it should be clear
+that we can put a metric on the cylinder whose components are constant in an appropriate
+coordinate system — simply unroll it and use the induced metric from the plane. In this
+metric, the cylinder is flat. (There is also nothing to stop us from introducing a different
+metric in which the cylinder is not flat, but the point we are trying to emphasize is that it
+can be made flat in some metric.) The same story holds for the torus:
+I
+
+We can think of the torus as a square region of the plane with opposite sides identified (in
+other words, S' x S1), from which it is clear that it can have a flat metric even though it
+looks curved from the embedded point of view.
+
+A cone is an example of a two-dimensional manifold with nonzero curvature at exactly
+one point. We can see this also by unrolling it; the cone is equivalent to the plane with a
+“deficit angle” removed and opposite sides identified:

@@ -1,0 +1,42 @@
+2 MANIFOLDS 36
+derivatives of the composition to the partial derivatives of the individual maps:
+0 afb dg°
+@(!JOf)‘zgafiaafzb- (2.2)
+
+This is usually abbreviated to ,
+
+O O (2.3)
+
+dxe 47 0xe Oyt
+There is nothing illegal or immoral about using this form of the chain rule, but you should
+be able to visualize the maps that underlie the construction. Recall that when m = n
+the determinant of the matrix dy®/0z¢ is called the Jacobian of the map, and the map is
+invertible whenever the Jacobian is nonzero.
+
+These basic definitions were presumably familiar to you, even if only vaguely remembered.
+We will now put them to use in the rigorous definition of a manifold. Unfortunately, a
+somewhat baroque procedure is required to formalize this relatively intuitive notion. We
+will first have to define the notion of an open set, on which we can put coordinate systems,
+and then sew the open sets together in an appropriate way.
+
+Start with the notion of an open ball, which is the set of all points = in R™ such that
+|z —y| < r for some fixed y € R" and r € R, where |z — y| = [¥;(2’ — 7)?]/2. Note that
+this is a strict inequality — the open ball is the interior of an n-sphere of radius r centered
+at y.
+
+// r \\
+
+Il \l
+
+I\ y ,l
+
+\\\ //
+
+\\\__—L open ball
+
+An open set in R" is a set constructed from an arbitrary (maybe infinite) union of open
+balls. In other words, V' C R™ is open if, for any y € V, there is an open ball centered
+at y which is completely inside V. Roughly speaking, an open set is the interior of some
+(n — 1)-dimensional closed surface (or the union of several such interiors). By defining a
+notion of open sets, we have equipped R™ with a topology — in this case, the “standard
+metric topology.”

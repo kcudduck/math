@@ -1,0 +1,38 @@
+1 SPECIAL RELATIVITY AND FLAT SPACETIME 6
+explicit expression for this six-parameter matrix (three boosts, three rotations) is not suffi-
+ciently pretty or useful to bother writing down. In general Lorentz transformations will not
+commute, so the Lorentz group is non-abelian. The set of both translations and Lorentz
+transformations is a ten-parameter non-abelian group, the Poincaré group.
+
+You should not be surprised to learn that the boosts correspond to changing coordinates
+by moving to a frame which travels at a constant velocity, but let’s see it more explicitly.
+For the transformation given by (1.18), the transformed coordinates ¢ and 2’ will be given
+by
+
+t' = tcosh¢ — xsinh¢
+2’ = —tsinh¢+zcosho . (1.19)
+From this we see that the point defined by 2/ = 0 is moving; it has a velocity
+v= %: %:tanh(/b. (1.20)
+To translate into more pedestrian notation, we can replace ¢ = tanh ™ v to obtain
+t = Ay(t—wvz)
+= ~(z—wvt) (1.21)
+where v = 1/4/1 —v2. So indeed, our abstract approach has recovered the conventional
+expressions for Lorentz transformations. Applying these formulae leads to time dilation,
+length contraction, and so forth.
+
+An extremely useful tool is the spacetime diagram, so let’s consider Minkowski space
+from this point of view. We can begin by portraying the initial ¢ and = axes at (what are
+conventionally thought of as) right angles, and suppressing the y and z axes. Then according
+to (1.19), under a boost in the z-¢ plane the 2’ axis (¢’ = 0) is given by ¢ = x tanh ¢, while
+the ¢ axis (2’ = 0) is given by ¢ = x/ tanh ¢. We therefore see that the space and time axes
+are rotated into each other, although they scissor together instead of remaining orthogonal
+in the traditional Euclidean sense. (As we shall see, the axes do in fact remain orthogonal
+in the Lorentzian sense.) This should come as no surprise, since if spacetime behaved just
+like a four-dimensional version of space the world would be a very different place.
+
+It is also enlightening to consider the paths corresponding to travel at the speed ¢ = 1.
+These are given in the original coordinate system by = +t. In the new system, a moment’s
+thought reveals that the paths defined by 2’ = ' are precisely the same as those defined
+by x = +t; these trajectories are left invariant under Lorentz transformations. Of course
+we know that light travels at this speed; we have therefore found that the speed of light is
+the same in any inertial frame. A set of points which are all connected to a single event by

@@ -1,0 +1,39 @@
+1 SPECIAL RELATIVITY AND FLAT SPACETIME 29
+By definition, the energy density completely specifies the dust. But p only measures the
+energy density in the rest frame; what about other frames? We notice that both n and
+m are 0-components of four-vectors in their rest frame; specifically, N* = (n,0,0,0) and
+p* = (m,0,0,0). Therefore p is the yr = 0, ¥ = 0 component of the tensor p®@ N as measured
+in its rest frame. We are therefore led to define the energy-momentum tensor for dust:
+
+T = p'NY = nmUrU" = pUMU" (1.106)
+where p is defined as the energy density in the rest frame.
+
+Having mastered dust, more general perfect fluids are not much more complicated. Re-
+member that “perfect” can be taken to mean “isotropic in its rest frame.” This in turn
+means that 7" is diagonal — there is no net flux of any component of momentum in an
+orthogonal direction. Furthermore, the nonzero spacelike components must all be equal,
+TH = T% = T3, The only two independent numbers are therefore 7% and one of the T%;
+we can choose to call the first of these the energy density p, and the second the pressure
+p. (Sorry that it’s the same letter as the momentum.) The energy-momentum tensor of a
+perfect fluid therefore takes the following form in its rest frame:
+
+p 0 0 0
+0p 00
+™ = . 1.1
+00 p O (1.107)
+000 p
+We would like, of course, a formula which is good in any frame. For dust we had 7" =
+pUFUY, so we might begin by guessing (p + p)U*U", which gives
+p+p 0 0 0
+0 0 00
+0 0 0 0]° (1.108)
+0 0 00
+To get the answer we want we must therefore add
+-p 0 0 0
+0 p 00
+0 0 p o (1.109)
+0 0 0 p
+Fortunately, this has an obvious covariant generalization, namely pn*”. Thus, the general
+form of the energy-momentum tensor for a perfect fluid is
+™" = (p+ p)UU" + pnt* . (1.110)
+This is an important formula for applications such as stellar structure and cosmology.

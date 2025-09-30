@@ -1,0 +1,10 @@
+2 MANIFOLDS 54
+M with boundary M, and an (n — 1)-form w on M. (We haven’t discussed manifolds with
+boundaries, but the idea is obvious; M could for instance be the interior of an (n — 1)-
+dimensional closed surface 9M.) Then dw is an n-form, which can be integrated over M,
+while w itself can be integrated over M. Stokes’s theorem is then
+/ dw = / w. (2.49)
+Jum oM
+You can convince yourself that different special cases of this theorem include not only the
+fundamental theorem of calculus, but also the theorems of Green, Gauss, and Stokes, familiar
+from vector calculus in three dimensions.

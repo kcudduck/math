@@ -1,0 +1,42 @@
+7 THE SCHWARZSCHILD SOLUTION AND BLACK HOLES 216
+
+The irreducibility of M;,, leads immediately to the fact that the area A can never decrease.
+From (7.149) and (7.150) we have
+
+a
+0A = SWGW(M\J —Qudy), (7.153)
+which can be recast as .
+oM = %6A +QpéJ (7.154)
+where we have introduced
+o VEME —a? (7.155)
+2GM(GM + /G*M? — a?)
+The quantity « is known as the surface gravity of the black hole.
+
+It was equations like (7.154) that first started people thinking about the relationship
+
+between black holes and thermodynamics. Consider the first law of thermodynamics,
+
+dU = TdS + work terms . (7.156)
+It is natural to think of the term Qy0.J as “work” that we do on the black hole by throwing
+rocks into it. Then the thermodynamic analogy begins to take shape if we think of identifying
+the area A as the entropy S, and the surface gravity x as 8rG times the temperature
+T. In fact, in the context of classical general relativity the analogy is essentially perfect.
+The “zeroth” law of thermodynamics states that in thermal equilibrium the temperature is
+constant throughout the system; the analogous statement for black holes is that stationary
+black holes have constant surface gravity on the entire horizon (true). As we have seen,
+the first law (7.156) is equivalent to (7.154). The second law, that entropy never decreases,
+is simply the statement that the area of the horizon never decreases. Finally, the third
+law is that it is impossible to achieve 7" = 0 in any physical process, which should imply
+that it is impossible to achieve x = 0 in any physical process. It turns out that k = 0
+corresponds to the extremal black holes (either in Kerr or Reissner-Nordstrom) — where
+the naked singularities would appear. Somehow, then, the third law is related to cosmic
+censorship.
+
+The missing piece is that real thermodynamic bodies don’t just sit there; they give off
+blackbody radiation with a spectrum that depends on their temperature. Black holes, it was
+thought before Hawking discovered his radiation, don’t do that, since they’re truly black.
+Historically, Bekenstein came up with the idea that black holes should really be honest black
+bodies, including the radiation at the appropriate temperature. This annoyed Hawking, who
+set out to prove him wrong, and ended up proving that there would be radiation after all.
+So the thermodynamic analogy is even better than we had any right to expect — although
+it is safe to say that nobody really knows why.

@@ -1,0 +1,44 @@
+7 THE SCHWARZSCHILD SOLUTION AND BLACK HOLES 204
+a black hole with GM? < p? + ¢? as the result of gravitational collapse. Roughly speaking,
+this condition states that the total energy of the hole is less than the contribution to the
+energy from the electromagnetic fields alone — that is, the mass of the matter which carried
+the charge would have had to be negative. This solution is therefore generally considered
+to be unphysical. Notice also that there are not good Cauchy surfaces (spacelike slices for
+which every inextendible timelike line intersects them) in this spacetime, since timelike lines
+can begin and end at the singularity.
+
+Case Two — GM? > p* + ¢*
+
+This is the situation which we expect to apply in real gravitational collapse; the energy
+in the electromagnetic field is less than the total energy. In this case the metric coefficient
+A(r) is positive at large r and small r, and negative inside the two vanishing points ry =
+GM + /G*M? — G(p? + ¢?). The metric has coordinate singularities at both r, and r_; in
+both cases these could be removed by a change of coordinates as we did with Schwarzschild.
+
+The surfaces defined by r = r4 are both null, and in fact they are event horizons (in a
+sense we will make precise in a moment). The singularity at r = 0 is a timelike line (not
+a spacelike surface as in Schwarzschild). If you are an observer falling into the black hole
+from far away, r; is just like 2GM in the Schwarzschild metric; at this radius r switches
+from being a spacelike coordinate to a timelike coordinate, and you necessarily move in the
+direction of decreasing r. Witnesses outside the black hole also see the same phenomena
+that they would outside an uncharged hole — the infalling observer is seen to move more
+and more slowly, and is increasingly redshifted.
+
+But the inevitable fall from r to ever-decreasing radii only lasts until you reach the null
+surface r = r_, where r switches back to being a spacelike coordinate and the motion in the
+direction of decreasing r can be arrested. Therefore you do not have to hit the singularity
+at r = 0; this is to be expected, since r = 0 is a timelike line (and therefore not necessarily
+in your future). In fact you can choose either to continue on to r = 0, or begin to move
+in the direction of increasing r back through the null surface at » = r_. Then r will once
+again be a timelike coordinate, but with reversed orientation; you are forced to move in the
+direction of increasing r. You will eventually be spit out past » = r, once more, which is
+like emerging from a white hole into the rest of the universe. From here you can choose to
+go back into the black hole — this time, a different hole than the one you entered in the
+first place — and repeat the voyage as many times as you like. This little story corresponds
+to the accompanying Penrose diagram, which of course can be derived more rigorously by
+choosing appropriate coordinates and analytically extending the Reissner-Nordstrgm metric
+as far as it will go.
+
+How much of this is science, as opposed to science fiction? Probably not much. If you
+think about the world as seen from an observer inside the black hole who is about to cross the
+event horizon at r_, you will notice that they can look back in time to see the entire history

@@ -1,0 +1,35 @@
+8 COSMOLOGY 227
+where we have defined 8rC
+C= 7TTpag = constant . (8.51)
+For universes filled with nothing but radiation, p = %p, we have once again open universes,
+L2 1/2
+a=VvC||1+—]| -1 k=-1), 8.52
+v {( =) } (k= -1). 852)
+flat universes,
+a=(@4CH4 2 (k=0), (8.53)
+and closed universes,
+f\? 1/2
+a=VvC|l-|1-— k=+1), 8.54
+v { (1- ) } (=41, (550
+where this time we defined 8rC
+C' = Wszﬁ = constant . (8.55)
+You can check for yourselves that these exact solutions have the properties we argued would
+hold in general.
+
+For universes which are empty save for the cosmological constant, either p or p will be
+negative, in violation of the assumptions we used earlier to derive the general behavior of
+a(t). In this case the connection between open/closed and expands forever/recollapses is
+lost. We begin by considering A < 0. In this case Q is negative, and from (8.41) this can
+only happen if £ = —1. The solution in this case is
+
+-3 —A
+a:‘/Tsin (1/315) . (8.56)
+There is also an open (k = —1) solution for A > 0, given by
+3 A
+a= \/;sinh (\/?L‘) . (8.57)
+A flat vacuum-dominated universe must have A > 0, and the solution is
+A
+a o< exp (i\/;t> , (8.58)
+while the closed universe must also have A > 0, and satisfies
+3 A
+a= \/;Cosh (\/;t> . (8.59)

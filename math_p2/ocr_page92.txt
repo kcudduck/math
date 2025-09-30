@@ -1,0 +1,37 @@
+3 CURVATURE 85
+= (sin?6 — cos®0) — (0) + (0) — (—sin 6 cos 0)(cot )
+= sin?f . (3.102)
+(The notation is obviously imperfect, since the Greek letter A is a dummy index which is
+summed over, while the Greek letters 6 and ¢ represent specific coordinates.) Lowering an
+index, we have
+Rosos = goaRs00
+= gooR% 44
+= a%sin?6 . (3.103)
+It is easy to check that all of the components of the Riemann tensor either vanish or are
+related to this one by symmetry. We can go on to compute the Ricci tensor via R, =
+9°® Roypu. We obtain
+Ryg = g"Ryppo =1
+Rgy = Ryp=0
+Rri)ri) = gogR.q(i,gg/) = Si112 0. (3104)
+The Ricci scalar is similarly straightforward:
+2
+R =g"Ryg + 9% Ry = o (3.105)
+Therefore the Ricci scalar, which for a two-dimensional manifold completely characterizes
+the curvature, is a constant over this two-sphere. This is a reflection of the fact that the
+manifold is “maximally symmetric,” a concept we will define more precisely later (although it
+means what you think it should). In any number of dimensions the curvature of a maximally
+symmetric space satisfies (for some constant a)
+szr/,w = a72(gp;¢gm/ - gpvgﬂp) 5 (3106)
+which you may check is satisfied by this example.
+
+Notice that the Ricci scalar is not only constant for the two-sphere, it is manifestly
+positive. We say that the sphere is “positively curved” (of course a convention or two came
+into play, but fortunately our conventions conspired so that spaces which everyone agrees
+to call positively curved actually have a positive Ricci scalar). From the point of view of
+someone living on a manifold which is embedded in a higher-dimensional Euclidean space,
+if they are sitting at a point of positive curvature the space curves away from them in the
+same way in any direction, while in a negatively curved space it curves away in opposite
+directions. Negatively curved spaces are therefore saddle-like.
+
+Enough fun with examples. There is one more topic we have to cover before introducing
+general relativity itself: geodesic deviation. You have undoubtedly heard that the defining

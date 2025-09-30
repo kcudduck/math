@@ -1,0 +1,50 @@
+3 CURVATURE 68
+where once again this is just notation; the path-ordered exponential is defined to be the right
+hand side of (3.43). We can write it more explicitly as
+
+A, da’
+
+PHy (M Ao) = Pexp <7/ e 4 dn> . (3.45)
+
+o dn
+It’s nice to have an explicit formula, even if it is rather abstract. The same kind of ex-
+pression appears in quantum field theory as “Dyson’s Formula,” where it arises because the
+Schrodinger equation for the time-evolution operator has the same form as (3.38).
+
+As an aside, an especially interesting example of the parallel propagator occurs when the
+path is a loop, starting and ending at the same point. Then if the connection is metric-
+compatible, the resulting matrix will just be a Lorentz transformation on the tangent space
+at the point. This transformation is known as the “holonomy” of the loop. If you know
+the holonomy of every possible loop, that turns out to be equivalent to knowing the metric.
+This fact has let Ashtekar and his collaborators to examine general relativity in the “loop
+representation,” where the fundamental variables are holonomies rather than the explicit
+metric. They have made some progress towards quantizing the theory in this approach,
+although the jury is still out about how much further progress can be made.
+
+With parallel transport understood, the next logical step is to discuss geodesics. A
+geodesic is the curved-space generalization of the notion of a “straight line” in Euclidean
+space. We all know what a straight line is: it’s the path of shortest distance between
+two points. But there is an equally good definition — a straight line is a path which
+parallel transports its own tangent vector. On a manifold with an arbitrary (not necessarily
+Christoffel) connection, these two concepts do not quite coincide, and we should discuss
+them separately.
+
+We'll take the second definition first, since it is computationally much more straight-
+forward. The tangent vector to a path x#(\) is dz*/d\. The condition that it be parallel
+transported is thus
+
+Dd" (3.46)
+
+dX dA
+or alternatively )
+
+dN? L7 AN dA
+
+This is the geodesic equation, another one which you should memorize. We can easily
+see that it reproduces the usual notion of straight lines if the connection coefficients are the
+Christoffel symbols in Euclidean space; in that case we can choose Cartesian coordinates in
+which I'}, = 0, and the geodesic equation is just d*z# /dN? = 0, which is the equation for a
+straight line.
+
+That was embarrassingly simple; let’s turn to the more nontrivial case of the shortest
+distance definition. As we know, there are various subtleties involved in the definition of

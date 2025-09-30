@@ -1,0 +1,39 @@
+6 WEAK FIELDS AND GRAVITATIONAL RADIATION 161
+weak field limit; all of them are different, but for the most part they give the same answers
+for physically well-posed questions such as the rate of energy emitted by a binary system.
+
+At a technical level, the difficulties begin to arise when we consider what form the energy-
+momentum tensor should take. We have previously mentioned the energy-momentum tensors
+for electromagnetism and scalar field theory, and they both shared an important feature —
+they were quadratic in the relevant fields. By hypothesis our approach to the weak field limit
+has been to only keep terms which are linear in the metric perturbation. Hence, in order
+to keep track of the energy carried by the gravitational waves, we will have to extend our
+calculations to at least second order in h,,,. In fact we have been cheating slightly all along.
+In discussing the effects of gravitational waves on test particles, and the generation of waves
+by a binary system, we have been using the fact that test particles move along geodesics. But
+as we know, this is derived from the covariant conservation of energy-momentum, V,7*" = 0.
+In the order to which we have been working, however, we actually have J,7*" = 0, which
+would imply that test particles move on straight lines in the flat background metric. This
+is a symptom of the fundamental inconsistency of the weak field limit. In practice, the best
+that can be done is to solve the weak field equations to some appropriate order, and then
+justify after the fact the validity of the solution.
+
+Keeping these issues in mind, let us consider Einstein’s equations (in vacuum) to second
+order, and see how the result can be interpreted in terms of an energy-momentum tensor for
+the gravitational field. If we write the metric as g,, = 7., + hy., then at first order we have
+
+GPm+h =0, (6.95)
+where GS) is Einstein’s tensor expanded to first order in h,,. These equations determine
+g, up to (unavoidable) gauge transformations, so in order to satisfy the equations at second
+order we have to add a higher-order perturbation, and write
+
+G = T + Py + 1) (6.96)
+The second-order version of Einstein’s equations consists of all terms either quadratic in h,
+or linear in hf) Since any cross terms would be of at least third order, we have
+G +rP1+GPm+h =0. (6.97)
+Here, GLZ,,) is the part of the Einstein tensor which is of second order in the metric perturba-
+tion. It can be computed from the second-order Ricci tensor, which is given by
+R = L070,0,h, — 170,00hu0 + (D) O + (0h0,)0
+M2 5 v uOullpe — IV pO(ulv)o + 1( I Lp(r) T+ ( v 1/) cm
+1 1 1
++§80(h”"8phw,) - i(aphw,){)"h — (050" — éé)ﬂh)()why)p . (6.98)

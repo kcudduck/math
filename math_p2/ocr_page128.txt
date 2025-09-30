@@ -1,0 +1,45 @@
+4 GRAVITATION 121
+“non-gravitational” tensor fields. Thus, we do not really lose any generality by considering
+theories of torsion-free connections (which lead to GR) plus any number of tensor fields,
+which we can name what we like.
+
+With the possibility in mind that one of these alternatives (or, more likely, something
+we have not yet thought of) is actually realized in nature, for the rest of the course we will
+work under the assumption that general relativity as based on Einstein’s equations or the
+Hilbert action is the correct theory, and work out its consequences. These consequences, of
+course, are constituted by the solutions to Einstein’s equations for various sources of energy
+and momentum, and the behavior of test particles in these solutions. Before considering
+specific solutions in detail, lets look more abstractly at the initial-value problem in general
+relativity.
+
+In classical Newtonian mechanics, the behavior of a single particle is of course governed
+by f = ma. If the particle is moving under the influence of some potential energy field ®(z),
+then the force is f = —V®, and the particle obeys
+
+d2xz
+
+My = —-0;P . (4.79)
+This is a second-order differential equation for z*(¢), which we can recast as a system of two
+coupled first-order equations by introducing the momentum p:
+
+dp*
+
+d—ﬁ =~ (4.80)
+The initial-value problem is simply the procedure of specifying a “state” (x, p') which serves
+as a boundary condition with which (4.80) can be uniquely solved. You may think of (4.80)
+as allowing you, once you are given the coordinates and momenta at some time ¢, to evolve
+them forward an infinitesimal amount to a time ¢ + ¢, and iterate this procedure to obtain
+the entire solution.
+
+We would like to formulate the analogous problem in general relativity. Einstein’s equa-
+tions G, = 87GT),, are of course covariant; they don’t single out a preferred notion of “time”
+through which a state can evolve. Nevertheless, we can by hand pick a spacelike hypersurface
+(or “slice”) ¥, specify initial data on that hypersurface, and see if we can evolve uniquely
+from it to a hypersurface in the future. (“Hyper” because a constant-time slice in four di-
+mensions will be three-dimensional, whereas “surfaces” are conventionally two-dimensional.)
+This process does violence to the manifest covariance of the theory, but if we are careful we
+should wind up with a formulation that is equivalent to solving Einstein’s equations all at
+once throughout spacetime.
+
+Since the metric is the fundamental variable, our first guess is that we should consider
+the values g,, |5 of the metric on our hypersurface to be the “coordinates” and the time

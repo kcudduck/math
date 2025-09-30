@@ -1,0 +1,41 @@
+5 MORE GEOMETRY 134
+maps”), or we could just as well introduce a diffeomorphism ¢ : M — M, after which the
+coordinates would just be the pullbacks (¢.2)* : M — R™ (“move the points on the man-
+ifold, and then evaluate the coordinates of the new points”). In this sense, (5.15) really is
+the tensor transformation law, just thought of from a different point of view.
+o
+o
+N
+@ )
+E——
+N 7
+@.0"
+
+Since a diffeomorphism allows us to pull back and push forward arbitrary tensors, it
+provides another way of comparing tensors at different points on a manifold. Given a diffeo-
+morphism ¢ : M — M and a tensor field T+ #,, ., (), we can form the difference between
+the value of the tensor at some point p and @.[T" " #,, ..., (¢(p))], its value at ¢(p) pulled
+back to p. This suggests that we could define another kind of derivative operator on tensor
+fields, one which categorizes the rate of change of the tensor as it changes under the diffeo-
+morphism. For that, however, a single discrete diffeomorphism is insufficient; we require a
+one-parameter family of diffeomorphisms, ¢;. This family can be thought of as a smooth
+map R x M — M, such that for each t € R ¢, is a diffeomorphism and ¢ 0 ¢, = ¢+;. Note
+that this last condition implies that ¢ is the identity map.
+
+One-parameter families of diffeomorphisms can be thought of as arising from vector fields
+(and vice-versa). If we consider what happens to the point p under the entire family ¢y, it is
+clear that it describes a curve in M; since the same thing will be true of every point on M,
+these curves fill the manifold (although there can be degeneracies where the diffeomorphisms
+have fixed points). We can define a vector field V#(z) to be the set of tangent vectors to
+each of these curves at every point, evaluated at t = 0. An example on S? is provided by
+the diffeomorphism ¢(0, ¢) = (0, ¢ + ).
+
+We can reverse the construction to define a one-parameter family of diffeomorphisms
+from any vector field. Given a vector field V#(z), we define the integral curves of the
+vector field to be those curves x#(t) which solve
+
+dazt
+
+T Ve (5.16)
+Note that this familiar-looking equation is now to be interpreted in the opposite sense from
+our usual way — we are given the vectors, from which we define the curves. Solutions to

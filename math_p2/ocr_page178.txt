@@ -1,0 +1,43 @@
+7 THE SCHWARZSCHILD SOLUTION AND BLACK HOLES 171
+Newtonian mass that we would measure by studying orbits at large distances from the grav-
+itating source. Note that as M — 0 we recover Minkowski space, which is to be expected.
+Note also that the metric becomes progressively Minkowskian as we go to r — oo; this
+property is known as asymptotic flatness.
+
+The fact that the Schwarzschild metric is not just a good solution, but is the unique
+spherically symmetric vacuum solution, is known as Birkhoff’s theorem. It is interesting to
+note that the result is a static metric. We did not say anything about the source except that
+it be spherically symmetric. Specifically, we did not demand that the source itself be static;
+it could be a collapsing star, as long as the collapse were symmetric. Therefore a process
+such as a supernova explosion, which is basically spherical, would be expected to generate
+very little gravitational radiation (in comparison to the amount of energy released through
+other channels). This is the same result we would have obtained in electromagnetism, where
+the electromagnetic fields around a spherical charge distribution do not depend on the radial
+distribution of the charges.
+
+Before exploring the behavior of test particles in the Schwarzschild geometry, we should
+say something about singularities. From the form of (7.29), the metric coefficients become
+infinite at » = 0 and r = 2GM — an apparent sign that something is going wrong. The
+metric coefficients, of course, are coordinate-dependent quantities, and as such we should
+not make too much of their values; it is certainly possible to have a “coordinate singularity”
+which results from a breakdown of a specific coordinate system rather than the underlying
+manifold. An example occurs at the origin of polar coordinates in the plane, where the
+metric ds? = dr? + r2d6? becomes degenerate and the component g% = r~2 of the inverse
+metric blows up, even though that point of the manifold is no different from any other.
+
+What kind of coordinate-independent signal should we look for as a warning that some-
+thing about the geometry is out of control? This turns out to be a difficult question to
+answer, and entire books have been written about the nature of singularities in general rel-
+ativity. We won’t go into this issue in detail, but rather turn to one simple criterion for
+when something has gone wrong — when the curvature becomes infinite. The curvature is
+measured by the Riemann tensor, and it is hard to say when a tensor becomes infinite, since
+its components are coordinate-dependent. But from the curvature we can construct various
+scalar quantities, and since scalars are coordinate-independent it will be meaningful to say
+that they become infinite. This simplest such scalar is the Ricci scalar R = g"”R,,,, but we
+can also construct higher-order scalars such as R R, R*"" R, 0, RWWR"”“R,\T“”, and
+so on. If any of these scalars (not necessarily all of them) go to infinity as we approach some
+point, we will regard that point as a singularity of the curvature. We should also check that
+the point is not “infinitely far away”; that is, that it can be reached by travelling a finite
+distance along a curve.
+
+We therefore have a sufficient condition for a point to be considered a singularity. It is

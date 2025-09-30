@@ -1,0 +1,1236 @@
+{
+  "paper_id": "math_p2",
+  "domain": "math",
+  "title": "",
+  "authors": [],
+  "doi": "",
+  "src_pdf": "/home/user/Documents/ice_collapse/liberator/Carroll.pdf",
+  "sha256": "d4cbfeed3a18370cb7e1a256da6fa7de722982ad7f6a146b4fc0fe14a6bebf6c",
+  "page_count": 238,
+  "raster_dpi": 200,
+  "ocr": {
+    "engine": "tesseract",
+    "lang": "eng"
+  },
+  "qa": {
+    "ocr_coverage": 0.9958,
+    "header_footer_removed": 0.9749,
+    "status": "READY"
+  },
+  "pages": [
+    {
+      "n": 1,
+      "png": "math_p2.page01.png",
+      "ocr_txt": "ocr_page01.txt"
+    },
+    {
+      "n": 2,
+      "png": "math_p2.page02.png",
+      "ocr_txt": "ocr_page02.txt"
+    },
+    {
+      "n": 3,
+      "png": "math_p2.page03.png",
+      "ocr_txt": "ocr_page03.txt"
+    },
+    {
+      "n": 4,
+      "png": "math_p2.page04.png",
+      "ocr_txt": "ocr_page04.txt"
+    },
+    {
+      "n": 5,
+      "png": "math_p2.page05.png",
+      "ocr_txt": "ocr_page05.txt"
+    },
+    {
+      "n": 6,
+      "png": "math_p2.page06.png",
+      "ocr_txt": "ocr_page06.txt"
+    },
+    {
+      "n": 7,
+      "png": "math_p2.page07.png",
+      "ocr_txt": "ocr_page07.txt"
+    },
+    {
+      "n": 8,
+      "png": "math_p2.page08.png",
+      "ocr_txt": "ocr_page08.txt"
+    },
+    {
+      "n": 9,
+      "png": "math_p2.page09.png",
+      "ocr_txt": "ocr_page09.txt"
+    },
+    {
+      "n": 10,
+      "png": "math_p2.page10.png",
+      "ocr_txt": "ocr_page10.txt"
+    },
+    {
+      "n": 11,
+      "png": "math_p2.page11.png",
+      "ocr_txt": "ocr_page11.txt"
+    },
+    {
+      "n": 12,
+      "png": "math_p2.page12.png",
+      "ocr_txt": "ocr_page12.txt"
+    },
+    {
+      "n": 13,
+      "png": "math_p2.page13.png",
+      "ocr_txt": "ocr_page13.txt"
+    },
+    {
+      "n": 14,
+      "png": "math_p2.page14.png",
+      "ocr_txt": "ocr_page14.txt"
+    },
+    {
+      "n": 15,
+      "png": "math_p2.page15.png",
+      "ocr_txt": "ocr_page15.txt"
+    },
+    {
+      "n": 16,
+      "png": "math_p2.page16.png",
+      "ocr_txt": "ocr_page16.txt"
+    },
+    {
+      "n": 17,
+      "png": "math_p2.page17.png",
+      "ocr_txt": "ocr_page17.txt"
+    },
+    {
+      "n": 18,
+      "png": "math_p2.page18.png",
+      "ocr_txt": "ocr_page18.txt"
+    },
+    {
+      "n": 19,
+      "png": "math_p2.page19.png",
+      "ocr_txt": "ocr_page19.txt"
+    },
+    {
+      "n": 20,
+      "png": "math_p2.page20.png",
+      "ocr_txt": "ocr_page20.txt"
+    },
+    {
+      "n": 21,
+      "png": "math_p2.page21.png",
+      "ocr_txt": "ocr_page21.txt"
+    },
+    {
+      "n": 22,
+      "png": "math_p2.page22.png",
+      "ocr_txt": "ocr_page22.txt"
+    },
+    {
+      "n": 23,
+      "png": "math_p2.page23.png",
+      "ocr_txt": "ocr_page23.txt"
+    },
+    {
+      "n": 24,
+      "png": "math_p2.page24.png",
+      "ocr_txt": "ocr_page24.txt"
+    },
+    {
+      "n": 25,
+      "png": "math_p2.page25.png",
+      "ocr_txt": "ocr_page25.txt"
+    },
+    {
+      "n": 26,
+      "png": "math_p2.page26.png",
+      "ocr_txt": "ocr_page26.txt"
+    },
+    {
+      "n": 27,
+      "png": "math_p2.page27.png",
+      "ocr_txt": "ocr_page27.txt"
+    },
+    {
+      "n": 28,
+      "png": "math_p2.page28.png",
+      "ocr_txt": "ocr_page28.txt"
+    },
+    {
+      "n": 29,
+      "png": "math_p2.page29.png",
+      "ocr_txt": "ocr_page29.txt"
+    },
+    {
+      "n": 30,
+      "png": "math_p2.page30.png",
+      "ocr_txt": "ocr_page30.txt"
+    },
+    {
+      "n": 31,
+      "png": "math_p2.page31.png",
+      "ocr_txt": "ocr_page31.txt"
+    },
+    {
+      "n": 32,
+      "png": "math_p2.page32.png",
+      "ocr_txt": "ocr_page32.txt"
+    },
+    {
+      "n": 33,
+      "png": "math_p2.page33.png",
+      "ocr_txt": "ocr_page33.txt"
+    },
+    {
+      "n": 34,
+      "png": "math_p2.page34.png",
+      "ocr_txt": "ocr_page34.txt"
+    },
+    {
+      "n": 35,
+      "png": "math_p2.page35.png",
+      "ocr_txt": "ocr_page35.txt"
+    },
+    {
+      "n": 36,
+      "png": "math_p2.page36.png",
+      "ocr_txt": "ocr_page36.txt"
+    },
+    {
+      "n": 37,
+      "png": "math_p2.page37.png",
+      "ocr_txt": "ocr_page37.txt"
+    },
+    {
+      "n": 38,
+      "png": "math_p2.page38.png",
+      "ocr_txt": "ocr_page38.txt"
+    },
+    {
+      "n": 39,
+      "png": "math_p2.page39.png",
+      "ocr_txt": "ocr_page39.txt"
+    },
+    {
+      "n": 40,
+      "png": "math_p2.page40.png",
+      "ocr_txt": "ocr_page40.txt"
+    },
+    {
+      "n": 41,
+      "png": "math_p2.page41.png",
+      "ocr_txt": "ocr_page41.txt"
+    },
+    {
+      "n": 42,
+      "png": "math_p2.page42.png",
+      "ocr_txt": "ocr_page42.txt"
+    },
+    {
+      "n": 43,
+      "png": "math_p2.page43.png",
+      "ocr_txt": "ocr_page43.txt"
+    },
+    {
+      "n": 44,
+      "png": "math_p2.page44.png",
+      "ocr_txt": "ocr_page44.txt"
+    },
+    {
+      "n": 45,
+      "png": "math_p2.page45.png",
+      "ocr_txt": "ocr_page45.txt"
+    },
+    {
+      "n": 46,
+      "png": "math_p2.page46.png",
+      "ocr_txt": "ocr_page46.txt"
+    },
+    {
+      "n": 47,
+      "png": "math_p2.page47.png",
+      "ocr_txt": "ocr_page47.txt"
+    },
+    {
+      "n": 48,
+      "png": "math_p2.page48.png",
+      "ocr_txt": "ocr_page48.txt"
+    },
+    {
+      "n": 49,
+      "png": "math_p2.page49.png",
+      "ocr_txt": "ocr_page49.txt"
+    },
+    {
+      "n": 50,
+      "png": "math_p2.page50.png",
+      "ocr_txt": "ocr_page50.txt"
+    },
+    {
+      "n": 51,
+      "png": "math_p2.page51.png",
+      "ocr_txt": "ocr_page51.txt"
+    },
+    {
+      "n": 52,
+      "png": "math_p2.page52.png",
+      "ocr_txt": "ocr_page52.txt"
+    },
+    {
+      "n": 53,
+      "png": "math_p2.page53.png",
+      "ocr_txt": "ocr_page53.txt"
+    },
+    {
+      "n": 54,
+      "png": "math_p2.page54.png",
+      "ocr_txt": "ocr_page54.txt"
+    },
+    {
+      "n": 55,
+      "png": "math_p2.page55.png",
+      "ocr_txt": "ocr_page55.txt"
+    },
+    {
+      "n": 56,
+      "png": "math_p2.page56.png",
+      "ocr_txt": "ocr_page56.txt"
+    },
+    {
+      "n": 57,
+      "png": "math_p2.page57.png",
+      "ocr_txt": "ocr_page57.txt"
+    },
+    {
+      "n": 58,
+      "png": "math_p2.page58.png",
+      "ocr_txt": "ocr_page58.txt"
+    },
+    {
+      "n": 59,
+      "png": "math_p2.page59.png",
+      "ocr_txt": "ocr_page59.txt"
+    },
+    {
+      "n": 60,
+      "png": "math_p2.page60.png",
+      "ocr_txt": "ocr_page60.txt"
+    },
+    {
+      "n": 61,
+      "png": "math_p2.page61.png",
+      "ocr_txt": "ocr_page61.txt"
+    },
+    {
+      "n": 62,
+      "png": "math_p2.page62.png",
+      "ocr_txt": "ocr_page62.txt"
+    },
+    {
+      "n": 63,
+      "png": "math_p2.page63.png",
+      "ocr_txt": "ocr_page63.txt"
+    },
+    {
+      "n": 64,
+      "png": "math_p2.page64.png",
+      "ocr_txt": "ocr_page64.txt"
+    },
+    {
+      "n": 65,
+      "png": "math_p2.page65.png",
+      "ocr_txt": "ocr_page65.txt"
+    },
+    {
+      "n": 66,
+      "png": "math_p2.page66.png",
+      "ocr_txt": "ocr_page66.txt"
+    },
+    {
+      "n": 67,
+      "png": "math_p2.page67.png",
+      "ocr_txt": "ocr_page67.txt"
+    },
+    {
+      "n": 68,
+      "png": "math_p2.page68.png",
+      "ocr_txt": "ocr_page68.txt"
+    },
+    {
+      "n": 69,
+      "png": "math_p2.page69.png",
+      "ocr_txt": "ocr_page69.txt"
+    },
+    {
+      "n": 70,
+      "png": "math_p2.page70.png",
+      "ocr_txt": "ocr_page70.txt"
+    },
+    {
+      "n": 71,
+      "png": "math_p2.page71.png",
+      "ocr_txt": "ocr_page71.txt"
+    },
+    {
+      "n": 72,
+      "png": "math_p2.page72.png",
+      "ocr_txt": "ocr_page72.txt"
+    },
+    {
+      "n": 73,
+      "png": "math_p2.page73.png",
+      "ocr_txt": "ocr_page73.txt"
+    },
+    {
+      "n": 74,
+      "png": "math_p2.page74.png",
+      "ocr_txt": "ocr_page74.txt"
+    },
+    {
+      "n": 75,
+      "png": "math_p2.page75.png",
+      "ocr_txt": "ocr_page75.txt"
+    },
+    {
+      "n": 76,
+      "png": "math_p2.page76.png",
+      "ocr_txt": "ocr_page76.txt"
+    },
+    {
+      "n": 77,
+      "png": "math_p2.page77.png",
+      "ocr_txt": "ocr_page77.txt"
+    },
+    {
+      "n": 78,
+      "png": "math_p2.page78.png",
+      "ocr_txt": "ocr_page78.txt"
+    },
+    {
+      "n": 79,
+      "png": "math_p2.page79.png",
+      "ocr_txt": "ocr_page79.txt"
+    },
+    {
+      "n": 80,
+      "png": "math_p2.page80.png",
+      "ocr_txt": "ocr_page80.txt"
+    },
+    {
+      "n": 81,
+      "png": "math_p2.page81.png",
+      "ocr_txt": "ocr_page81.txt"
+    },
+    {
+      "n": 82,
+      "png": "math_p2.page82.png",
+      "ocr_txt": "ocr_page82.txt"
+    },
+    {
+      "n": 83,
+      "png": "math_p2.page83.png",
+      "ocr_txt": "ocr_page83.txt"
+    },
+    {
+      "n": 84,
+      "png": "math_p2.page84.png",
+      "ocr_txt": "ocr_page84.txt"
+    },
+    {
+      "n": 85,
+      "png": "math_p2.page85.png",
+      "ocr_txt": "ocr_page85.txt"
+    },
+    {
+      "n": 86,
+      "png": "math_p2.page86.png",
+      "ocr_txt": "ocr_page86.txt"
+    },
+    {
+      "n": 87,
+      "png": "math_p2.page87.png",
+      "ocr_txt": "ocr_page87.txt"
+    },
+    {
+      "n": 88,
+      "png": "math_p2.page88.png",
+      "ocr_txt": "ocr_page88.txt"
+    },
+    {
+      "n": 89,
+      "png": "math_p2.page89.png",
+      "ocr_txt": "ocr_page89.txt"
+    },
+    {
+      "n": 90,
+      "png": "math_p2.page90.png",
+      "ocr_txt": "ocr_page90.txt"
+    },
+    {
+      "n": 91,
+      "png": "math_p2.page91.png",
+      "ocr_txt": "ocr_page91.txt"
+    },
+    {
+      "n": 92,
+      "png": "math_p2.page92.png",
+      "ocr_txt": "ocr_page92.txt"
+    },
+    {
+      "n": 93,
+      "png": "math_p2.page93.png",
+      "ocr_txt": "ocr_page93.txt"
+    },
+    {
+      "n": 94,
+      "png": "math_p2.page94.png",
+      "ocr_txt": "ocr_page94.txt"
+    },
+    {
+      "n": 95,
+      "png": "math_p2.page95.png",
+      "ocr_txt": "ocr_page95.txt"
+    },
+    {
+      "n": 96,
+      "png": "math_p2.page96.png",
+      "ocr_txt": "ocr_page96.txt"
+    },
+    {
+      "n": 97,
+      "png": "math_p2.page97.png",
+      "ocr_txt": "ocr_page97.txt"
+    },
+    {
+      "n": 98,
+      "png": "math_p2.page98.png",
+      "ocr_txt": "ocr_page98.txt"
+    },
+    {
+      "n": 99,
+      "png": "math_p2.page99.png",
+      "ocr_txt": "ocr_page99.txt"
+    },
+    {
+      "n": 100,
+      "png": "math_p2.page100.png",
+      "ocr_txt": "ocr_page100.txt"
+    },
+    {
+      "n": 101,
+      "png": "math_p2.page101.png",
+      "ocr_txt": "ocr_page101.txt"
+    },
+    {
+      "n": 102,
+      "png": "math_p2.page102.png",
+      "ocr_txt": "ocr_page102.txt"
+    },
+    {
+      "n": 103,
+      "png": "math_p2.page103.png",
+      "ocr_txt": "ocr_page103.txt"
+    },
+    {
+      "n": 104,
+      "png": "math_p2.page104.png",
+      "ocr_txt": "ocr_page104.txt"
+    },
+    {
+      "n": 105,
+      "png": "math_p2.page105.png",
+      "ocr_txt": "ocr_page105.txt"
+    },
+    {
+      "n": 106,
+      "png": "math_p2.page106.png",
+      "ocr_txt": "ocr_page106.txt"
+    },
+    {
+      "n": 107,
+      "png": "math_p2.page107.png",
+      "ocr_txt": "ocr_page107.txt"
+    },
+    {
+      "n": 108,
+      "png": "math_p2.page108.png",
+      "ocr_txt": "ocr_page108.txt"
+    },
+    {
+      "n": 109,
+      "png": "math_p2.page109.png",
+      "ocr_txt": "ocr_page109.txt"
+    },
+    {
+      "n": 110,
+      "png": "math_p2.page110.png",
+      "ocr_txt": "ocr_page110.txt"
+    },
+    {
+      "n": 111,
+      "png": "math_p2.page111.png",
+      "ocr_txt": "ocr_page111.txt"
+    },
+    {
+      "n": 112,
+      "png": "math_p2.page112.png",
+      "ocr_txt": "ocr_page112.txt"
+    },
+    {
+      "n": 113,
+      "png": "math_p2.page113.png",
+      "ocr_txt": "ocr_page113.txt"
+    },
+    {
+      "n": 114,
+      "png": "math_p2.page114.png",
+      "ocr_txt": "ocr_page114.txt"
+    },
+    {
+      "n": 115,
+      "png": "math_p2.page115.png",
+      "ocr_txt": "ocr_page115.txt"
+    },
+    {
+      "n": 116,
+      "png": "math_p2.page116.png",
+      "ocr_txt": "ocr_page116.txt"
+    },
+    {
+      "n": 117,
+      "png": "math_p2.page117.png",
+      "ocr_txt": "ocr_page117.txt"
+    },
+    {
+      "n": 118,
+      "png": "math_p2.page118.png",
+      "ocr_txt": "ocr_page118.txt"
+    },
+    {
+      "n": 119,
+      "png": "math_p2.page119.png",
+      "ocr_txt": "ocr_page119.txt"
+    },
+    {
+      "n": 120,
+      "png": "math_p2.page120.png",
+      "ocr_txt": "ocr_page120.txt"
+    },
+    {
+      "n": 121,
+      "png": "math_p2.page121.png",
+      "ocr_txt": "ocr_page121.txt"
+    },
+    {
+      "n": 122,
+      "png": "math_p2.page122.png",
+      "ocr_txt": "ocr_page122.txt"
+    },
+    {
+      "n": 123,
+      "png": "math_p2.page123.png",
+      "ocr_txt": "ocr_page123.txt"
+    },
+    {
+      "n": 124,
+      "png": "math_p2.page124.png",
+      "ocr_txt": "ocr_page124.txt"
+    },
+    {
+      "n": 125,
+      "png": "math_p2.page125.png",
+      "ocr_txt": "ocr_page125.txt"
+    },
+    {
+      "n": 126,
+      "png": "math_p2.page126.png",
+      "ocr_txt": "ocr_page126.txt"
+    },
+    {
+      "n": 127,
+      "png": "math_p2.page127.png",
+      "ocr_txt": "ocr_page127.txt"
+    },
+    {
+      "n": 128,
+      "png": "math_p2.page128.png",
+      "ocr_txt": "ocr_page128.txt"
+    },
+    {
+      "n": 129,
+      "png": "math_p2.page129.png",
+      "ocr_txt": "ocr_page129.txt"
+    },
+    {
+      "n": 130,
+      "png": "math_p2.page130.png",
+      "ocr_txt": "ocr_page130.txt"
+    },
+    {
+      "n": 131,
+      "png": "math_p2.page131.png",
+      "ocr_txt": "ocr_page131.txt"
+    },
+    {
+      "n": 132,
+      "png": "math_p2.page132.png",
+      "ocr_txt": "ocr_page132.txt"
+    },
+    {
+      "n": 133,
+      "png": "math_p2.page133.png",
+      "ocr_txt": "ocr_page133.txt"
+    },
+    {
+      "n": 134,
+      "png": "math_p2.page134.png",
+      "ocr_txt": "ocr_page134.txt"
+    },
+    {
+      "n": 135,
+      "png": "math_p2.page135.png",
+      "ocr_txt": "ocr_page135.txt"
+    },
+    {
+      "n": 136,
+      "png": "math_p2.page136.png",
+      "ocr_txt": "ocr_page136.txt"
+    },
+    {
+      "n": 137,
+      "png": "math_p2.page137.png",
+      "ocr_txt": "ocr_page137.txt"
+    },
+    {
+      "n": 138,
+      "png": "math_p2.page138.png",
+      "ocr_txt": "ocr_page138.txt"
+    },
+    {
+      "n": 139,
+      "png": "math_p2.page139.png",
+      "ocr_txt": "ocr_page139.txt"
+    },
+    {
+      "n": 140,
+      "png": "math_p2.page140.png",
+      "ocr_txt": "ocr_page140.txt"
+    },
+    {
+      "n": 141,
+      "png": "math_p2.page141.png",
+      "ocr_txt": "ocr_page141.txt"
+    },
+    {
+      "n": 142,
+      "png": "math_p2.page142.png",
+      "ocr_txt": "ocr_page142.txt"
+    },
+    {
+      "n": 143,
+      "png": "math_p2.page143.png",
+      "ocr_txt": "ocr_page143.txt"
+    },
+    {
+      "n": 144,
+      "png": "math_p2.page144.png",
+      "ocr_txt": "ocr_page144.txt"
+    },
+    {
+      "n": 145,
+      "png": "math_p2.page145.png",
+      "ocr_txt": "ocr_page145.txt"
+    },
+    {
+      "n": 146,
+      "png": "math_p2.page146.png",
+      "ocr_txt": "ocr_page146.txt"
+    },
+    {
+      "n": 147,
+      "png": "math_p2.page147.png",
+      "ocr_txt": "ocr_page147.txt"
+    },
+    {
+      "n": 148,
+      "png": "math_p2.page148.png",
+      "ocr_txt": "ocr_page148.txt"
+    },
+    {
+      "n": 149,
+      "png": "math_p2.page149.png",
+      "ocr_txt": "ocr_page149.txt"
+    },
+    {
+      "n": 150,
+      "png": "math_p2.page150.png",
+      "ocr_txt": "ocr_page150.txt"
+    },
+    {
+      "n": 151,
+      "png": "math_p2.page151.png",
+      "ocr_txt": "ocr_page151.txt"
+    },
+    {
+      "n": 152,
+      "png": "math_p2.page152.png",
+      "ocr_txt": "ocr_page152.txt"
+    },
+    {
+      "n": 153,
+      "png": "math_p2.page153.png",
+      "ocr_txt": "ocr_page153.txt"
+    },
+    {
+      "n": 154,
+      "png": "math_p2.page154.png",
+      "ocr_txt": "ocr_page154.txt"
+    },
+    {
+      "n": 155,
+      "png": "math_p2.page155.png",
+      "ocr_txt": "ocr_page155.txt"
+    },
+    {
+      "n": 156,
+      "png": "math_p2.page156.png",
+      "ocr_txt": "ocr_page156.txt"
+    },
+    {
+      "n": 157,
+      "png": "math_p2.page157.png",
+      "ocr_txt": "ocr_page157.txt"
+    },
+    {
+      "n": 158,
+      "png": "math_p2.page158.png",
+      "ocr_txt": "ocr_page158.txt"
+    },
+    {
+      "n": 159,
+      "png": "math_p2.page159.png",
+      "ocr_txt": "ocr_page159.txt"
+    },
+    {
+      "n": 160,
+      "png": "math_p2.page160.png",
+      "ocr_txt": "ocr_page160.txt"
+    },
+    {
+      "n": 161,
+      "png": "math_p2.page161.png",
+      "ocr_txt": "ocr_page161.txt"
+    },
+    {
+      "n": 162,
+      "png": "math_p2.page162.png",
+      "ocr_txt": "ocr_page162.txt"
+    },
+    {
+      "n": 163,
+      "png": "math_p2.page163.png",
+      "ocr_txt": "ocr_page163.txt"
+    },
+    {
+      "n": 164,
+      "png": "math_p2.page164.png",
+      "ocr_txt": "ocr_page164.txt"
+    },
+    {
+      "n": 165,
+      "png": "math_p2.page165.png",
+      "ocr_txt": "ocr_page165.txt"
+    },
+    {
+      "n": 166,
+      "png": "math_p2.page166.png",
+      "ocr_txt": "ocr_page166.txt"
+    },
+    {
+      "n": 167,
+      "png": "math_p2.page167.png",
+      "ocr_txt": "ocr_page167.txt"
+    },
+    {
+      "n": 168,
+      "png": "math_p2.page168.png",
+      "ocr_txt": "ocr_page168.txt"
+    },
+    {
+      "n": 169,
+      "png": "math_p2.page169.png",
+      "ocr_txt": "ocr_page169.txt"
+    },
+    {
+      "n": 170,
+      "png": "math_p2.page170.png",
+      "ocr_txt": "ocr_page170.txt"
+    },
+    {
+      "n": 171,
+      "png": "math_p2.page171.png",
+      "ocr_txt": "ocr_page171.txt"
+    },
+    {
+      "n": 172,
+      "png": "math_p2.page172.png",
+      "ocr_txt": "ocr_page172.txt"
+    },
+    {
+      "n": 173,
+      "png": "math_p2.page173.png",
+      "ocr_txt": "ocr_page173.txt"
+    },
+    {
+      "n": 174,
+      "png": "math_p2.page174.png",
+      "ocr_txt": "ocr_page174.txt"
+    },
+    {
+      "n": 175,
+      "png": "math_p2.page175.png",
+      "ocr_txt": "ocr_page175.txt"
+    },
+    {
+      "n": 176,
+      "png": "math_p2.page176.png",
+      "ocr_txt": "ocr_page176.txt"
+    },
+    {
+      "n": 177,
+      "png": "math_p2.page177.png",
+      "ocr_txt": "ocr_page177.txt"
+    },
+    {
+      "n": 178,
+      "png": "math_p2.page178.png",
+      "ocr_txt": "ocr_page178.txt"
+    },
+    {
+      "n": 179,
+      "png": "math_p2.page179.png",
+      "ocr_txt": "ocr_page179.txt"
+    },
+    {
+      "n": 180,
+      "png": "math_p2.page180.png",
+      "ocr_txt": "ocr_page180.txt"
+    },
+    {
+      "n": 181,
+      "png": "math_p2.page181.png",
+      "ocr_txt": "ocr_page181.txt"
+    },
+    {
+      "n": 182,
+      "png": "math_p2.page182.png",
+      "ocr_txt": "ocr_page182.txt"
+    },
+    {
+      "n": 183,
+      "png": "math_p2.page183.png",
+      "ocr_txt": "ocr_page183.txt"
+    },
+    {
+      "n": 184,
+      "png": "math_p2.page184.png",
+      "ocr_txt": "ocr_page184.txt"
+    },
+    {
+      "n": 185,
+      "png": "math_p2.page185.png",
+      "ocr_txt": "ocr_page185.txt"
+    },
+    {
+      "n": 186,
+      "png": "math_p2.page186.png",
+      "ocr_txt": "ocr_page186.txt"
+    },
+    {
+      "n": 187,
+      "png": "math_p2.page187.png",
+      "ocr_txt": "ocr_page187.txt"
+    },
+    {
+      "n": 188,
+      "png": "math_p2.page188.png",
+      "ocr_txt": "ocr_page188.txt"
+    },
+    {
+      "n": 189,
+      "png": "math_p2.page189.png",
+      "ocr_txt": "ocr_page189.txt"
+    },
+    {
+      "n": 190,
+      "png": "math_p2.page190.png",
+      "ocr_txt": "ocr_page190.txt"
+    },
+    {
+      "n": 191,
+      "png": "math_p2.page191.png",
+      "ocr_txt": "ocr_page191.txt"
+    },
+    {
+      "n": 192,
+      "png": "math_p2.page192.png",
+      "ocr_txt": "ocr_page192.txt"
+    },
+    {
+      "n": 193,
+      "png": "math_p2.page193.png",
+      "ocr_txt": "ocr_page193.txt"
+    },
+    {
+      "n": 194,
+      "png": "math_p2.page194.png",
+      "ocr_txt": "ocr_page194.txt"
+    },
+    {
+      "n": 195,
+      "png": "math_p2.page195.png",
+      "ocr_txt": "ocr_page195.txt"
+    },
+    {
+      "n": 196,
+      "png": "math_p2.page196.png",
+      "ocr_txt": "ocr_page196.txt"
+    },
+    {
+      "n": 197,
+      "png": "math_p2.page197.png",
+      "ocr_txt": "ocr_page197.txt"
+    },
+    {
+      "n": 198,
+      "png": "math_p2.page198.png",
+      "ocr_txt": "ocr_page198.txt"
+    },
+    {
+      "n": 199,
+      "png": "math_p2.page199.png",
+      "ocr_txt": "ocr_page199.txt"
+    },
+    {
+      "n": 200,
+      "png": "math_p2.page200.png",
+      "ocr_txt": "ocr_page200.txt"
+    },
+    {
+      "n": 201,
+      "png": "math_p2.page201.png",
+      "ocr_txt": "ocr_page201.txt"
+    },
+    {
+      "n": 202,
+      "png": "math_p2.page202.png",
+      "ocr_txt": "ocr_page202.txt"
+    },
+    {
+      "n": 203,
+      "png": "math_p2.page203.png",
+      "ocr_txt": "ocr_page203.txt"
+    },
+    {
+      "n": 204,
+      "png": "math_p2.page204.png",
+      "ocr_txt": "ocr_page204.txt"
+    },
+    {
+      "n": 205,
+      "png": "math_p2.page205.png",
+      "ocr_txt": "ocr_page205.txt"
+    },
+    {
+      "n": 206,
+      "png": "math_p2.page206.png",
+      "ocr_txt": "ocr_page206.txt"
+    },
+    {
+      "n": 207,
+      "png": "math_p2.page207.png",
+      "ocr_txt": "ocr_page207.txt"
+    },
+    {
+      "n": 208,
+      "png": "math_p2.page208.png",
+      "ocr_txt": "ocr_page208.txt"
+    },
+    {
+      "n": 209,
+      "png": "math_p2.page209.png",
+      "ocr_txt": "ocr_page209.txt"
+    },
+    {
+      "n": 210,
+      "png": "math_p2.page210.png",
+      "ocr_txt": "ocr_page210.txt"
+    },
+    {
+      "n": 211,
+      "png": "math_p2.page211.png",
+      "ocr_txt": "ocr_page211.txt"
+    },
+    {
+      "n": 212,
+      "png": "math_p2.page212.png",
+      "ocr_txt": "ocr_page212.txt"
+    },
+    {
+      "n": 213,
+      "png": "math_p2.page213.png",
+      "ocr_txt": "ocr_page213.txt"
+    },
+    {
+      "n": 214,
+      "png": "math_p2.page214.png",
+      "ocr_txt": "ocr_page214.txt"
+    },
+    {
+      "n": 215,
+      "png": "math_p2.page215.png",
+      "ocr_txt": "ocr_page215.txt"
+    },
+    {
+      "n": 216,
+      "png": "math_p2.page216.png",
+      "ocr_txt": "ocr_page216.txt"
+    },
+    {
+      "n": 217,
+      "png": "math_p2.page217.png",
+      "ocr_txt": "ocr_page217.txt"
+    },
+    {
+      "n": 218,
+      "png": "math_p2.page218.png",
+      "ocr_txt": "ocr_page218.txt"
+    },
+    {
+      "n": 219,
+      "png": "math_p2.page219.png",
+      "ocr_txt": "ocr_page219.txt"
+    },
+    {
+      "n": 220,
+      "png": "math_p2.page220.png",
+      "ocr_txt": "ocr_page220.txt"
+    },
+    {
+      "n": 221,
+      "png": "math_p2.page221.png",
+      "ocr_txt": "ocr_page221.txt"
+    },
+    {
+      "n": 222,
+      "png": "math_p2.page222.png",
+      "ocr_txt": "ocr_page222.txt"
+    },
+    {
+      "n": 223,
+      "png": "math_p2.page223.png",
+      "ocr_txt": "ocr_page223.txt"
+    },
+    {
+      "n": 224,
+      "png": "math_p2.page224.png",
+      "ocr_txt": "ocr_page224.txt"
+    },
+    {
+      "n": 225,
+      "png": "math_p2.page225.png",
+      "ocr_txt": "ocr_page225.txt"
+    },
+    {
+      "n": 226,
+      "png": "math_p2.page226.png",
+      "ocr_txt": "ocr_page226.txt"
+    },
+    {
+      "n": 227,
+      "png": "math_p2.page227.png",
+      "ocr_txt": "ocr_page227.txt"
+    },
+    {
+      "n": 228,
+      "png": "math_p2.page228.png",
+      "ocr_txt": "ocr_page228.txt"
+    },
+    {
+      "n": 229,
+      "png": "math_p2.page229.png",
+      "ocr_txt": "ocr_page229.txt"
+    },
+    {
+      "n": 230,
+      "png": "math_p2.page230.png",
+      "ocr_txt": "ocr_page230.txt"
+    },
+    {
+      "n": 231,
+      "png": "math_p2.page231.png",
+      "ocr_txt": "ocr_page231.txt"
+    },
+    {
+      "n": 232,
+      "png": "math_p2.page232.png",
+      "ocr_txt": "ocr_page232.txt"
+    },
+    {
+      "n": 233,
+      "png": "math_p2.page233.png",
+      "ocr_txt": "ocr_page233.txt"
+    },
+    {
+      "n": 234,
+      "png": "math_p2.page234.png",
+      "ocr_txt": "ocr_page234.txt"
+    },
+    {
+      "n": 235,
+      "png": "math_p2.page235.png",
+      "ocr_txt": "ocr_page235.txt"
+    },
+    {
+      "n": 236,
+      "png": "math_p2.page236.png",
+      "ocr_txt": "ocr_page236.txt"
+    },
+    {
+      "n": 237,
+      "png": "math_p2.page237.png",
+      "ocr_txt": "ocr_page237.txt"
+    },
+    {
+      "n": 238,
+      "png": "math_p2.page238.png",
+      "ocr_txt": "ocr_page238.txt"
+    }
+  ],
+  "figures": [],
+  "captions": [],
+  "pk": {
+    "version": 1,
+    "mode": "hard",
+    "doc": "math_p2",
+    "sha256": "d4cbfeed3a18370cb7e1a256da6fa7de722982ad7f6a146b4fc0fe14a6bebf6c",
+    "pages": 238,
+    "signature_text": "PK_BYPASS_SIG_ȺⱦⱤƗ_<doc=math_p2>_<sha=d4cbfeed>_<fp=003084648275>",
+    "fingerprint": "003084648275",
+    "unicode_tokens": [
+      "Ⱥ",
+      "ⱦ",
+      "Ɽ",
+      "Ɨ"
+    ],
+    "sync_interval_chars": 2500,
+    "page_anchor_format": "<!-- PK PAGE doc=<doc> n=NN/NN fp=<fp> -->",
+    "fences": {
+      "start": "<!-- PK START ... -->",
+      "end": "<!-- PK END ... -->"
+    }
+  },
+  "created_at": "2025-09-30T17:48:20.593Z"
+}

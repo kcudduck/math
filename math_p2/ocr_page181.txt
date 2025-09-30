@@ -1,0 +1,42 @@
+7 THE SCHWARZSCHILD SOLUTION AND BLACK HOLES 174
+The two remaining Killing vectors correspond to energy and the magnitude of angular mo-
+mentum. The energy arises from the timelike Killing vector K = 9y, or
+2GM
+K, = <7 (1 - 7—) ,0,0,0) . (7.41)
+The Killing vector whose conserved quantity is the magnitude of the angular momentum is
+L = 0y, or
+L, = (o,o,o,ﬂsm2 9) . (7.42)
+Since (7.40) implies that sinf = 1 along the geodesics of interest to us, the two conserved
+quantities are
+2GMN dt
+1-— ) —~=F, 7.43
+( r > dA (7.43)
+and "
+2
+—=1L. 7.44
+[y (7.44)
+For massless particles these can be thought of as the energy and angular momentum; for
+massive particles they are the energy and angular momentum per unit mass of the particle.
+Note that the constancy of (7.44) is the GR equivalent of Kepler’s second law (equal areas
+are swept out in equal times).
+
+Together these conserved quantities provide a convenient way to understand the orbits of
+particles in the Schwarzschild geometry. Let us expand the expression (7.39) for € to obtain
+2GM Y [ dt? 2GM\ ' (dr)? g\’
+
+(=) (= [ — — 222} = —¢. 7.45
+( - )(dA) *( - ) (dx\) T\ ‘ (7.43)
+If we multiply this by (1 — 2GM/r) and use our expressions for £ and L, we obtain
+By (r 2 + (1 —QGM> L, 0 (7.46)
+— — - — +€]=0. .
+d\ r r?
+This is certainly progress, since we have taken a messy system of coupled equations and
+obtained a single equation for r(\). It looks even nicer if we rewrite it as
+1(ar)? 1
+Sl ) +V)=sF? 7.47
+5 (3) +vor - 3e. (7.47)
+where 1 GM [* GMIL?
+V(T) = 56 - 6—/’. + ﬁ - —7'3 . (7'48)
+In (7.47) we have precisely the equation for a classical particle of unit mass and “energy”
+%Ez moving in a one-dimensional potential given by V(r). (The true energy per unit mass
+is E, but the effective potential for the coordinate r responds to %EQ)

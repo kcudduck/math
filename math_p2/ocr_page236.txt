@@ -1,0 +1,43 @@
+8 COSMOLOGY 229
+where |V|2 = g;;V'V7. So (8.61) implies
+- K
+Vi=—. 8.64
+7=~ (3.64)
+The particle therefore “slows down” with respect to the comoving coordinates as the universe
+expands. In fact this is an actual slowing down, in the sense that a gas of particles with
+initially high relative velocities will cool down as the universe expands.
+A similar thing happens to null geodesics. In this case V,V# = 0, and (8.62) implies
+K
+UVt =—. (8.65)
+a
+But the frequency of the photon as measured by a comoving observer is w = —U,V#. The
+frequency of the photon emitted with frequency w; will therefore be observed with a lower
+frequency wy as the universe expands:
+) a
+L2 (8.66)
+w1 ao
+Cosmologists like to speak of this in terms of the redshift z between the two events, defined
+by the fractional change in wavelength:
+)\0 - )\1
+z = —
+AL
+)
+= ——1. 8.67
+w (5.67)
+Notice that this redshift is not the same as the conventional Doppler effect; it is the expansion
+of space, not the relative velocities of the observer and emitter, which leads to the redshift.
+The redshift is something we can measure; we know the rest-frame wavelengths of various
+spectral lines in the radiation from distant galaxies, so we can tell how much their wavelengths
+have changed along the path from time ¢, when they were emitted to time ¢, when they were
+observed. We therefore know the ratio of the scale factors at these two times. But we don’t
+know the times themselves; the photons are not clever enough to tell us how much coordinate
+time has elapsed on their journey. We have to work harder to extract this information.
+Roughly speaking, since a photon moves at the speed of light its travel time should simply
+be its distance. But what is the “distance” of a far away galaxy in an expanding universe?
+The comoving distance is not especially useful, since it is not measurable, and furthermore
+because the galaxies need not be comoving in general. Instead we can define the luminosity
+distance as I
+di = — 8.68
+L ArF ) ( )
+where L is the absolute luminosity of the source and F' is the flux measured by the observer
+(the energy per unit time per unit area of some detector). The definition comes from the

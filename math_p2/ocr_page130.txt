@@ -1,0 +1,42 @@
+4 GRAVITATION 123
+of the spacelike components of the metric g;;|; and their first time derivatives 0g;j|s. on the
+hypersurface ¥, from which we can determine the future evolution using (4.83), up to an
+unavoidable ambiguity in fixing the remaining components gp,. The situation is precisely
+analogous to that in electromagnetism, where we know that no amount of initial data can
+suffice to determine the evolution uniquely since there will always be the freedom to perform a
+gauge transformation A, — A,+09,\. In general relativity, then, coordinate transformations
+play a role reminiscent of gauge transformations in electromagnetism, in that they introduce
+ambiguity into the time evolution.
+
+One way to cope with this problem is to simply “choose a gauge.” In electromagnetism
+this means to place a condition on the vector potential A,, which will restrict our freedom
+to perform gauge transformations. For example we can choose Lorentz gauge, in which
+VA" = 0, or temporal gauge, in which Ay = 0. We can do a similar thing in general
+relativity, by fixing our coordinate system. A popular choice is harmonic gauge (also
+known as Lorentz gauge and a host of other names), in which
+
+Ozt =0. (4.84)
+Here O = V#V,, is the covariant D’Alembertian, and it is crucial to realize when we take
+the covariant derivative that the four functions z* are just functions, not components of a
+vector. This condition is therefore simply
+0 = 0Oz
+= ¢70,0,2" — g”"F?maA:L‘“
+A
+= —g"T;, . (4.85)
+In flat space, of course, Cartesian coordinates (in which F;‘U = 0) are harmonic coordi-
+nates. (As a general principle, any function f which satisfies Of = 0 is called an “harmonic
+function.”)
+
+To see that this choice of coordinates successfully fixes our gauge freedom, let’s rewrite
+
+the condition (4.84) in a somewhat simpler form. We have
+PO 1 POV
+g szr = 5.9 g (8;7961/ + aagvp - Q,QPU) ) (486)
+from the definition of the Christoffel symbols. Meanwhile, from 9,(g"g,,) = 9,04 = 0 we
+have
+
+9" 0o = —Gor0pg"" . (4.87)
+Also, from our previous exploration of the variation of the determinant of the metric (4.65),
+
+we have 1 1
+igpzravgpa = 7\/7—!] 8x/\/ -9 - (488)

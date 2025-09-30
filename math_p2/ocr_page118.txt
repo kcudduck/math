@@ -1,0 +1,32 @@
+4 GRAVITATION 111
+form of a symmetric and conserved (0, 2) tensor, while the left-hand side is a symmetric and
+conserved (0,2) tensor constructed from the metric and its first and second derivatives. It
+only remains to see whether it actually reproduces gravity as we know it.
+To answer this, note that contracting both sides of (4.43) yields (in four dimensions)
+R=—xT, (4.44)
+and using this we can rewrite (4.43) as
+1
+R = k(T — 5Tgu,,) . (4.45)
+This is the same equation, just written slightly differently. We would like to see if it predicts
+Newtonian gravity in the weak-field, time-independent, slowly-moving-particles limit. In
+this limit the rest energy p = Ty will be much larger than the other terms in 7}, so we
+want to focus on the u = 0, ¥ = 0 component of (4.45). In the weak-field limit, we write (in
+accordance with (4.13) and (4.14))
+goo = —1+hoo,
+g° = —1—hey . (4.46)
+The trace of the energy-momentum tensor, to lowest nontrivial order, is
+T = ¢"To = —Too - (4.47)
+Plugging this into (4.45), we get
+1
+This is an equation relating derivatives of the metric to the energy density. To find the
+explicit expression in terms of the metric, we need to evaluate Ry = Roxo. In fact we only
+need Ry, since R%o = 0. We have
+Rigjo = 9;Thy — Aol + Ti\Ioy — Thaly - (4.49)
+The second term here is a time derivative, which vanishes for static fields. The third and
+fourth terms are of the form (I')2, and since I is first-order in the metric perturbation these
+contribute only at second order, and can be neglected. We are left with Rgjo = 9,I'%. From
+this we get
+Roo = Rimol
+= 0 (§9M(309A0 + dogox — 8)\900))
+1 ..
+= *577”81'3]'7100

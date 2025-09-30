@@ -1,0 +1,38 @@
+December 1997 Lecture Notes on General Relativity Sean M. Carroll
+4 Gravitation
+
+Having paid our mathematical dues, we are now prepared to examine the physics of gravita-
+tion as described by general relativity. This subject falls naturally into two pieces: how the
+curvature of spacetime acts on matter to manifest itself as “gravity”, and how energy and
+momentum influence spacetime to create curvature. In either case it would be legitimate
+to start at the top, by stating outright the laws governing physics in curved spacetime and
+working out their consequences. Instead, we will try to be a little more motivational, starting
+with basic physical principles and attempting to argue that these lead naturally to an almost
+unique physical theory.
+
+The most basic of these physical principles is the Principle of Equivalence, which comes
+in a variety of forms. The earliest form dates from Galileo and Newton, and is known as
+the Weak Equivalence Principle, or WEP. The WEP states that the “inertial mass” and
+“gravitational mass” of any object are equal. To see what this means, think about Newton’s
+Second Law. This relates the force exerted on an object to the acceleration it undergoes,
+setting them proportional to each other with the constant of proportionality being the inertial
+mass m;:
+
+f=ma. (4.1)
+The inertial mass clearly has a universal character, related to the resistance you feel when
+you try to push on the object; it is the same constant no matter what kind of force is being
+exerted. We also have the law of gravitation, which states that the gravitational force exerted
+on an object is proportional to the gradient of a scalar field ®, known as the gravitational
+potential. The constant of proportionality in this case is called the gravitational mass my:
+fy=-m,Vo . (4.2)
+On the face of it, m, has a very different character than m;; it is a quantity specific to the
+gravitational force. If you like, it is the “gravitational charge” of the body. Nevertheless,
+Galileo long ago showed (apocryphally by dropping weights off of the Leaning Tower of Pisa,
+actually by rolling balls down inclined planes) that the response of matter to gravitation was
+universal — every object falls at the same rate in a gravitational field, independent of the
+composition of the object. In Newtonian mechanics this translates into the WEP, which is
+simply
+m; =my (4.3)
+for any object. An immediate consequence is that the behavior of freely-falling test particles
+is universal, independent of their mass (or any other qualities they may have); in fact we
+97

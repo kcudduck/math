@@ -1,0 +1,37 @@
+8 COSMOLOGY 220
+describe a non-simply-connected compact space (so “open” is really not the most accurate
+description).
+With the metric in hand, we can set about computing the connection coefficients and
+curvature tensor. Setting a = da/dt, the Christoffel symbols are given by
+Y, = % Y% = aar? Y, = aar?sin® 6
+1 1 2 2 3 3 _ 0
+Top = Tio=To =T =T =T3 = a
+Iy, = —r(1—k?) F;1531= —r(1 — kr?)sin®0
+FfQ = F§1 :Fﬁ:Fgl = T
+I3, = —sinfcosd I3 =T3 =coth. (8.12)
+The nonzero components of the Ricci tensor are
+a
+Ry = —-3-
+ad + 2a° +
+Bu = ———5—
+o1 —kr?
+Ry = 7r%(ad +2a* + 2k)
+Rss = r%(ai + 2a® + 2k) sin® 6 , (8.13)
+and the Ricci scalar is then 6
+R:E(adererk). (8.14)
+The universe is not empty, so we are not interested in vacuum solutions to Einstein’s
+equations. We will choose to model the matter and energy in the universe by a perfect
+fluid. We discussed perfect fluids in Section One, where they were defined as fluids which
+are isotropic in their rest frame. The energy-momentum tensor for a perfect fluid can be
+written
+TNV = (p + p)UuUu +pguu ) (815)
+where p and p are the energy density and pressure (respectively) as measured in the rest
+frame, and U* is the four-velocity of the fluid. It is clear that, if a fluid which is isotropic in
+some frame leads to a metric which is isotropic in some frame, the two frames will coincide;
+that is, the fluid will be at rest in comoving coordinates. The four-velocity is then
+U* =(1,0,0,0) , (8.16)
+and the energy-momentum tensor is
+p 0 0 O
+T = 0 . (8.17)
+0 9ijp
+0

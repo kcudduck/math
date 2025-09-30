@@ -1,0 +1,30 @@
+3 CURVATURE 72
+f timelike
+_— null
+
+As we increase the number of sharp corners, the null curve comes closer and closer to the
+timelike curve while still having zero path length. Timelike geodesics cannot therefore be
+curves of minimum proper time, since they are always infinitesimally close to curves of zero
+proper time; in fact they maximize the proper time. (This is how you can remember which
+twin in the twin paradox ages more — the one who stays home is basically on a geodesic,
+and therefore experiences more proper time.) Of course even this is being a little cavalier;
+actually every time we say “maximize” or “minimize” we should add the modifier “locally.”
+It is often the case that between two points on a manifold there is more than one geodesic.
+For instance, on S? we can draw a great circle through any two points, and imagine travelling
+between them either the short way or the long way around. One of these is obviously longer
+than the other, although both are stationary points of the length functional.
+
+The final fact about geodesics before we move on to curvature proper is their use in
+mapping the tangent space at a point p to a local neighborhood of p. To do this we notice
+that any geodesic #(\) which passes through p can be specified by its behavior at p; let us
+choose the parameter value to be A(p) = 0, and the tangent vector at p to be
+
+dxt
+— A =0)=k", 3.60
+=)=k, (360)
+for k" some vector at p (some element of T),). Then there will be a unique point on the
+manifold M which lies on this geodesic where the parameter has the value A = 1. We define
+the exponential map at p, exp, : T;, — M, via
+exp, (k) =2"(A =1), (3.61)
+where a”()) solves the geodesic equation subject to (3.60). For some set of tangent vectors
+k* near the zero vector, this map will be well-defined, and in fact invertible. Thus in the

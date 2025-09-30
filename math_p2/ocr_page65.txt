@@ -1,0 +1,41 @@
+3 CURVATURE 58
+The two extra conditions we have imposed therefore allow us to express the covariant deriva-
+tive of a one-form using the same connection coefficients as were used for the vector, but
+now with a minus sign (and indices matched up somewhat differently):
+
+V,wy, = 0w, — Ff;,,w)\ . (3.12)
+
+It should come as no surprise that the connection coefficients encode all of the information
+necessary to take the covariant derivative of a tensor of arbitrary rank. The formula is quite
+straightforward; for each upper index you introduce a term with a single 4+I', and for each
+lower index a term with a single —1I":
+
+VUT’““Q”"‘*yl,,g...,,, — anguz-“/Lkylygmw
+U e s A
+=T, T2ty gy — T THHR e = (3.13)
+This is the general expression for the covariant derivative. You can check it yourself; it
+comes from the set of axioms we have established, and the usual requirements that tensors
+of various sorts be coordinate-independent entities. Sometimes an alternative notation is
+used; just as commas are used for partial derivatives, semicolons are used for covariant ones:
+Vb2 be iy = T2 o - (3.14)
+Once again, I'm not a big fan of this notation.
+
+To define a covariant derivative, then, we need to put a “connection” on our manifold,
+which is specified in some coordinate system by a set of coefficients I‘f;u (n® = 64 independent
+components in n = 4 dimensions) which transform according to (3.6). (The name “connec-
+tion” comes from the fact that it is used to transport vectors from one tangent space to
+another, as we will soon see.) There are evidently a large number of connections we could
+define on any manifold, and each of them implies a distinct notion of covariant differentia-
+tion. In general relativity this freedom is not a big concern, because it turns out that every
+metric defines a unique connection, which is the one used in GR. Let’s see how that works.
+
+The first thing to notice is that the difference of two connections is a (1,2) tensor. If
+we have two sets of connection coefficients, I'},, and I'),,, their difference S,,* =T, — '},
+(notice index placement) transforms as
+
+Ozt 9z OV Ot oxr o*zN  Oat 9a¥ 9V f o, Ot Oxt PN
+— aﬂ%%(p )
+
+Ozt Jav' Qur VM T
+
+Ax* dr” dr™ N

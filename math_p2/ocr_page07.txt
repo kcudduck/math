@@ -1,0 +1,29 @@
+vi
+
+o F. de Felice and C. Clarke, Relativity on Curved Manifolds (Cambridge, 1990) [***].
+A mathematical approach, but with an excellent emphasis on physically measurable
+quantities.
+
+e S. Hawking and G. Ellis, The Large-Scale Structure of Space-Time (Cambridge, 1973)
+[***]. An advanced book which emphasizes global techniques and singularity theorems.
+
+e R. Sachs and H. Wu, General Relativity for Mathematicians (Springer-Verlag, 1977)
+[***¥]. Just what the title says, although the typically dry mathematics prose style
+is here enlivened by frequent opinionated asides about both physics and mathematics
+(and the state of the world).
+
+e B. Schutz, Geometrical Methods of Mathematical Physics (Cambridge, 1980) [**].
+Another good book by Schutz, this one covering some mathematical points that are
+left out of the GR book (but at a very accessible level). Included are discussions of Lie
+derivatives, differential forms, and applications to physics other than GR.
+
+e V. Guillemin and A. Pollack, Differential Topology (Prentice-Hall, 1974) [**]. An
+entertaining survey of manifolds, topology, differential forms, and integration theory.
+
+e C. Nash and S. Sen, Topology and Geometry for Physicists (Academic Press, 1983)
+[**#*]. Includes homotopy, homology, fiber bundles and Morse theory, with applications
+to physics; somewhat concise.
+
+e F.W. Warner, Foundations of Differentiable Manifolds and Lie Groups (Springer-
+Verlag, 1983) [***]. The standard text in the field, includes basic topics such as
+manifolds and tensor fields as well as more advanced subjects.

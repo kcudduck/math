@@ -1,0 +1,36 @@
+7 THE SCHWARZSCHILD SOLUTION AND BLACK HOLES 185
+u
+7 4’ B
+r
+r=0 r=2GM
+event at > 2G M. Notice that the event horizon is a null surface, not a timelike one. Notice
+also that since nothing can escape the event horizon, it is impossible for us to “see inside”
+— thus the name black hole.
+
+Let’s consider what we have done. Acting under the suspicion that our coordinates may
+not have been good for the entire manifold, we have changed from our original coordinate ¢
+to the new one @, which has the nice property that if we decrease r along a radial curve null
+curve @ = constant, we go right through the event horizon without any problems. (Indeed, a
+local observer actually making the trip would not necessarily know when the event horizon
+had been crossed — the local geometry is no different than anywhere else.) We therefore
+conclude that our suspicion was correct and our initial coordinate system didn’t do a good
+job of covering the entire manifold. The region r < 2GM should certainly be included in
+our spacetime, since physical particles can easily reach there and pass through. However,
+there is no guarantee that we are finished; perhaps there are other directions in which we
+can extend our manifold.
+
+In fact there are. Notice that in the (@,r) coordinate system we can cross the event
+horizon on future-directed paths, but not on past-directed ones. This seems unreasonable,
+since we started with a time-independent solution. But we could have chosen ¢ instead of
+1, in which case the metric would have been
+
+ds* = — (1 - g) 3% — (dodr + drdd) + r2d9? . (7.72)
+Now we can once again pass through the event horizon, but this time only along past-directed
+curves.
+
+This is perhaps a surprise: we can consistently follow either future-directed or past-
+directed curves through r = 2GM, but we arrive at different places. It was actually to be
+expected, since from the definitions (7.68), if we keep @ constant and decrease r we must
+have ¢t — o0, while if we keep ¥ constant and decrease r we must have t — —oo. (The
+tortoise coordinate r* goes to —oo as r — 2GM.) So we have extended spacetime in two
+different directions, one to the future and one to the past.

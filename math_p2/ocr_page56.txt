@@ -1,0 +1,36 @@
+2 MANIFOLDS 49
+2
+ds
+de —
+|
+sin© d¢
+
+is more subtle than having the metric depend on the coordinates, since in the example above
+we showed how the metric in flat Euclidean space in spherical coordinates is a function of r
+and 0. Later, we shall see that constancy of the metric components is sufficient for a space
+to be flat, and in fact there always exists a coordinate system on any flat space in which
+the metric is constant. But we might not want to work in such a coordinate system, and we
+might not even know how to find it; therefore we will want a more precise characterization
+of the curvature, which will be introduced down the road.
+
+A useful characterization of the metric is obtained by putting g, into its canonical
+form. In this form the metric components become
+
+gw = diag (—=1,—1,...,—1,+1,+1,...,4+1,0,0,...,0) , (2.34)
+
+where “diag” means a diagonal matrix with the given elements. If n is the dimension of
+the manifold, s is the number of +1’s in the canonical form, and ¢ is the number of —1’s,
+then s — t is the signature of the metric (the difference in the number of minus and plus
+signs), and s + ¢ is the rank of the metric (the number of nonzero eigenvalues). If a metric
+is continuous, the rank and signature of the metric tensor field are the same at every point,
+and if the metric is nondegenerate the rank is equal to the dimension n. We will always deal
+with continuous, nondegenerate metrics. If all of the signs are positive (¢ = 0) the metric
+is called Euclidean or Riemannian (or just “positive definite”), while if there is a single
+minus (¢ = 1) it is called Lorentzian or pseudo-Riemannian, and any metric with some
++1’s and some —1’s is called “indefinite.” (So the word “Euclidean” sometimes means that
+the space is flat, and sometimes doesn’t, but always means that the canonical form is strictly
+positive; the terminology is unfortunate but standard.) The spacetimes of interest in general
+relativity have Lorentzian metrics.
+
+We haven’t yet demonstrated that it is always possible to but the metric into canonical
+form. In fact it is always possible to do so at some point p € M, but in general it will

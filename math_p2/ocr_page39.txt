@@ -1,0 +1,23 @@
+2 MANIFOLDS 32
+e A Riemann surface of genus g is essentially a two-torus with g holes instead of just
+one. S? may be thought of as a Riemann surface of genus zero. For those of you who
+know what the words mean, every “compact orientable boundaryless” two-dimensional
+manifold is a Riemann surface of some genus.
+
+genus 0 genus 1 genus 2
+
+e More abstractly, a set of continuous transformations such as rotations in R™ forms a
+manifold. Lie groups are manifolds which also have a group structure.
+
+e The direct product of two manifolds is a manifold. That is, given manifolds M and
+M’ of dimension n and n’, we can construct a manifold M x M’ of dimension n + n’,
+consisting of ordered pairs (p,p’) for all p € M and p’ € M'.
+
+With all of these examples, the notion of a manifold may seem vacuous; what isn’t a
+manifold? There are plenty of things which are not manifolds, because somewhere they
+do not look locally like R™. Examples include a one-dimensional line running into a two-
+dimensional plane, and two cones stuck together at their vertices. (A single cone is okay;
+you can imagine smoothing out the vertex.)
+
+We will now approach the rigorous definition of this simple idea, which requires a number
+of preliminary definitions. Many of them are pretty clear anyway, but it’s nice to be complete.

@@ -1,0 +1,35 @@
+8 COSMOLOGY 225
+a(t)
+I
+Big W
+Bang 7 |
+P |
+P |
+- /\&F\ |
+== t
+H'Ol now
+The future evolution is different for different values of k. For the open and flat cases,
+k <0, (8.36) implies
+8rG .
+a? = /Tpaz + K| . (8.42)
+The right hand side is strictly positive (since we are assuming p > 0), so @ never passes
+through zero. Since we know that today a > 0, it must be positive for all time. Thus,
+the open and flat universes expand forever — they are temporally as well as spatially open.
+(Please keep in mind what assumptions go into this — namely, that there is a nonzero
+positive energy density. Negative energy density universes do not have to expand forever,
+even if they are “open”.)
+How fast do these universes keep expanding? Consider the quantity pa® (which is constant
+in matter-dominated universes). By the conservation of energy equation (8.20) we have
+d, 4 3 ( a
+—(pa®) = a +3 7)
+7P) p+3p
+= —3pa*a . (8.43)
+The right hand side is either zero or negative; therefore
+4 pa?) <0 (8.44)
+g pa) <0 .
+This implies in turn that pa? must go to zero in an ever-expanding universe, where a — co.
+Thus (8.42) tells us that
+a® — k| . (8.45)
+(Remember that this is true for k& < 0.) Thus, for k¥ = —1 the expansion approaches the
+limiting value @ — 1, while for & = 0 the universe keeps expanding, but more and more
+slowly.

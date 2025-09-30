@@ -1,0 +1,34 @@
+4 GRAVITATION 100
+existence of the gravitational field (in violation of the EEP). Such theories seem contrived,
+but there is no law of nature which forbids them.
+
+Sometimes a distinction is drawn between “gravitational laws of physics” and “non-
+gravitational laws of physics,” and the EEP is defined to apply only to the latter. Then
+one defines the “Strong Equivalence Principle” (SEP) to include all of the laws of physics,
+gravitational and otherwise. I don’t find this a particularly useful distinction, and won’t
+belabor it. For our purposes, the EEP (or simply “the principle of equivalence”) includes all
+of the laws of physics.
+
+It is the EEP which implies (or at least suggests) that we should attribute the action
+of gravity to the curvature of spacetime. Remember that in special relativity a prominent
+role is played by inertial frames — while it was not possible to single out some frame of
+reference as uniquely “at rest”, it was possible to single out a family of frames which were
+“unaccelerated” (inertial). The acceleration of a charged particle in an electromagnetic field
+was therefore uniquely defined with respect to these frames. The EEP, on the other hand,
+implies that gravity is inescapable — there is no such thing as a “gravitationally neutral
+object” with respect to which we can measure the acceleration due to gravity. It follows
+that “the acceleration due to gravity” is not something which can be reliably defined, and
+therefore is of little use.
+
+Instead, it makes more sense to define “unaccelerated” as “freely falling,” and that is
+what we shall do. This point of view is the origin of the idea that gravity is not a “force”
+— a force is something which leads to acceleration, and our definition of zero acceleration is
+“moving freely in the presence of whatever gravitational field happens to be around.”
+
+This seemingly innocuous step has profound implications for the nature of spacetime. In
+SR, we had a procedure for starting at some point and constructing an inertial frame which
+stretched throughout spacetime, by joining together rigid rods and attaching clocks to them.
+But, again due to inhomogeneities in the gravitational field, this is no longer possible. If
+we start in some freely-falling state and build a large structure out of rigid rods, at some
+distance away freely-falling objects will look like they are “accelerating” with respect to this
+reference frame, as shown in the figure on the next page.

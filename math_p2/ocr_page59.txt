@@ -1,0 +1,42 @@
+2 MANIFOLDS 52
+This is close to the tensor transformation law, except for the determinant out front. Objects
+which transform in this way are known as tensor densities. Another example is given by
+the determinant of the metric, g = |gu|. It's easy to check (by taking the determinant of
+both sides of (2.35)) that under a coordinate transformation we get
+ot |72
+oa#) =G| otat) (241
+Therefore ¢ is also not a tensor; it transforms in a way similar to the Levi-Civita symbol,
+except that the Jacobian is raised to the —2 power. The power to which the Jacobian is
+raised is known as the weight of the tensor density; the Levi-Civita symbol is a density of
+weight 1, while g is a (scalar) density of weight —2.
+
+However, we don’t like tensor densities, we like tensors. There is a simple way to convert
+a density into an honest tensor — multiply by |g|*/2, where w is the weight of the density
+(the absolute value signs are there because g < 0 for Lorentz metrics). The result will
+transform according to the tensor transformation law. Therefore, for example, we can define
+the Levi-Civita tensor as
+
+Cunpzsin = V19| Gz - (2.42)
+It is this tensor which is used in the definition of the Hodge dual, (1.87), which is otherwise
+unchanged when generalized to arbitrary manifolds. Since this is a real tensor, we can raise
+indices, etc. Sometimes people define a version of the Levi-Civita symbol with upper indices,
+etmmztin - whose components are numerically equal to the symbol with lower indices. This
+
+turns out to be a density of weight —1, and is related to the tensor with upper indices by
+eMh2in — gon(g) —— ethehn (2.43)
+
+Vgl
+
+As an aside, we should come clean and admit that, even with the factor of \/m the
+Levi-Civita tensor is in some sense not a true tensor, because on some manifolds it cannot
+be globally defined. Those on which it can be defined are called orientable, and we will
+deal exclusively with orientable manifolds in this course. An example of a non-orientable
+manifold is the Mobius strip; see Schutz’s Geometrical Methods in Mathematical Physics
+(or a similar text) for a discussion.
+
+One final appearance of tensor densities is in integration on manifolds. We will not do this
+subject justice, but at least a casual glance is necessary. You have probably been exposed
+to the fact that in ordinary calculus on R™ the volume element d"x picks up a factor of the
+Jacobian under change of coordinates:
+
+d"a' = ’%‘ d"z . (2.44)

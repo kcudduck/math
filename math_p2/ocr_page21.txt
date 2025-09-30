@@ -1,0 +1,42 @@
+1 SPECIAL RELATIVITY AND FLAT SPACETIME 14
+In a 4-dimensional spacetime there will be 4** basis tensors in all. In component notation
+we then write our arbitrary tensor as
+
+T =TM" M, e @ ® e @0 @ @4 . (1.48)
+Alternatively, we could define the components by acting the tensor on basis vectors and dual
+vectors:
+
+Tt = TOWD W) 6 Ey) (1.49)
+
+You can check for yourself, using (1.33) and so forth, that these equations all hang together
+properly.
+
+As with vectors, we will usually take the shortcut of denoting the tensor 7" by its com-
+ponents T+ #, . The action of the tensors on a set of vectors and dual vectors follows
+the pattern established in (1.35):
+
+TW, . . o® v y0) = T“l"'“’“,,l.“,,lell) X -wL’Z)Vu)”l R 40O (1.50)
+The order of the indices is obviously important, since the tensor need not act in the same way
+on its various arguments. Finally, the transformation of tensor components under Lorentz
+transformations can be derived by applying what we already know about the transformation
+of basis vectors and dual vectors. The answer is just what you would expect from index
+placement,
+T"'/l""‘;«,,i.“y[ = A“/lu1 . -A"’@F%A,,i”1 c AT (1.51)
+Thus, each upper index gets transformed like a vector, and each lower index gets transformed
+like a dual vector.
+
+Although we have defined tensors as linear maps from sets of vectors and tangent vectors
+to R, there is nothing that forces us to act on a full collection of arguments. Thus, a (1,1)
+tensor also acts as a map from vectors to vectors:
+
+™, : V¥ - TH, V" . (1.52)
+You can check for yourself that 7%, V" is a vector (i.e. obeys the vector transformation law).
+Similarly, we can act one tensor on (all or part of) another tensor to obtain a third tensor.
+For example,
+Uk, =T",5%,, (1.53)
+is a perfectly good (1,1) tensor.
+
+You may be concerned that this introduction to tensors has been somewhat too brief,
+given the esoteric nature of the material. In fact, the notion of tensors does not require a
+great deal of effort to master; it’s just a matter of keeping the indices straight, and the rules
+for manipulating them are very natural. Indeed, a number of books like to define tensors as

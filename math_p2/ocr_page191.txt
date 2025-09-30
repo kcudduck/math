@@ -1,0 +1,32 @@
+7 THE SCHWARZSCHILD SOLUTION AND BLACK HOLES 184
+t
+x X
+- ¥
+r=2GM
+*=- 0
+o= t—7", (7.68)
+then infalling radial null geodesics are characterized by @ = constant, while the outgoing
+ones satisfy © = constant. Now consider going back to the original radial coordinate r,
+but replacing the timelike coordinate ¢ with the new coordinate @. These are known as
+Eddington-Finkelstein coordinates. In terms of them the metric is
+2GM
+ds? = — (1 - —) da® + (dadr + drda) + r?dQ? . (7.69)
+r
+Here we see our first sign of real progress. Even though the metric coefficient gz; vanishes
+at r = 2GM, there is no real degeneracy; the determinant of the metric is
+g=—rtsin®6 , (7.70)
+which is perfectly regular at r = 2GM. Therefore the metric is invertible, and we see once
+and for all that » = 2G M is simply a coordinate singularity in our original (¢, r, 6, ¢) system.
+In the Eddington-Finkelstein coordinates the condition for radial null curves is solved by
+di 0, (infalling)
+P 26m\ 7L - (7.71)
+dr 2 (1 - T) . (outgoing)
+We can therefore see what has happened: in this coordinate system the light cones remain
+well-behaved at r = 2G'M, and this surface is at a finite coordinate value. There is no
+problem in tracing the paths of null or timelike particles past the surface. On the other
+hand, something interesting is certainly going on. Although the light cones don’t close up,
+they do tilt over, such that for r < 2GM all future-directed paths are in the direction of
+decreasing 7.
+The surface r = 2GM, while being locally perfectly regular, globally functions as a point
+of no return — once a test particle dips below it, it can never come back. For this reason
+r = 2GM is known as the event horizon; no event at r < 2GM can influence any other

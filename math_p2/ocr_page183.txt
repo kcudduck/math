@@ -1,0 +1,24 @@
+7 THE SCHWARZSCHILD SOLUTION AND BLACK HOLES 176
+0.8
+Newtonian Gravity
+massive particles
+0.6 5
+4
+3
+5 —
+Eoa
+0.2 l
+0
+0 10 20 30
+r
+0.8
+Newtonian Gravity
+massless particles
+0.6
+Eoa
+L=5
+0.2 4
+3
+0 e S —————————————
+0 10 20 30
+r

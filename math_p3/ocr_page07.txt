@@ -1,0 +1,63 @@
+IBVP OF THE KDV 7
+
+The corresponding solution map 7 — u will be called the boundary integral operator denoted by “//b(dk,) .
+
+An explicit representation formula is given for this boundary integral operator that plays an important role
+
+in showing the solution of the IBVP (3.14) possesses the smoothing properties. The needed smoothing
+
+properties for solutions of the IBVP (3.12) will then follow from the smoothing properties for solutions of
+
+the IBVP (3.14) and the well-known sharp Kato smoothing properties for solutions of the Cauchy problem
+U+t + Ou=0, ux0)=wykx), xteck
+
+Finally, the following comments are now given in order:
+Remark 1. The temporal regularity conditions imposed on the boundary values T on Theorem ¥ are optimal
+(cf. [4,6,7]).
+Remark 2. As a comparison, note that the assumptions of Theorem .7 are equivalent to one of the following
+boundary conditions imposed on the equation in (2.4):
+
+a)
+
+u(0,0) =0, u(l,t)=0, u(l,t)=0;
+b)
+U (0,7) +aue(0,2) +bu(0,1) =0,  u(1,6) =0, u(l,t)=0
+
+with
+(3.15) a>b*/2;
+
+)
+
+u(0,) =0, wup(1,0) +aue(1,0)+bu(l,t) =0, uy(1,7)+cu(l,z) =0,
+
+with
+(3.16) ac>b—c?/2;
+
+d)
+
+e (0,1) + arux(0,1) + au(0,1) = 0,
+e (1,1) + brue(1,1) + bou(1,1) =0,
+and
+ue(1,1) +cu(l,1) =0,
+with
+(3.17) ay>d})2, bic>by—c%)2.
+It follows from Theorem ¥ that conditions (3.15), (3.16) and (3.17) for Theorem <7 can be removed.
+4. OPEN PROBLEMS
+
+While the results reported in this paper gave a significant improvement in the theory of initial boundary
+value problems of the KdV equation on a finite interval, there are still many questions to be addressed for
+the following IBVP:
+
+Uy + Uy + U+t =0, 0<x<L,t>0,
+(4.18) u(x,0) = ¢ (x),
+Bru = h.
+Here we list a few of them which are most interesting to us.
+o Is the IBVP (4.18) globally well-posed in the space H*(0,L) for some s > 0 or equivalently, does any
+solution of the IBVP (4.18) blow up in the some space H*(0,L) in finite time?
+
+It is not clear if the IBVP (4.18) is globally well-posed or not even in the case of 7= 0. It follows
+Theorem ¥ (see [18]) that a solution u of the IBVP (4.18) blows up in the space H*(0,L) for some s > 0 at
+a finite time 7' > 0 if and only if
+
+lim [Ju(-,2)[l120,0) = +oo-
+=T

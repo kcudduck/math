@@ -1,0 +1,44 @@
+3 CURVATURE 77
+and thinking of the Riemann tensor as a map from three vector fields to a fourth one, we
+have
+
+R(X,Y)Z =VxVyZ -VyVxZ -V xyZ . (3.71)
+In these expressions, the notation V x refers to the covariant derivative along the vector field
+X; in components, Vy = X#V,. Note that the two vectors X and Y in (3.71) correspond
+to the two antisymmetric indices in the component form of the Riemann tensor. The last
+term in (3.71), involving the commutator [X,Y’], vanishes when X and Y are taken to be
+the coordinate basis vector fields (since [d,,d,] = 0), which is why this term did not arise
+when we originally took the commutator of two covariant derivatives. We will not use this
+notation extensively, but you might see it in the literature, so you should be able to decode
+it.
+
+Having defined the curvature tensor as something which characterizes the connection, let
+us now admit that in GR we are most concerned with the Christoffel connection. In this
+case the connection is derived from the metric, and the associated curvature may be thought
+of as that of the metric itself. This identification allows us to finally make sense of our
+informal notion that spaces for which the metric looks Euclidean or Minkowskian are flat.
+In fact it works both ways: if the components of the metric are constant in some coordinate
+system, the Riemann tensor will vanish, while if the Riemann tensor vanishes we can always
+construct a coordinate system in which the metric components are constant.
+
+The first of these is easy to show. If we are in some coordinate system such that 9,g,, = 0
+(everywhere, not just at a point), then I, = 0 and 9,I', = 0; thus R’5,, = 0 by (3.67).
+But this is a tensor equation, and if it is true in one coordinate system it must be true
+in any coordinate system. Therefore, the statement that the Riemann tensor vanishes is a
+necessary condition for it to be possible to find coordinates in which the components of g,
+are constant everywhere.
+
+It is also a sufficient condition, although we have to work harder to show it. Start by
+choosing Riemann normal coordinates at some point p, so that g,, = 1., at p. (Here we
+are using 7, in a generalized sense, as a matrix with either +1 or —1 for each diagonal
+element and zeroes elsewhere. The actual arrangement of the +1’s and —1’s depends on the
+canonical form of the metric, but is irrelevant for the present argument.) Denote the basis
+vectors at p by €y, with components é?u)' Then by construction we have
+
+9opll €0y (P) = Ny - (3.72)
+Now let us parallel transport the entire set of basis vectors from p to another point g; the
+vanishing of the Riemann tensor ensures that the result will be independent of the path taken
+between p and ¢. Since parallel transport with respect to a metric compatible connection
+preserves inner products, we must have
+
+gnpé(’u)éfy)(q) = Ny - (3.73)

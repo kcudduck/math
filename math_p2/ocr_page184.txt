@@ -1,0 +1,41 @@
+7 THE SCHWARZSCHILD SOLUTION AND BLACK HOLES 177
+For massless particles ¢ = 0, and there are no circular orbits; this is consistent with the
+figure, which illustrates that there are no bound orbits of any sort. Although it is somewhat
+obscured in this coordinate system, massless particles actually move in a straight line, since
+the Newtonian gravitational force on a massless particle is zero. (Of course the standing of
+massless particles in Newtonian theory is somewhat problematic, but we will ignore that for
+now.) In terms of the effective potential, a photon with a given energy £ will come in from
+r = oo and gradually “slow down” (actually dr/d\ will decrease, but the speed of light isn’t
+changing) until it reaches the turning point, when it will start moving away back to r = oo.
+The lower values of L, for which the photon will come closer before it starts moving away,
+are simply those trajectories which are initially aimed closer to the gravitating body. For
+massive particles there will be stable circular orbits at the radius (7.50), as well as bound
+orbits which oscillate around this radius. If the energy is greater than the asymptotic value
+E =1, the orbits will be unbound, describing a particle that approaches the star and then
+recedes. We know that the orbits in Newton’s theory are conic sections — bound orbits are
+either circles or ellipses, while unbound ones are either parabolas or hyperbolas — although
+we won't show that here.
+
+In general relativity the situation is different, but only for r sufficiently small. Since the
+difference resides in the term —GML?/r®, as r — oo the behaviors are identical in the two
+theories. But as r — 0 the potential goes to —oo rather than +o0o as in the Newtonian
+case. At r = 2GM the potential is always zero; inside this radius is the black hole, which we
+will discuss more thoroughly later. For massless particles there is always a barrier (except
+for L = 0, for which the potential vanishes identically), but a sufficiently energetic photon
+will nevertheless go over the barrier and be dragged inexorably down to the center. (Note
+that “sufficiently energetic” means “in comparison to its angular momentum” — in fact the
+frequency of the photon is immaterial, only the direction in which it is pointing.) At the top
+of the barrier there are unstable circular orbits. For e = 0, v = 1, we can easily solve (7.49)
+to obtain
+
+re=3GM . (7.51)
+This is borne out by the figure, which shows a maximum of V(r) at r = 3GM for every L.
+This means that a photon can orbit forever in a circle at this radius, but any perturbation
+will cause it to fly away either to r =0 or r = oco.
+
+For massive particles there are once again different regimes depending on the angular
+momentum. The circular orbits are at
+
+rp = L2+ VI - 12 ) (7.52)
+2GM
+For large L there will be two circular orbits, one stable and one unstable. In the L — oo

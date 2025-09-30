@@ -1,0 +1,42 @@
+7 THE SCHWARZSCHILD SOLUTION AND BLACK HOLES 213
+and
+2mGMar dt  m(r? + a?)? — mAa?sin® 0 d
+L=np'=———5— sin? 0 — + % sin? 0 ¢ . (7.137)
+P dr p dr
+
+(These differ from our previous definitions for the conserved quantities, where £ and L were
+taken to be the energy and angular momentum per unit mass. They are conserved either
+way, of course.)
+
+The minus sign in the definition of E is there because at infinity both (* and p* are
+timelike, so their inner product is negative, but we want the energy to be positive. Inside
+the ergosphere, however, (* becomes spacelike; we can therefore imagine particles for which
+
+E=—(p'<0. (7.138)
+The extent to which this bothers us is ameliorated somewhat by the realization that all
+particles outside the Killing horizon must have positive energies; therefore a particle inside
+the ergosphere with negative energy must either remain on a geodesic inside the Killing
+horizon, or be accelerated until its energy is positive if it is to escape.
+
+Still, this realization leads to a way to extract energy from a rotating black hole; the
+method is known as the Penrose process. The idea is simple; starting from outside the
+ergosphere, you arm yourself with a large rock and leap toward the black hole. If we call the
+four-momentum of the (you + rock) system p(¥#, then the energy E(© = 7@1)(0)“ is certainly
+positive, and conserved as you move along your geodesic. Once you enter the ergosphere,
+you hurl the rock with all your might, in a very specific way. If we call your momentum
+pM# and that of the rock p®#, then at the instant you throw it we have conservation of
+momentum just as in special relativity:
+
+pOr = pe 4 @k (7.139)
+Contracting with the Killing vector ¢, gives
+
+E© =g 4 p® (7.140)
+But, if we imagine that you are arbitrarily strong (and accurate), you can arrange your
+throw such that E® < 0, as per (7.158). Furthermore, Penrose was able to show that you
+can arrange the initial trajectory and the throw such that afterwards you follow a geodesic
+trajectory back outside the Killing horizon into the external universe. Since your energy is
+conserved along the way, at the end we will have
+
+EO > O (7.141)
+
+Thus, you have emerged with more energy than you entered with.

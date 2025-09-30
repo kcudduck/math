@@ -1,0 +1,32 @@
+Multi-Symplectic Structure for SGN equations 7/9
+There are some attempts to solve these equations with conventional finite volume |[8],
+pseudo-spectral [13] and finite element [22] methods. However, all these attempts do not
+guarantee the preservation of the variational (symplectic or multi-symplectic) structures
+at the discrete level as well. Using the findings reported in this manuscript, one should be
+able to construct relatively easily finite difference [1, 6, 23, 28] and pseudo-spectral [9, 14]
+schemes, which preserve ezactly the multi-symplectic conservation law on the discrete level.
+A numerical comparison of symplectic, multi-symplectic and pseudo-spectral schemes was
+performed in [12] on the example of the celebrated Korteweg—deVries equation.
+A. The workflow pattern
+Our study would not be complete if we did not explain how we arrived to the multi-
+symplectic structure (2.1) of the Serre equations. It is not so trivial to see how this
+structure appears from equations (1.1), (1.2). However, when we derive the Serre system
+from the relaxed variational principle [10], a more suitable form of the equations appears.
+Namely, the relaxed Lagrangian [10] under the shallow water ansatz reads (see also [13])
+&L = (m+ph)¢ - Sgh* + h[pa - 3@ + oo - L% + $f. ], (A1)
+where [, U are the Lagrange multipliers. An additional constraint of the free surface
+impermeability is imposed:
+U= hy + fihg. (A.2)
+The corresponding Euler-Lagrange equations are
+ou: 0=p - a (A3)
+0v: 0 = hy + phy — 7, (A4)
+Sp: 0 =1u+ 3vh, - ¢, (A5)
+§¢: 0 =h + [RE],, (A.6)
+Sh: 0= jpu- 38° - 30° - fig, — ¢ - gh
+- $h[O + i, + Vfig ). (A7)
+After eliminating j from equations (A.4)—(A.7) thanks to (A.3) and introducing the extra
+variables p = hv, ¢ = hu, r = huv and s = h,, one almost obtains the required system
+(2.5)—(2.12) for the multi-symplectic formulation.
+Acknowledgments
+D. CLAMOND & D. DUTYKH would like to acknowledge the support of CNRS under the
+PEPS InPhyNiTi 2015 project FARA.

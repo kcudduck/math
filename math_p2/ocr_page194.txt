@@ -1,0 +1,35 @@
+7 THE SCHWARZSCHILD SOLUTION AND BLACK HOLES 187
+Both ' and v are null coordinates, in the sense that their partial derivatives 9/0u’ and
+9/0v" are null vectors. There is nothing wrong with this, since the collection of four partial
+derivative vectors (two null and two spacelike) in this system serve as a perfectly good basis
+for the tangent space. Nevertheless, we are somewhat more comfortable working in a system
+where one coordinate is timelike and the rest are spacelike. We therefore define
+1
+u = §(u’ —')
+r 1/2 ”
+= <QG—M - 1) e AGM cosh(t /4G M) (7.78)
+and
+1
+v o= EW/ + ')
+r 1/2 )
+- (W - 1) o MGM Ginh (¢ /4G M) (7.79)
+in terms of which the metric becomes
+32G3M? ,
+ds* = fe’r/zcw(—dv2 + du?) + r2dQ* , (7.80)
+where r is defined implicitly from
+(u* —?) = (2C:W - 1) e (7.81)
+The coordinates (v, u,6,¢) are known as Kruskal coordinates, or sometimes Kruskal-
+Szekres coordinates. Note that v is the timelike coordinate.
+The Kruskal coordinates have a number of miraculous properties. Like the (¢,7*) coor-
+dinates, the radial null curves look like they do in flat space:
+v = £u + constant . (7.82)
+Unlike the (¢, 7*) coordinates, however, the event horizon r = 2G M is not infinitely far away;
+in fact it is defined by
+v=tu, (7.83)
+consistent with it being a null surface. More generally, we can consider the surfaces r = con-
+stant. From (7.81) these satisfy
+u? —v? = constant . (7.84)
+Thus, they appear as hyperbolae in the u-v plane. Furthermore, the surfaces of constant ¢
+are given by v
+— = tanh(t/4GM) , (7.85)
+u

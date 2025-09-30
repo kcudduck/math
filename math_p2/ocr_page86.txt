@@ -1,0 +1,38 @@
+3 CURVATURE 79
+1 .
+= 5{]/»/\9/\7(0;:6”907 + aua(rg'ru - auargua - auap,grﬁ - aua(rgnz + avan‘];w)
+1
+= 5((9#809,” — 0,0p9vo — 0405 Gpp + 0,0pGus) - (3.77)
+In the second line we have used 9,¢* = 0 in RNC’s, and in the third line the fact that
+partials commute. From this expression we can notice immediately two properties of R,y ;
+it is antisymmetric in its first two indices,
+szr/,w = 7Rzrp/,w 5 (378)
+and it is invariant under interchange of the first pair of indices with the second:
+Rpa;w = R/,u/pa . (379)
+With a little more work, which we leave to your imagination, we can see that the sum of
+cyclic permutations of the last three indices vanishes:
+Rp(r/u/ + R/)ut/(r + R;}uau =0. (380)
+This last property is equivalent to the vanishing of the antisymmetric part of the last three
+indices:
+Ryfou) =0 . (3.81)
+All of these properties have been derived in a special coordinate system, but they are all
+tensor equations; therefore they will be true in any coordinates. Not all of them are inde-
+pendent; with some effort, you can show that (3.64), (3.78) and (3.81) together imply (3.79).
+The logical interdependence of the equations is usually less important than the simple fact
+that they are true.
+
+Given these relationships between the different components of the Riemann tensor, how
+many independent quantities remain? Let’s begin with the facts that R, is antisymmetric
+in the first two indices, antisymmetric in the last two indices, and symmetric under inter-
+change of these two pairs. This means that we can think of it as a symmetric matrix R|yo][u),
+where the pairs po and pvr are thought of as individual indices. An m x m symmetric ma-
+trix has m(m + 1)/2 independent components, while an n X n antisymmetric matrix has
+n(n —1)/2 independent components. We therefore have
+
+17m1 1 1 . ;
+= {*H(n - 1)] [ﬂb(n -1+ 1] = Z(n* = 2n® + 3n% — 2n) (3.82)
+212 2 8
+independent components. We still have to deal with the additional symmetry (3.81). An
+immediate consequence of (3.81) is that the totally antisymmetric part of the Riemann tensor
+vanishes,
+Ripo) =0 . (3.83)

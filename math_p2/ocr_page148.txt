@@ -1,0 +1,35 @@
+5 MORE GEOMETRY 141
+have ( N (n+ 1)
+n(n — n(n
+n+ — =5 (5.44)
+independent Killing vectors. The same kind of counting argument applies to maximally
+symmetric spaces with curvature (such as spheres) or a non-Euclidean signature (such as
+Minkowski space), although the details are marginally different.
+
+Although it may or may not be simple to actually solve Killing’s equation in any given
+spacetime, it is frequently possible to write down some Killing vectors by inspection. (Of
+course a “generic” metric has no Killing vectors at all, but to keep things simple we often deal
+with metrics with high degrees of symmetry.) For example in R? with metric ds? = da?+dy?,
+independence of the metric components with respect to x and y immediately yields two
+Killing vectors:
+
+Xr = (L0),
+
+Yy = (0,1). (5.45)
+These clearly represent the two translations. The one rotation would correspond to the
+vector R = 9/00 if we were in polar coordinates; in Cartesian coordinates this becomes
+
+R = (—y,x) . (5.46)
+You can check for yourself that this actually does solve Killing’s equation.
+
+Note that in n > 2 dimensions, there can be more Killing vectors than dimensions. This
+is because a set of Killing vector fields can be linearly independent, even though at any one
+point on the manifold the vectors at that point are linearly dependent. It is trivial to show
+(so you should do it yourself) that a linear combination of Killing vectors with constant
+coefficients is still a Killing vector (in which case the linear combination does not count as
+an independent Killing vector), but this is not necessarily true with coefficients which vary
+over the manifold. You will also show that the commutator of two Killing vector fields is a
+Killing vector field; this is very useful to know, but it may be the case that the commutator
+gives you a vector field which is not linearly independent (or it may simply vanish). The
+problem of finding all of the Killing vectors of a metric is therefore somewhat tricky, as it is
+sometimes not clear when to stop looking.

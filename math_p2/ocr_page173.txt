@@ -1,0 +1,33 @@
+7 THE SCHWARZSCHILD SOLUTION AND BLACK HOLES 166
+:—7
+l
+-
+In this case the entire manifold can be foliated by two-spheres.
+
+This foliated structure suggests that we put coordinates on our manifold in a way which
+is adapted to the foliation. By this we mean that, if we have an n-dimensional manifold
+foliated by m-dimensional submanifolds, we can use a set of m coordinate functions u' on
+the submanifolds and a set of n —m coordinate functions v! to tell us which submanifold we
+are on. (So 4 runs from 1 to m, while I runs from 1 to n —m.) Then the collection of v’s
+and u’s coordinatize the entire space. If the submanifolds are maximally symmetric spaces
+(as two-spheres are), then there is the following powerful theorem: it is always possible to
+choose the u-coordinates such that the metric on the entire manifold is of the form
+
+ds? = g datde” = grs(v)dv'de” + f(v)y(u)duide . (7.2)
+Here ~;;(u) is the metric on the submanifold. This theorem is saying two things at once:
+that there are no cross terms dv!du/, and that both gr;(v) and f(v) are functions of the
+v! alone, independent of the u’. Proving the theorem is a mess, but you are encouraged
+to look in chapter 13 of Weinberg. Nevertheless, it is a perfectly sensible result. Roughly
+speaking, if g;; or f depended on the u’ then the metric would change as we moved in a
+single submanifold, which violates the assumption of symmetry. The unwanted cross terms,
+meanwhile, can be eliminated by making sure that the tangent vectors d/dv! are orthogonal
+to the submanifolds — in other words, that we line up our submanifolds in the same way
+throughout the space.
+
+We are now through with handwaving, and can commence some honest calculation. For
+the case at hand, our submanifolds are two-spheres, on which we typically choose coordinates
+(0, ¢) in which the metric takes the form
+
+dQ? = d6* +sin? 0 do® . (7.3)
+Since we are interested in a four-dimensional spacetime, we need two more coordinates, which
+we can call @ and b. The theorem (7.2) is then telling us that the metric on a spherically

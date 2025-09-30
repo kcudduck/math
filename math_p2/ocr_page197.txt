@@ -1,0 +1,33 @@
+7 THE SCHWARZSCHILD SOLUTION AND BLACK HOLES 190
+event horizon, while the boundary of region II is called the future event horizon. Region IV,
+meanwhile, cannot be reached from our region I either forward or backward in time (nor can
+anybody from over there reach us). It is another asymptotically flat region of spacetime, a
+mirror image of ours. It can be thought of as being connected to region I by a “wormhole,” a
+neck-like configuration joining two distinct regions. Consider slicing up the Kruskal diagram
+into spacelike surfaces of constant v:
+\
+
+E
+
+D
+
+C
+
+B
+
+A
+
+\
+Now we can draw pictures of each slice, restoring one of the angular coordinates for clarity:
+A B C D E
+F 4 r=2GM
+_—_— OO0
+v
+So the Schwarzschild geometry really describes two asymptotically flat regions which reach
+toward each other, join together via a wormhole for a while, and then disconnect. But the
+wormbhole closes up too quickly for any timelike observer to cross it from one region into the
+next.
+It might seem somewhat implausible, this story about two separate spacetimes reaching
+
+toward each other for a while and then letting go. In fact, it is not expected to happen in
+the real world, since the Schwarzschild metric does not accurately model the entire universe.

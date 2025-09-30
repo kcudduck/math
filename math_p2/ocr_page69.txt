@@ -1,0 +1,32 @@
+3 CURVATURE 62
+There are also formulas for the divergences of higher-rank tensors, but they are generally
+not such a great simplification.
+
+As the last factoid we should mention about connections, let us emphasize (once more)
+that the exterior derivative is a well-defined tensor in the absence of any connection. The
+reason this needs to be emphasized is that, if you happen to be using a symmetric (torsion-
+free) connection, the exterior derivative (defined to be the antisymmetrized partial derivative)
+happens to be equal to the antisymmetrized covariant derivative:
+
+Vi) = Oy = Tjwn
+This has led some misfortunate souls to fret about the “ambiguity” of the exterior derivative
+in spaces with torsion, where the above simplification does not occur. There is no ambiguity:
+the exterior derivative does not involve the connection, no matter what connection you
+happen to be using, and therefore the torsion never enters the formula for the exterior
+derivative of anything.
+
+Before moving on, let’s review the process by which we have been adding structures to
+our mathematical constructs. We started with the basic notion of a set, which you were
+presumed to know (informally, if not rigorously). We introduced the concept of open subsets
+of our set; this is equivalent to introducing a topology, and promoted the set to a topological
+space. Then by demanding that each open set look like a region of R™ (with n the same for
+each set) and that the coordinate charts be smoothly sewn together, the topological space
+became a manifold. A manifold is simultaneously a very flexible and powerful structure,
+and comes equipped naturally with a tangent bundle, tensor bundles of various ranks, the
+ability to take exterior derivatives, and so forth. We then proceeded to put a metric on
+the manifold, resulting in a manifold with metric (or sometimes “Riemannian manifold”).
+Independently of the metric we found we could introduce a connection, allowing us to take
+covariant derivatives. Once we have a metric, however, there is automatically a unique
+torsion-free metric-compatible connection. (In principle there is nothing to stop us from
+introducing more than one connection, or more than one metric, on any given manifold.)
+The situation is thus as portrayed in the diagram on the next page.

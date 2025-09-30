@@ -1,0 +1,35 @@
+1 SPECIAL RELATIVITY AND FLAT SPACETIME 26
+t xu(k)
+timelike
+null
+ax*
+da
+spacelike
+X
+for different cases. For spacelike paths we define the path length
+dxt dzv
+As= [\ S ax, 1.96
+
+SNy (1.96)
+where the integral is taken over the path. For null paths the interval is zero, so no extra
+formula is required. For timelike paths we define the proper time
+
+dat dav
+A= [\ S 1.97
+e ax Tax (1.97)
+
+which will be positive. Of course we may consider paths that are timelike in some places and
+spacelike in others, but fortunately it is seldom necessary since the paths of physical particles
+never change their character (massive particles move on timelike paths, massless particles
+move on null paths). Furthermore, the phrase “proper time” is especially appropriate, since
+T actually measures the time elapsed on a physical clock carried along the path. This point of
+view makes the “twin paradox” and similar puzzles very clear; two worldlines, not necessarily
+straight, which intersect at two different events in spacetime will have proper times measured
+by the integral (1.97) along the appropriate paths, and these two numbers will in general be
+different even if the people travelling along them were born at the same time.
+
+Let’s move from the consideration of paths in general to the paths of massive particles
+(which will always be timelike). Since the proper time is measured by a clock travelling on
+a timelike worldline, it is convenient to use 7 as the parameter along the path. That is, we
+use (1.97) to compute 7(\), which (if A is a good parameter in the first place) we can invert
+to obtain A(7), after which we can think of the path as z#(7). The tangent vector in this

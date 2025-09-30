@@ -1,0 +1,41 @@
+3 CURVATURE 67
+A A2 Aoz e 3
+/ A(m) dm / / A(n2) A(ny) dnidn, / / / A(n3)A(n2) A(m) d*n
+o Ao /Ao Ao JAo /Ao
+712 n3
+nl 3 i /// 1’]2
+m
+It would simplify things if we could consider such an integral to be over an n-cube
+instead of an n-simplex; is there some way to do this? There are n! such simplices in each
+cube, so we would have to multiply by 1/n! to compensate for this extra volume. But we
+also want to get the integrand right; using matrix notation, the integrand at nth order
+is A(Nn)A(Mn—1) - -+ A(m), but with the special property that n, > 1,1 > -+ > . We
+therefore define the path-ordering symbol, P, to ensure that this condition holds. In
+other words, the expression
+
+PLAG) A1) - - - Alm)] (3.41)
+stands for the product of the n matrices A(n;), ordered in such a way that the largest value
+of n; is on the left, and each subsequent value of 7; is less than or equal to the previous one.
+
+We then can express the nth-order term in (3.40) as
+
+e N2 n
+/ / / A(nn) A1) -+ Alm) d™n
+Xo /Ao Ao
+L [ PG A A (3.42)
+nt Do Sre I ! =1 n K
+
+This expression contains no substantive statement about the matrices A(r;); it is just nota-
+
+tion. But we can now write (3.40) in matrix form as
+PON) =143 — [ PIAM) ) - A} dn (3.43)
+
+n=1"" 7A0
+
+This formula is just the series expression for an exponential; we therefore say that the parallel
+
+propagator is given by the path-ordered exponential
+
+A
+P(X\,X) = Pexp </ A(n) d’r/) , (3.44)
+Ao

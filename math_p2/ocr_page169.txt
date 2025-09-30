@@ -1,0 +1,41 @@
+6 WEAK FIELDS AND GRAVITATIONAL RADIATION 162
+We can cast (6.97) into the suggestive form
+G+ h?] = 8rGt,, (6.99)
+simply by defining
+1
+_ _ (2)
+tw = STrGG‘“’ [n+h]. (6.100)
+The notation is of course meant to suggest that we think of ¢,, as an energy-momentum
+tensor, specifically that of the gravitational field (at least in the weak field regime). To make
+this claim seem plausible, note that the Bianchi identity for Gf,l,,) [n+ h@] implies that t 18
+conserved in the flat-space sense,
+Ot =0. (6.101)
+
+Unfortunately there are some limitations on our interpretation of ¢,, as an energy-
+momentum tensor. Of course it is not a tensor at all in the full theory, but we are leaving
+that aside by hypothesis. More importantly, it is not invariant under gauge transformations
+(infinitesimal diffeomorphisms), as you could check by direct calculation. However, we can
+construct global quantities which are invariant under certain special kinds of gauge transfor-
+mations (basically, those that vanish sufficiently rapidly at infinity; see Wald). These include
+the total energy on a surface ¥ of constant time,
+
+E= / too d*x (6.102)
+b
+and the total energy radiated through to infinity,
+AE = / toun dz dt . (6.103)
+s
+Here, the integral is taken over a timelike surface S made of a spacelike two-sphere at infinity
+and some interval in time, and n* is a unit spacelike vector normal to S.
+
+Evaluating these formulas in terms of the quadrupole moment of a radiating source
+involves a lengthy calculation which we will not reproduce here. Without further ado, the
+amount of radiated energy can be written
+
+AE = /P dt (6.104)
+where the power P is given by
+G [#*QU d*Q,,
+pP== c Z2ul 6.105
+45 { s dt®* |, 7 ( )
+and here Q;; is the traceless part of the quadrupole moment,
+1
+Qij = Gij — gaijgqukl . (6.106)

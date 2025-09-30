@@ -1,0 +1,38 @@
+7 THE SCHWARZSCHILD SOLUTION AND BLACK HOLES 202
+go through the steps explicitly, but merely quote the final answer. The solution is known as
+the Reissner-Nordstrgm metric, and is given by
+ds® = —Adt* + A71dr? +r2d0? | (7.110)
+where s
+A=1—M+G(p7;rq). (7.111)
+r r
+In this expression, M is once again interpreted as the mass of the hole; ¢ is the total electric
+charge, and p is the total magnetic charge. Isolated magnetic charges (monopoles) have never
+been observed in nature, but that doesn’t stop us from writing down the metric that they
+would produce if they did exist. There are good theoretical reasons to think that monopoles
+exist, but are extremely rare. (Of course, there is also the possibility that a black hole
+could have magnetic charge even if there aren’t any monopoles.) In fact the electric and
+magnetic charges enter the metric in the same way, so we are not introducing any additional
+complications by keeping p in our expressions. The electromagnetic fields associated with
+this solution are given by
+By = %
+Fyy = psinf . (7.112)
+Conservatives are welcome to set p = 0 if they like.
+
+The structure of singularities and event horizons is more complicated in this metric than
+it was in Schwarzschild, due to the extra term in the function A(r) (which can be thought of
+as measuring “how much the light cones tip over”). One thing remains the same: at r = 0
+there is a true curvature singularity (as could be checked by computing the curvature scalar
+Rype R*P7). Meanwhile, the equivalent of 7 = 2GM will be the radius where A vanishes.
+This will occur at
+
+re =GM £ /G*M? — G(p* + ¢?) . (7.113)
+This might constitute two, one, or zero solutions, depending on the relative values of G M?
+and p? + ¢°. We therefore consider each case separately.
+Case One — GM?* < p* + ¢*
+
+In this case the coefficient A is always positive (never zero), and the metric is completely
+regular in the (¢,7,0, ¢) coordinates all the way down to r = 0. The coordinate ¢ is always
+timelike, and r is always spacelike. But there still is the singularity at » = 0, which is now a
+timelike line. Since there is no event horizon, there is no obstruction to an observer travelling
+to the singularity and returning to report on what was observed. This is known as a naked
+singularity, one which is not shielded by an horizon. A careful analysis of the geodesics

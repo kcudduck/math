@@ -1,0 +1,34 @@
+7 THE SCHWARZSCHILD SOLUTION AND BLACK HOLES 214
+(top view) Killing
+horizon
+ergosphere
+pOn
+5L pOK
+pO1
+—
+
+There is no such thing as a free lunch; the energy you gained came from somewhere,
+and that somewhere is the black hole. In fact, the Penrose process extracts energy from the
+rotating black hole by decreasing its angular momentum; you have to throw the rock against
+the hole’s rotation to get the trick to work. To see this more precisely, define a new Killing
+vector
+
+X' =+ Qunt (7.142)
+On the outer horizon x* is null and tangent to the horizon. (This can be seen from (* = 9,,
+Nt = Oy, and the definition (7.134) of Qp.) The statement that the particle with momentum
+p@* crosses the event horizon “moving forwards in time” is simply
+PPy, <0 . (7.143)
+Plugging in the definitions of F and L, we see that this condition is equivalent to
+E®
+I® <= (7.144)
+Qp
+Since we have arranged E® to be negative, and Qy is positive, we see that the particle must
+have a negative angular momentum — it is moving against the hole’s rotation. Once you
+have escaped the ergosphere and the rock has fallen inside the event horizon, the mass and
+angular momentum of the hole are what they used to be plus the negative contributions of
+the rock:
+oM = E@
+6 = L®, (7.145)
+Here we have introduced the notation J for the angular momentum of the black hole; it is
+given by
+J=Ma . (7.146)

@@ -1,0 +1,35 @@
+6 WEAK FIELDS AND GRAVITATIONAL RADIATION 143
+= 1P @uhur + O — 6.4
+= (Ouhur + Ouhiny = Oahywy) - (6.4)
+Since the connection coefficients are first order quantities, the only contribution to the Rie-
+mann tensor will come from the derivatives of the I'’s, not the I'? terms. Lowering an index
+for convenience, we obtain
+Ruvpe = 10,0 L\n - 7IuAavF3p
+1 (
+= 5(0[,8,,}1,;", + 0501w — 0,0, hyp — 0,0,h05) - (6.5)
+The Ricci tensor comes from contracting over p and p, giving
+R, = E(d(,auh"u +0,0,h7, — 8,0,h — Ohy,) , (6.6)
+which is manifestly symmetric in g and v. In this expression we have defined the trace of
+the perturbation as h = n*"h,, = h*,, and the D’Alembertian is simply the one from flat
+space, O = —87 + 87 + 92 + 92. Contracting again to obtain the Ricci scalar yields
+R =0,0,h"” —Oh . (6.7)
+Putting it all together we obtain the Einstein tensor:
+1
+G;w = R;u/ - inuvR
+1
+= 5(&,8,,]#’“ + 0,0,h7, — 0,0,h — Ohpy — 0,,0,0,W" + 1, 0h) . (6.8)
+Consistent with our interpretation of the linearized theory as one describing a symmetric
+tensor on a flat background, the linearized Einstein tensor (6.8) can be derived by varying
+the following Lagrangian with respect to hy,:
+1 v po I 1 v po 1 v
+L= 3 (0,0")(0,h) — (D7) (0, 5) + 3" (0,h*) (O hpo) — BX (0.h)(0,h)] . (6.9)
+I will spare you the details.
+
+The linearized field equation is of course G,, = 87GT,,,, where G, is given by (6.8)
+and T}, is the energy-momentum tensor, calculated to zeroth order in h,,. We do not
+include higher-order corrections to the energy-momentum tensor because the amount of
+energy and momentum must itself be small for the weak-field limit to apply. In other words,
+the lowest nonvanishing order in 7}, is automatically of the same order of magnitude as the
+perturbation. Notice that the conservation law to lowest order is simply 9,7 = 0. We will
+most often be concerned with the vacuum equations, which as usual are just R, = 0, where
+Ry, is given by (6.6).

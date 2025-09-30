@@ -1,0 +1,35 @@
+December 1997 Lecture Notes on General Relativity Sean M. Carroll
+5 More Geometry
+
+With an understanding of how the laws of physics adapt to curved spacetime, it is undeniably
+tempting to start in on applications. However, a few extra mathematical techniques will
+simplify our task a great deal, so we will pause briefly to explore the geometry of manifolds
+some more.
+
+When we discussed manifolds in section 2, we introduced maps between two different
+manifolds and how maps could be composed. We now turn to the use of such maps in carrying
+along tensor fields from one manifold to another. We therefore consider two manifolds M
+and N, possibly of different dimension, with coordinate systems z* and y®, respectively. We
+imagine that we have a map ¢ : M — N and a function f: N — R.
+
+q)* f=fo ¢ R
+M ﬁ
+f
+o /
+—
+N
+e e
+
+It is obvious that we can compose ¢ with f to construct a map (f o ¢) : M — R, which is
+simply a function on M. Such a construction is sufficiently useful that it gets its own name;
+we define the pullback of f by ¢, denoted ¢, f, by
+
+o.f=(fod). (5.1)
+The name makes sense, since we think of ¢, as “pulling back” the function f from N to M.
+
+We can pull functions back, but we cannot push them forward. If we have a function
+g: M — R, there is no way we can compose g with ¢ to create a function on V; the arrows
+don’t fit together correctly. But recall that a vector can be thought of as a derivative operator
+that maps smooth functions to real numbers. This allows us to define the pushforward of
+
+129

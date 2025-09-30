@@ -1,0 +1,18 @@
+4 GRAVITATION 102
+z
+t=tg t=tytz/c
+The boxes remain a constant distance apart, so the photon reaches the leading box after
+a time At = z/c in the reference frame of the boxes. In this time the boxes will have picked
+up an additional velocity Av = aAt = az/c. Therefore, the photon reaching the lead box
+will be redshifted by the conventional Doppler effect by an amount
+AN Av  az
+Y == (4.5)
+Ao c c?
+(We assume Awv/c is small, so we only work to first order.) According to the EEP, the
+same thing should happen in a uniform gravitational field. So we imagine a tower of height
+z sitting on the surface of a planet, with a, the strength of the gravitational field (what
+Newton would have called the “acceleration due to gravity”).
+z
+)b()
+This situation is supposed to be indistinguishable from the previous one, from the point of
+view of an observer in a box at the top of the tower (able to detect the emitted photon, but

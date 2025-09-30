@@ -1,0 +1,25 @@
+3 CURVATURE ]4
+- - =/ .
+/ \\
+Il \‘
+- i I
+1
+\
+/
+\
+\\ //
+N N . ~ 4
+In the metric inherited from this description as part of the flat plane, the cone is flat every-
+where but at its vertex. This can be seen by considering parallel transport of a vector around
+various loops; if a loop does not enclose the vertex, there will be no overall transformation,
+whereas a loop that does enclose the vertex (say, just one time) will lead to a rotation by an
+angle which is just the deficit angle.
+Our favorite example is of course the two-sphere, with metric
+ds? = a®(d6* +sin? 0 dg?) , (3.100)
+where a is the radius of the sphere (thought of as embedded in R?). Without going through
+the details, the nonzero connection coefficients are
+Fio = —sinfcosf
+Iy, =T% = cotf. (3.101)
+Let’s compute a promising component of the Riemann tensor:
+o 0 9 0 A 0 A
+Ry = 0ggs — Ol + a5y — Tgalgy

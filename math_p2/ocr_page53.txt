@@ -1,0 +1,42 @@
+2 MANIFOLDS 46
+This can be written equivalently as
+S = Su(da" ®da”)
+= a(de)? + (dy)? (2.21)
+where in the last line the tensor product symbols are suppressed for brevity. Now consider
+new coordinates
+JL'/ — xl/B
+y o= Y. (2.22)
+This leads directly to
+r = (CE’)B
+y = W(y)— @)
+de = 3(2)*de’
+1
+dy = v dy’ —3(2")*da’ . (2.23)
+We need only plug these expressions directly into (2.21) to obtain (remembering that tensor
+products don’t commute, so da’ dy’ # dy’ da’):
+"4 "3 "2 @2 ’ oy 1 "2
+S =9(2)! 1+ (2)°](d2")* — 3=——(dz' dy’ + dy/' da’) + W(dy) , (2.24)
+Y Y
+o 4 3 @)?
+Sy = ( Y PR (2.25)
+Y (v)?
+Notice that it is still symmetric. We did not use the transformation law (2.19) directly, but
+doing so would have yielded the same result, as you can check.
+
+For the most part the various tensor operations we defined in flat space are unaltered
+in a more general setting: contraction, symmetrization, etc. There are three important
+exceptions: partial derivatives, the metric, and the Levi-Civita tensor. Let’s look at the
+partial derivative first.
+
+The unfortunate fact is that the partial derivative of a tensor is not, in general, a new
+tensor. The gradient, which is the partial derivative of a scalar, is an honest (0,1) tensor, as
+we have seen. But the partial derivative of higher-rank tensors is not tensorial, as we can see
+by considering the partial derivative of a one-form, 9,W,, and changing to a new coordinate
+system:
+
+d azt 9 [ Oz¥
+W = o (LW,
+Ot OxH Qxt \ Oxv
+ozt Oz [ 0O ozt 0 Ox¥
+= ——|=—W | +Ws—5—5—. (2.26)
+Ozt g \ O+ Ozt Ot Oxv

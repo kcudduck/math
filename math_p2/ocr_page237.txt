@@ -1,0 +1,37 @@
+8 COSMOLOGY 230
+fact that in flat space, for a source at distance d the flux over the luminosity is just one
+over the area of a sphere centered around the source, F//L = 1/A(d) = 1/4wd® In an FRW
+universe, however, the flux will be diluted. Conservation of photons tells us that the total
+number of photons emitted by the source will eventually pass through a sphere at comoving
+distance r from the emitter. Such a sphere is at a physical distance d = agr, where ag is
+the scale factor when the photons are observed. But the flux is diluted by two additional
+effects: the individual photons redshift by a factor (1 + z), and the photons hit the sphere
+less frequently, since two photons emitted a time 0t apart will be measured at a time (1+z)dt
+apart. Therefore we will have
+F 1
+= 8.69
+L 4madr?(1+ 2)? (8.69)
+or
+dr, =aor(l+2) . (8.70)
+The luminosity distance dy, is something we might hope to measure, since there are some
+astrophysical sources whose absolute luminosities are known (“standard candles”). But 7 is
+not observable, so we have to remove that from our equation. On a null geodesic (chosen to
+be radial for convenience) we have
+0= ds? = —d 4+ —% g (8.71)
+=ds*=— ——dr® .
+1—Fkr2
+o o dt p
+to T r
+—— = - 8.72
+/tl a(t) /0 (1 — kr2)1/2 (872)
+For galaxies not too far away, we can expand the scale factor in a Taylor series about its
+present value:
+atr) = ao + (@)o(tr = to) + 5 (@)o(tr — )+ ... . (8.73)
+We can then expand both sides of (8.72) to find
+—1 1 2
+Now remembering (8.67), the expansion (8.73) is the same as
+! =1+ Hy(t —to) L H2(t —t0)? + (8.75)
+i1z olfs —To) = 590t — to .
+For small Hy(t; — to) this can be inverted to yield
+— g1 qo 2
+to—ti=Hy |z — 1+E 24 (8.76)

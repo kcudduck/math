@@ -1,0 +1,27 @@
+7 THE SCHWARZSCHILD SOLUTION AND BLACK HOLES 193
+of the ranges of the other two coordinates. In this case of course we have
+—00 <t < 400
+0<r<+c0. (7.87)
+Technically the worldline = 0 represents a coordinate singularity and should be covered by
+a different patch, but we all know what is going on so we’ll just act like r = 0 is well-behaved.
+Our task is made somewhat easier if we switch to null coordinates:
+1
+w = —(t+r
+u %( +7)
+v o= §(t7 ), (7.88)
+with corresponding ranges given by
+—00 < u < +00
+—00 < v < +00
+v<u. (7.89)
+These ranges are as portrayed in the figure, on which each point represents a 2-sphere of
+t
+SN~—
+v = const
+r
+% o
+P
+radius r = v — v. The metric in these coordinates is given by
+ds? = —2(dudv + dvdu) + (u — v)2dQ? . (7.90)
+We now want to change to coordinates in which “infinity” takes on a finite coordinate
+value. A good choice is
+U = arctanu

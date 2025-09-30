@@ -1,0 +1,37 @@
+3 CURVATURE 71
+for some constants a and b, leaves the equation invariant. Any parameter related to the
+proper time in this way is called an affine parameter, and is just as good as the proper
+time for parameterizing a geodesic. What was hidden in our derivation of (3.47) was that
+the demand that the tangent vector be parallel transported actually constrains the parameter-
+ization of the curve, specifically to one related to the proper time by (3.58). In other words,
+if you start at some point and with some initial direction, and then construct a curve by
+beginning to walk in that direction and keeping your tangent vector parallel transported,
+you will not only define a path in the manifold but also (up to linear transformations) define
+the parameter along the path.
+
+Of course, there is nothing to stop you from using any other parameterization you like,
+but then (3.47) will not be satisfied. More generally you will satisfy an equation of the form
+
+d?at dx? dx® da*
+
+e + Fﬁ”%ﬁ = f(a)m , (3.59)
+for some parameter « and some function f(«). Conversely, if (3.59) is satisfied along a curve
+you can always find an affine parameter A(«) for which the geodesic equation (3.47) will be
+satisfied.
+
+An important property of geodesics in a spacetime with Lorentzian metric is that the
+character (timelike/null/spacelike) of the geodesic (relative to a metric-compatible connec-
+tion) never changes. This is simply because parallel transport preserves inner products, and
+the character is determined by the inner product of the tangent vector with itself. This
+is why we were consistent to consider purely timelike paths when we derived (3.56); for
+spacelike paths we would have derived the same equation, since the only difference is an
+overall minus sign in the final answer. There are also null geodesics, which satisfy the same
+equation, except that the proper time cannot be used as a parameter (some set of allowed
+parameters will exist, related to each other by linear transformations). You can derive this
+fact either from the simple requirement that the tangent vector be parallel transported, or
+by extending the variation of (3.48) to include all non-spacelike paths.
+
+Let’s now explain the earlier remark that timelike geodesics are maxima of the proper
+time. The reason we know this is true is that, given any timelike curve (geodesic or not), we
+can approximate it to arbitrary accuracy by a null curve. To do this all we have to do is to
+consider “jagged” null curves which follow the timelike one:

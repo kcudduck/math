@@ -1,0 +1,34 @@
+3 CURVATURE 66
+One thing they don’t usually tell you in GR books is that you can write down an explicit
+and general solution to the parallel transport equation, although it’s somewhat formal. First
+notice that for some path v : A — 27()), solving the parallel transport equation for a vector
+V*# amounts to finding a matrix P*,(\, Xg) which relates the vector at its initial value V*(Xo)
+to its value somewhere later down the path:
+VE(X) = PF (X, 20)VP(Xo) - (3.35)
+Of course the matrix P*,(\, \), known as the parallel propagator, depends on the path
+v (although it’s hard to find a notation which indicates this without making v look like an
+index). If we define
+dx”
+
+Ap(A) = 7ngﬁ ; (3.36)
+where the quantities on the right hand side are evaluated at (), then the parallel transport
+equation becomes
+
+d
+—VH=Ar VP . 3.37
+= . (337)
+Since the parallel propagator must work for any vector, substituting (3.35) into (3.37) shows
+that P",(X, Ag) also obeys this equation:
+d pu n o
+EP (A Ao) = A¥(N)P? (N Xo) - (3.38)
+To solve this equation, first integrate both sides:
+A
+PryA0) = 3+ [ A% () P70 00 (339)
+0
+The Kronecker delta, it is easy to see, provides the correct normalization for A = Ag.
+We can solve (3.39) by iteration, taking the right hand side and plugging it into itself
+repeatedly, giving
+A Ao
+PHo(X Ao) = 0 + / A* () dn + / / AP () A° () dnfdy + -+ - . (3.40)
+Ao Ao /Ao
+The nth term in this series is an integral over an n-dimensional right triangle, or n-simplex.

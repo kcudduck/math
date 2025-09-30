@@ -1,0 +1,40 @@
+3 CURVATURE 78
+We therefore have specified a set of vector fields which everywhere define a basis in which
+the metric components are constant. This is completely unimpressive; it can be done on any
+manifold, regardless of what the curvature is. What we would like to show is that this is
+a coordinate basis (which can only be true if the curvature vanishes). We know that if the
+€w’s are a coordinate basis, their commutator will vanish:
+(e 0] = 0. (3.74)
+
+What we would really like is the converse: that if the commutator vanishes we can find
+coordinates y* such that €, = %. In fact this is a true result, known as Frobenius’s
+Theorem. It’s something of a mess to prove, involving a good deal more mathematical
+apparatus than we have bothered to set up. Let’s just take it for granted (skeptics can
+consult Schutz’s Geometrical Methods book). Thus, we would like to demonstrate (3.74) for
+the vector fields we have set up. Let’s use the expression (3.70) for the torsion:
+
+e €w)] = Ve o) = Ve e = T(Cw: €0) - (3.75)
+The torsion vanishes by hypothesis. The covariant derivatives will also vanish, given the
+method by which we constructed our vector fields; they were made by parallel transporting
+along arbitrary paths. If the fields are parallel transported along arbitrary paths, they are
+certainly parallel transported along the vectors €, and therefore their covariant derivatives
+in the direction of these vectors will vanish. Thus (3.70) implies that the commutator
+vanishes, and therefore that we can find a coordinate system y* for which these vector fields
+are the partial derivatives. In this coordinate system the metric will have components 7,,,
+as desired.
+
+The Riemann tensor, with four indices, naively has n' independent components in an
+n-dimensional space. In fact the antisymmetry property (3.64) means that there are only
+n(n—1)/2 independent values these last two indices can take on, leaving us with n3(n—1)/2
+independent components. When we consider the Christoffel connection, however, there are a
+number of other symmetries that reduce the independent components further. Let’s consider
+these now.
+
+The simplest way to derive these additional symmetries is to examine the Riemann tensor
+with all lower indices,
+
+Rpg = gp/\R/\mw . (3.76)
+Let us further consider the components of this tensor in Riemann normal coordinates es-
+tablished at a point p. Then the Christoffel symbols themselves will vanish, although their
+derivatives will not. We therefore have
+Rogpr = gpz\(aurx))a - avria)

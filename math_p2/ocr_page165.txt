@@ -1,0 +1,33 @@
+6 WEAK FIELDS AND GRAVITATIONAL RADIATION 158
+We begin by integrating by parts in reverse:
+/dgy T (w,y) = /&c(yifkj) ddy — /yi(akfkj) dy . (6.80)
+The first term is a surface integral which will vanish since the source is isolated, while the
+second can be related to 7% by the Fourier-space version of 8,7 = 0:
+— O T* = T . (6.81)
+Thus,
+/d3y Ti(w,y) = iw/yifoj &y
+= Wy T dy
+== / Dy T —y'y (AT™)] d*y
+w2 L~
+= -5 /ylijOO T (6.82)
+The second line is justified since we know that the left hand side is symmetric in ¢ and j,
+while the third and fourth lines are simply repetitions of reverse integration by parts and
+conservation of T"”. It is conventional to define the quadrupole moment tensor of the
+energy density of the source,
+ai(t) =3 [ Yy T y) dy . (6:83)
+a constant tensor on each surface of constant time. In terms of the Fourier transform of the
+quadrupole moment, our solution takes on the compact form
+= 2GwW? et _
+hij(w,x) = —TT(IU(W) ; (6.84)
+or, transforming back to ¢,
+. 1 2G iw(i— _
+hi(t,x) = ~ 353k /dw e =R 25 (w)
+1 2G d? ;
+= ——— [dwe ™ G(w
+V27 3R df? / @ (@)
+2G d2q,v]
+= ——=(t), 6.85
+3R dt? () (6:85)
+where as before t, =t — R.
+The gravitational wave produced by an isolated nonrelativistic object is therefore pro-
+portional to the second derivative of the quadrupole moment of the energy density at the

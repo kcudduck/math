@@ -1,0 +1,38 @@
+4 GRAVITATION 105
+gravitational field is weak (can be considered a perturbation of flat space), and the field is
+also static (unchanging with time). Let us see what these assumptions do to the geodesic
+equation, taking the proper time 7 as an affine parameter. “Moving slowly” means that
+dz’ dt
+— << —, 4.10
+dr dr -’ ( )
+so the geodesic equation becomes
+&t dat\*
+o4 (2] =0, 4.11
+dr? oo <d7’) ( )
+Since the field is static, the relevant Christoffel symbols I'fy, simplify:
+1
+Th = ig”A(aong + 0ogor — rgoo)
+1o
+= —igmd)\yoo . (4.12)
+Finally, the weakness of the gravitational field allows us to decompose the metric into the
+Minkowski form plus a small perturbation:
+v = Mv + Py || << 1. (4.13)
+(We are working in Cartesian coordinates, so 7, is the canonical form of the metric. The
+“smallness condition” on the metric perturbation h,, doesn’t really make sense in other
+coordinates.) From the definition of the inverse metric, "’ g,, = 0%, we find that to first
+order in h,
+gt =" — (4.14)
+where b = n*1"?h,,. In fact, we can use the Minkowski metric to raise and lower indices
+on an object of any definite order in h, since the corrections would only contribute at higher
+orders.
+Putting it all together, we find
+1
+Ty = —§TIM3/\]L00 . (4.15)
+The geodesic equation (4.11) is therefore
+P 1 dat\*
+—— = =n"0heo [ — | - 4.16
+72 271 A0 <d7—) ( )
+Using dohgo = 0, the pr = 0 component of this is just
+d*t
+— =0. 4.17
+dr? (417)

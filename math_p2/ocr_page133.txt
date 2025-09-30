@@ -1,0 +1,33 @@
+4 GRAVITATION 126
+
+The usefulness of these definitions should be apparent; if nothing moves faster than light,
+than signals cannot propagate outside the light cone of any point p. Therefore, if every
+curve which remains inside this light cone must intersect S, then information specified on S
+should be sufficient to predict what the situation is at p. (That is, initial data for matter
+fields given on S can be used to solve for the value of the fields at p.) The set of all points
+for which we can predict what happens by knowing what happens on S is simply the union
+DT (S)u D~ (S).
+
+We can easily extend these ideas from the subset S to the entire hypersurface 3. The
+important point is that D (X) U D~ (X) might fail to be all of M, even if X itself seems like
+a perfectly respectable hypersurface that extends throughout space. There are a number
+of ways in which this can happen. One possibility is that we have just chosen a “bad”
+hypersurface (although it is hard to give a general prescription for when a hypersurface is
+bad in this sense). Consider Minkowski space, and a spacelike hypersurface ¥ which remains
+to the past of the light cone of some point.
+
+D*()
+z
+In this case ¥ is a nice spacelike surface, but it is clear that D*(X) ends at the light cone,
+and we cannot use information on ¥ to predict what happens throughout Minkowski space.
+Of course, there are other surfaces we could have picked for which the domain of dependence
+would have been the entire manifold, so this doesn’t worry us too much.
+
+A somewhat more nontrivial example is known as Misner space. This is a two-
+dimensional spacetime with the topology of R! x S', and a metric for which the light cones
+progressively tilt as you go forward in time. Past a certain point, it is possible to travel on a
+timelike trajectory which wraps around the S! and comes back to itself; this is known as a
+closed timelike curve. If we had specified a surface ¥ to this past of this point, then none
+of the points in the region containing closed timelike curves are in the domain of dependence
+of 3, since the closed timelike curves themselves do not intersect . This is obviously a worse
+problem than the previous one, since a well-defined initial value problem does not seem to

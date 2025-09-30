@@ -1,0 +1,33 @@
+6 WEAK FIELDS AND GRAVITATIONAL RADIATION 150
+and
+ol = (6.41)
+(Actually this last condition is both a choice of gauge and a choice of Lorentz frame. The
+choice of gauge sets U’ “CL‘,‘,“W) = 0 for some constant timelike vector U*, while the choice of
+frame makes U* point along the time axis.) Let’s see how this is possible by solving explicitly
+for the necessary coefficients B,,. Under the transformation (6.36), the resulting change in
+our metric perturbation can be written
+hLy;ew) = h/(fyld) - DMCV - au(u s (6.42)
+which induces a change in the trace-reversed perturbation,
+B(uew) _ h(new) 1 h(new)
+v - wo 577#”
+1 olcC
+= h/(,zould) - 8;L<V - 8v<u - inuu(h((li) - 28/\<)‘)
+= }_L/(,Loljld) - OMCV - OVCu + nuuaAC)\ . (643)
+Using the specific forms (6.30) for the solution and (6.39) for the transformation, we obtain
+Co) = COY — ik, B, — ik, B, + inuk\B* . (6.44)
+Imposing (6.40) therefore means
+0=CCDr, 4 2k B* (6.45)
+or ;
+B = S, (6.46)
+Then we can impose (6.41), first for v = 0:
+0 = CBY_2ik By — ikyB>
+o . 1
+= P _2ik By + 50(‘)“”““ , (6.47)
+o i 1
+By = ——— (€ + ~ctodm ) . 6.48
+0 %o ( o t3 I (6.48)
+Then impose (6.41) for v = j:
+0 = OV —ikyB; — ik;By
+—i 1
+= OO kB, — ik, [—1 (cggld) + —C’("l‘i)“#)] , (6.49)
+J 2ko 2

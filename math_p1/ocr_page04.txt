@@ -1,0 +1,65 @@
+4 CHARLES L. FEFFERMAN
+
+Caffarelli-Kohn-Nirenberg [2] improved Scheffer’s results, and F.-H. Lin [6] sim-
+plified the proofs of the results in Caffarelli-Kohn-Nirenberg [2]. The partial regu-
+larity theorem of [2], [6] concerns a parabolic analogue of the Hausdorff dimension
+of the singular set of a suitable weak solution of Navier—Stokes. Here, the singu-
+lar set of a weak solution u consists of all points (z°,2°) € R3 x R such that u
+is unbounded in every neighborhood of (2°,t°). (If the force f is smooth, and if
+(2°,t°) doesn’t belong to the singular set, then it’s not hard to show that u can be
+corrected on a set of measure zero to become smooth in a neighborhood of (x°,¢°).)
+
+To define the parabolic analogue of Hausdorff dimension, we use parabolic cylin-
+ders Q, = B, x I, C R® x R, where B, C R? is a ball of radius r, and I,, C R is an
+interval of length r2. Given E C R® x R and § > 0, we set
+
+o
+Pk,s(E) = inf {Z 'riK: Qry s Qr,, -+ cover E, and each r; < (5}
+i=1
+and then define
+Pk(E) = JLH& Pk, s(E).
+
+The main results of [2], [6] may be stated roughly as follows.
+
+Theorem. (A) Let u be a weak solution of the Navier—Stokes equations, satisfying
+suitable growth conditions. Let E be the singular set of u. Then Py(E) = 0.
+
+(B) Given a divergence-free vector field u®(x) and a force f(z,t) satisfying (4)
+and (5), there exists a weak solution of Navier-Stokes (1), (2), (3) satisfying the
+growth conditions in (A).
+
+In particular, the singular set of u cannot contain a spacetime curve of the form
+{(z,t) € R®* x R: 2 = ¢(t)}. This is the best partial regularity theorem known so
+far for the Navier—Stokes equation. It appears to be very hard to go further.
+
+Let me end with a few words about the significance of the problems posed here.
+Fluids are important and hard to understand. There are many fascinating prob-
+lems and conjectures about the behavior of solutions of the Euler and Navier-Stokes
+equations. (See, for instance, Bertozzi-Majda [1] or Constantin [3].) Since we don’t
+even know whether these solutions exist, our understanding is at a very primitive
+level. Standard methods from PDE appear inadequate to settle the problem. In-
+stead, we probably need some deep, new ideas.
+
+REFERENCES
+
+[1] A. Bertozzi and A. Majda, Vorticity and Incompressible Flows, Cambridge U. Press, Cam-
+bridge, 2002.
+
+[2] L. Caffarelli, R. Kohn, and L. Nirenberg, Partial regularity of suitable weak solutions of the
+Navier—Stokes equations, Comm. Pure & Appl. Math. 35 (1982), 771-831.
+
+[3] P. Constantin, Some open problems and research directions in the mathematical study of
+fluid dynamics, in Mathematics Unlimited—2001 and Beyond, Springer Verlag, Berlin, 2001,
+353-360.
+
+[4] O. Ladyzhenskaya, The Mathematical Theory of Viscous Incompressible Flows (2nd edition),
+Gordon and Breach, New York, 1969.
+
+[5] J. Leray, Sur le mouvemnent d’un liquide visquex emplissent l’espace, Acta Math. J. 63 (1934),
+193-248.
+
+[6] F.-H. Lin, A new proof of the Caffarelli-Kohn—Nirenberg theorem, Comm. Pure. & Appl.
+Math. 51 (1998), 241-257.
+
+[7] V. Scheffer, Turbulence and Hausdorff dimension, in Turbulence and the Navier-Stokes Equa-
+tions, Lecture Notes in Math. 565, Springer Verlag, Berlin, 1976, 94-112.

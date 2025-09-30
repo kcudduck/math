@@ -1,0 +1,18 @@
+7 THE SCHWARZSCHILD SOLUTION AND BLACK HOLES 196
+X=m
+The shaded region represents Minkowski space. Note that each point (7, x) on this cylinder
+is half of a two-sphere, where the other half is the point (1, —x). We can unroll the shaded
+region to portray Minkowski space as a triangle, as shown in the figure. The is the Penrose
+it
+nt k
++
+X A\
+X T
+t= const y’
+— I
+T = const 7
+e
+diagram. Each point represents a two-sphere.
+In fact Minkowski space is only the interior of the above diagram (including x = 0); the
+boundaries are not part of the original spacetime. Together they are referred to as conformal
+infinity. The structure of the Penrose diagram allows us to subdivide conformal infinity

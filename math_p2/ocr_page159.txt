@@ -1,0 +1,39 @@
+6 WEAK FIELDS AND GRAVITATIONAL RADIATION 152
+One nice feature of the transverse traceless gauge is that if you are given the components
+of a plane wave in some arbitrary gauge, you can easily convert them into the transverse
+traceless components. We first define a tensor P, which acts as a projection operator:
+P;w = Nuv — NNy - (655)
+You can check that this projects vectors onto hyperplanes orthogonal to the unit vector n,,.
+Here we take n, to be a spacelike unit vector, which we choose to lie along the direction of
+propagation of the wave:
+ng=0, nj=kj/w. (6.56)
+Then the transverse part of some perturbation h, is simply the projection F,”P,%h,q, and
+the transverse traceless part is obtained by subtracting off the trace:
+1
+h;fz:r = Puppvghpa - §Puuppghpa . (6.57)
+For details appropriate to more general cases, see the discussion in Misner, Thorne and
+Wheeler.
+
+To get a feeling for the physical effects due to gravitational waves, it is useful to consider
+the motion of test particles in the presence of a wave. It is certainly insufficient to solve
+for the trajectory of a single particle, since that would only tell us about the values of
+the coordinates along the world line. (In fact, for any single particle we can find transverse
+traceless coordinates in which the particle appears stationary to first order in hy,,,.) To obtain
+a coordinate-independent measure of the wave’s effects, we consider the relative motion of
+nearby particles, as described by the geodesic deviation equation. If we consider some nearby
+particles with four-velocities described by a single vector field U#(x) and separation vector
+S*, we have
+
+D2
+FS“ =R, ,,UUPS? . (6.58)
+We would like to compute the left-hand side to first order in hy,. If we take our test
+particles to be moving slowly then we can express the four-velocity as a unit vector in the
+time direction plus corrections of order h,, and higher; but we know that the Riemann tensor
+is already first order, so the corrections to U” may be ignored, and we write
+U = (1,0,0,0) . (6.59)
+Therefore we only need to compute R, or equivalently R,o,. From (6.5) we have
+1
+RuOOo‘ = i(aoaoh;w Jr agauhoo - Z)(,Z)Ohuo - ({)Naohao) . (660)
+But h,o =0, so
+1
+RuOOU = 58080h;w . (661)

@@ -1,0 +1,43 @@
+1 SPECIAL RELATIVITY AND FLAT SPACETIME 25
+the fundamental electric charge. Now, the fundamental electric charge is a small number;
+electrodynamics is “weakly coupled”; which is why perturbation theory is so remarkably
+successful in quantum electrodynamics (QED). But Dirac’s condition on magnetic charges
+implies that a duality transformation takes a theory of weakly coupled electric charges to a
+theory of strongly coupled magnetic monopoles (and vice-versa). Unfortunately monopoles
+don’t exist (as far as we know), so these ideas aren’t directly applicable to electromagnetism;
+but there are some theories (such as supersymmetric non-abelian gauge theories) for which
+it has been long conjectured that some sort of duality symmetry may exist. If it did, we
+would have the opportunity to analyze a theory which looked strongly coupled (and therefore
+hard to solve) by looking at the weakly coupled dual version. Recently work by Seiberg and
+Witten and others has provided very strong evidence that this is exactly what happens in
+certain theories. The hope is that these techniques will allow us to explore various phenom-
+ena which we know exist in strongly coupled quantum field theories, such as confinement of
+quarks in hadrons.
+
+We’ve now gone over essentially everything there is to know about the care and feeding of
+tensors. In the next section we will look more carefully at the rigorous definitions of manifolds
+and tensors, but the basic mechanics have been pretty well covered. Before jumping to more
+abstract mathematics, let’s review how physics works in Minkowski spacetime.
+
+Start with the worldline of a single particle. This is specified by a map R — M, where
+M is the manifold representing spacetime; we usually think of the path as a parameterized
+curve 2#(A). As mentioned earlier, the tangent vector to this path is da#/d\ (note that it
+depends on the parameterization). An object of primary interest is the norm of the tangent
+vector, which serves to characterize the path; if the tangent vector is timelike/null/spacelike
+at some parameter value A, we say that the path is timelike/null/spacelike at that point. This
+explains why the same words are used to classify vectors in the tangent space and intervals
+between two points — because a straight line connecting, say, two timelike separated points
+will itself be timelike at every point along the path.
+
+Nevertheless, it’s important to be aware of the sleight of hand which is being pulled here.
+The metric, as a (0,2) tensor, is a machine which acts on two vectors (or two copies of the
+same vector) to produce a number. It is therefore very natural to classify tangent vectors
+according to the sign of their norm. But the interval between two points isn’t something
+quite so natural; it depends on a specific choice of path (a “straight line”) which connects
+the points, and this choice in turn depends on the fact that spacetime is flat (which allows
+a unique choice of straight line between the points). A more natural object is the line
+element, or infinitesimal interval:
+
+ds* = ndatdz’ . (1.95)
+From this definition it is tempting to take the square root and integrate along a path to
+obtain a finite interval. But since ds? need not be positive, we define different procedures

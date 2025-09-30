@@ -1,0 +1,38 @@
+M. Chhay, D. Dutykh & D. Clamond 4/9
+
+From the equations (1.1) to (1.3), one can derive an equation for the conservation of the
+momentum flux
+
+Olhul + 0[hu® + Lgh® + 1R2y] = 0, (1.4)
+and an equation for the conservation of the energy
+o[ 3hu? + 2hPul + Lgh?] + O, (3u? + h%ul+ gh + 2hy)hu] = 0, (1.5)
+as well as an equation for the conservation of the tangential momentum at the free surface
+at[u - %h'l(ha’u,),] + 61[%112 +gh - %hzuf; - %uh‘l(h3uz)z] = 0. (1.6)
+Below, we discuss the connection between these conservation laws with the underlying
+multi-symplectic structure.
+
+The present manuscript is organised as follows. The multi-symplectic formulation is
+described in the section 2 and the underlying conservation laws are discussed in the section
+3. Finally, the main conclusions of this study and some perspective are outlined in the
+section 4.
+
+2. Multi-symplectic formulation
+
+A system of Partial Differential Equations (PDEs) is said to be multi-symplectic if it
+can written as a system of first-order equations of the form |5, 21]:
+
+M-z, + K-z, = V,5(2), (2.1)
+where a dot denotes the contracted (inner) product, z € R™ is a rank-one tensor (vector)
+of state variables, M € R™" and K € R™" are skew-symmetric constant rank-two tensors
+(matrices) and S is a smooth rank-zero tensor (scalar) function depending on z. (We
+use tensor notations because they give more compact formulae than the matrix formalism
+[4].) The function S plays the role of the Hamiltonian functional in classical symplectic
+formulations [2]. Consequently, S is sometimes called the ‘Hamiltonian’ function as well.
+It should be noted that the matrices M and K can be (and often are) degenerated [7].
+
+It turns out that the Serre equations (1.1)—(1.2) have a multi-symplectic structure with
+z=he +¢ey+ues+ves+pes+qes+rer;+seg (e unitary basis vectors) and
+
+M= e ®e - ex®e; + 5e,0€e; — 1€50 ey, (2.2)
+K = %el®e7f%e7®elfeg®eﬁ+ep,®eg, (2.3)
+S = (3v?- %u27§suv)h - Lgh? + Lp(us-v) + q(u+isv) - irs (2.4)

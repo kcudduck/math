@@ -1,0 +1,43 @@
+2 MANIFOLDS 50
+only be possible at that single point, not in any neighborhood of p. Actually we can do
+slightly better than this; it turns out that at any point p there exists a coordinate system in
+which g,,, takes its canonical form and the first derivatives d,g,, all vanish (while the second
+derivatives 9,0,9,, cannot be made to all vanish). Such coordinates are known as Riemann
+normal coordinates, and the associated basis vectors constitute a local Lorentz frame.
+Notice that in Riemann normal coordinates (or RNC’s) the metric at p looks like that of flat
+space “to first order.” This is the rigorous notion of the idea that “small enough regions of
+spacetime look like flat (Minkowski) space.” (Also, there is no difficulty in simultaneously
+constructing sets of basis vectors at every point in M such that the metric takes its canonical
+form; the problem is that in general this will not be a coordinate basis, and there will be no
+way to make it into one.)
+
+We won’t consider the detailed proof of this statement; it can be found in Schutz, pp. 158-
+160, where it goes by the name of the “local flatness theorem.” (He also calls local Lorentz
+frames “momentarily comoving reference frames,” or MCRF’s.) It is useful to see a sketch
+of the proof, however, for the specific case of a Lorentzian metric in four dimensions. The
+idea is to consider the transformation law for the metric
+
+ozt dx”
+
+Gu'v' = 9k v’ Guv > (235)
+and expand both sides in Taylor series in the sought-after coordinates 2. The expansion
+of the old coordinates z* looks like
+
+Oz ;o1 Ot o1 Pt ¢
+w# =|=— _,L-ﬂ + = —_— _«L-ﬂlwuz + = _— .’L"LIIL‘N2.’L'“3 + , 2.36
+((%ﬂ )p 2 <8x“1 Oxtz » 6 \ Oxt10xH2 0z » ( )
+with the other expansions proceeding along the same lines. (For simplicity we have set
+2#(p) = 2*(p) = 0.) Then, using some extremely schematic notation, the expansion of
+(2.35) to second order is
+(9, +(09),2 +(097),2'z
+Oz Ox N or Ox N Oz Ox P ,
+= (== —_— — z
+o' 0z'? » P A e »
+or Oz Pr Oz or Ox Or Ox
+gt g+ g+ =g | 2237
+<6z’ R T T W T T P e P A T W » (2:37)
+We can set terms of equal order in 2’ on each side equal to each other. Therefore, the
+components g,/,/(p), 10 numbers in all (to describe a symmetric two-index tensor), are
+determined by the matrix (92*/82*),. This is a 4 x 4 matrix with no constraints; thus,
+16 numbers we are free to choose. Clearly this is enough freedom to put the 10 numbers of
+guw(p) into canonical form, at least as far as having enough degrees of freedom is concerned.

@@ -1,0 +1,40 @@
+6 WEAK FIELDS AND GRAVITATIONAL RADIATION 153
+Meanwhile, for our slowly-moving particles we have 7 = 2° = t to lowest order, so the
+geodesic deviation equation becomes
+
+02 1, 0%
+
+=St =-S7—=h", . 6.62
+
+ot? 2 o2 (6:62)
+For our wave travelling in the 2® direction, this implies that only S* and S? will be affected
+— the test particles are only disturbed in directions perpendicular to the wave vector. This
+is of course familiar from electromagnetism, where the electric and magnetic fields in a plane
+wave are perpendicular to the wave vector.
+
+Our wave is characterized by the two numbers, which for future convenience we will
+rename as C = C; and Cx = Cpa. Let’s consider their effects separately, beginning with
+the case C'y = 0. Then we have
+
+2 1,0 ko2
+=St =5 (C et 6.63
+o2 2 6t2( e (6:63)
+and o @
+; 1., I
+8% = — 282 (C e . 6.64
+o0 55 7 (Cre™™) (6.64)
+These can be immediately solved to yield, to lowest order,
+1 ko2
+51— (1 + 5 Chetter ) S1(0) (6.65)
+and 1
+5% = (1 - 5@4"%1”) 5%(0) . (6.66)
+Thus, particles initially separated in the ! direction will oscillate back and forth in the z*
+direction, and likewise for those with an initial % separation. That is, if we start with a ring
+of stationary particles in the x-y plane, as the wave passes they will bounce back and forth
+in the shape of a “4”:
+y
+L X
+On the other hand, the equivalent analysis for the case where Cy = 0 but Cx # 0 would
+yield the solution
+1 -
+St = SY0) + §Cxe”‘” S2(0) (6.67)

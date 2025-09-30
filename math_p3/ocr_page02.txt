@@ -1,0 +1,43 @@
+2 CAPISTRANO-FILHO, SUN, AND ZHANG
+This note is concerned with the main results already obtained for the initial-boundary value problem
+(IBVP) of the KdV equation posed on a finite interval (0,L). The first paper which treated this problem was
+given by Bubnov in 1979 [16] when he considered the IBVP of the KdV equation on the finite interval (0, 1)
+with general boundary conditions. After that, many authors worked on improving the existing results and
+presenting new results in the last 30 years.
+Our intention here is to present the main results on this field. Also, we give some further comments
+and, at the end, discuss open problems related to the IBVP of the KdV equation in a bounded domain.
+2. A REVIEW OF IBVP FOR KDV
+Consider the IBVP of the KdV equation posed on a finite interval (0,L)
+2.2) Up + Uy + Uy + utt, =0, u(x,0) = ¢(x), 0<x<L,t>0
+with general non-homogeneous boundary conditions posed on the two ends of the interval (0,L),
+(2.3) Blu:hl(l), lel:hz(l), B3M:/’l3(l) t>0,
+where
+2 . .
+Bu=Y (a;jo{u(0,1)+ byjdlu(L,1)),  i=123,
+Jj=0
+and a;j, b;j, j=0,1,2, i=1,2,3, are real constants. The following natural question arises:
+Under what assumptions on the coefficients a;j, b;j in (2.3), is the IBVP (2.2)-(2.3) well-posed in the
+classical Sobolev space H*(0,L)?
+As mentioned before, Bubnov [16] studied the following IBVP of the KdV equation on the finite
+interval (0,1):
+Uy + Uty + ey = f, M(X,O)ZO, XG(O,]), IE((),T),
+2.4) aluﬁ(O,z)+a2ux(0,z)+a3u(0,t) =0,
+' Buuex(1,0) + Boux(1,2) + B3u(1,1) =0,
+Xiux(1,8) 4+ you(1,6) =0
+and obtained the following result.
+Theorem <7 [16]: Assume that
+if uPixy #0, then F, >0, F, >0,
+if Bi#0, x1#0, ay =0, then 0p =0, F, >0, o3 #0,
+@.5) if B1=0, x1#0, a1 #0, then F; >0, F3 #0,
+' if o1 =Pi=0, 21 #0, then F5 #0, o5 =0, 03 #0,
+if B =0, 00 #0, x1 =0, then F; >0, F3 #0,
+if oy =1 =21 =0, then oy =0, o3 #0, F3 #0,
+where
+2 2
+o0 Bxa B _ %
+Fi=—-—" kK= — = =25, B =0 — B
+a 207 Bxi B 2x} Pz = bux
+For any given
+[ € Hyy(0.00:L7(0.1) with f(x,0) =0,
+there exists a T > 0 such that (2.4) admits a unique solution
+ue LX0,T;H3(0,1)) with u, € L(0,T;L*(0,1)) NL*(0,T;H'(0,1)).

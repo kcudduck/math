@@ -1,0 +1,50 @@
+7 THE SCHWARZSCHILD SOLUTION AND BLACK HOLES 206
+of the external (asymptotically flat) universe, at least as seen from the black hole. But they
+see this (infinitely long) history in a finite amount of their proper time — thus, any signal
+that gets to them as they approach r_ is infinitely blueshifted. Therefore it is reasonable
+to believe (although I know of no proof) that any non-spherically symmetric perturbation
+that comes into a Reissner-Nordstrgm black hole will violently disturb the geometry we have
+described. It’s hard to say what the actual geometry will look like, but there is no very
+good reason to believe that it must contain an infinite number of asymptotically flat regions
+connecting to each other via various wormholes.
+
+Case Three — GM? = p? + ¢?
+
+This case is known as the extreme Reissner-Nordstrgm solution (or simply “extremal
+black hole”). The mass is exactly balanced in some sense by the charge — you can construct
+exact solutions consisting of several extremal black holes which remain stationary with re-
+spect to each other for all time. On the one hand the extremal hole is an amusing theoretical
+toy; these solutions are often examined in studies of the information loss paradox, and the
+role of black holes in quantum gravity. On the other hand it appears very unstable, since
+adding just a little bit of matter will bring it to Case Two.
+
+q
+D
+1’ 0
+1. &P 1
+q 4
+r=0 % T
+q
+D
+‘D +
+q 1
+D
+‘D
+q i0
+‘D
+N -
+) 1
+D
+‘D
++
+q 1
+D 0@ -
+l. 2 D
+K< @ i 0
+D
+q
+D
+
+The extremal black holes have A(r) = 0 at a single radius, r = GM. This does represent
+an event horizon, but the r coordinate is never timelike; it becomes null at » = GM, but is
+spacelike on either side. The singularity at » = 0 is a timelike line, as in the other cases. So

@@ -1,0 +1,31 @@
+7 THE SCHWARZSCHILD SOLUTION AND BLACK HOLES 186
+v
+r
+r=0 r=2GM
+The next step would be to follow spacelike geodesics to see if we would uncover still more
+regions. The answer is yes, we would reach yet another piece of the spacetime, but let’s
+shortcut the process by defining coordinates that are good all over. A first guess might be
+to use both @ and ¥ at once (in place of ¢ and r), which leads to
+1 2GM .
+ast = (1 - G—) (didd + dadii) + r2dQ? | (7.73)
+r
+with r defined implicitly in terms of @ and ¥ by
+1 r
+S@—7) = r+2GM1n<2G’W - 1) . (7.74)
+We have actually re-introduced the degeneracy with which we started out; in these coordi-
+nates r = 2GM is “Infinitely far away” (at either & = —oo or © = +00). The thing to do is
+to change to coordinates which pull these points into finite coordinate values; a good choice
+is
+o = U/AGM
+v o= e VAOM (7.75)
+which in terms of our original (¢,r) system is
+u = ( T 1>1/2 o +0)/AGM
+2GM
+v o= (_r — 1)1/2 e(r—O/AGM (7.76)
+2GM
+In the (v, v/, 6, ¢) system the Schwarzschild metric is
+16G3M3 oo,
+ds? = - ——— 7" 2M(qu/dv’ + dv'du’) + r2dQ? . (7.77)
+r
+Finally the nonsingular nature of » = 2GM becomes completely manifest; in this form none
+of the metric coefficients behave in any special way at the event horizon.

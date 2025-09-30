@@ -1,0 +1,45 @@
+3 CURVATURE 80
+In fact, this equation plus the other symmetries (3.64), (3.78) and (3.79) are enough to imply
+(3.81), as can be easily shown by expanding (3.83) and messing with the resulting terms.
+Therefore imposing the additional constraint of (3.83) is equivalent to imposing (3.81), once
+the other symmetries have been accounted for. How many independent restrictions does this
+represent? Let us imagine decomposing
+szr/,w = Xpﬂ;u/ + R[pzr/,w] . (384)
+
+It is easy to see that any totally antisymmetric 4-index tensor is automatically antisymmetric
+in its first and last indices, and symmetric under interchange of the two pairs. Therefore
+these properties are independent restrictions on X, unrelated to the requirement (3.83).
+Now a totally antisymmetric 4-index tensor has n(n—1)(n—2)(n—3)/4! terms, and therefore
+(3.83) reduces the number of independent components by this amount. We are left with
+
+1 . ; 1 1 .
+
+—(n* =20 +3n% = 2n) — —n(n —1)(n —2)(n — 3) = —=n*(n*-1) (3.85)
+
+8 24 12
+independent components of the Riemann tensor.
+
+In four dimensions, therefore, the Riemann tensor has 20 independent components. (In
+one dimension it has none.) These twenty functions are precisely the 20 degrees of freedom
+in the second derivatives of the metric which we could not set to zero by a clever choice of
+coordinates. This should reinforce your confidence that the Riemann tensor is an appropriate
+measure of curvature.
+
+In addition to the algebraic symmetries of the Riemann tensor (which constrain the
+number of independent components at any point), there is a differential identity which
+it obeys (which constrains its relative values at different points). Consider the covariant
+derivative of the Riemann tensor, evaluated in Riemann normal coordinates:
+
+vARp(r/u/ = ?/\Rpa;w
+= 56)\(6#&,%” — 0u0pGvs — 0u0sGpu + 040pGuo) - (3.86)
+We would like to consider the sum of cyclic permutations of the first three indices:
+VARWlW + VoRozxw + Vo Ry
+
+= i(ax\auaagpu - aAauapguo - akauaagpu + akauapg;w
+
++apaua)\gm/ - a/)ap,aagu)\ - apauakg(m, + a/)auangu)\
+
++aaauapg>\u - aaauakgup - aaauapg/\u + aaauakgup)
+= 0. (3.87)
+Once again, since this is an equation between tensors it is true in any coordinate system,
+even though we derived it in a particular one. We recognize by now that the antisymmetry

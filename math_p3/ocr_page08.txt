@@ -1,0 +1,56 @@
+8 CAPISTRANO-FILHO, SUN, AND ZHANG
+Consequently, it suffices to establish a global a priori L?(0,L) estimate
+(4.19) sup [lu(-,1)||r2(0,) < 4o,
+0<t<oo
+
+for solutions of the IBVP (4.18) in order to obtain the global well-posedness of the IBVP (4.18) in the space
+H*(0,L) for any s > 0. However, estimate (4.19) is known to be held only in one case
+
+Uy + Uy + Uty + Uy = f, O<x<L,t>0
+
+u(x,0) = ¢(x)
+
+u(0,1) = hy (1), u(L,t) = hy(t), uy(L,t) = h3(1).
+o Is the IBVP well-posed in the space H*(0,L) for some s < —1?
+
+Theorem ¢ ensures that the IBVP (4.18) is locally well-posed in the space H*(0,L) for any s > 0.
+Theorem ¢ can also be extended to the case of —1 < s < 0 using the same approach developed in [8]. For
+the pure initial value problems (IVP) of the KdV equation posed on the whole line R or on torus T,
+
+(4.20) U+ Uty + Uy =0, u(x,0)=¢(x), x,teR
+and
+4.21) U+ Uty + Uy =0, u(x,0) =¢(x), xeT,teR,
+it is well-known that the IVP (4.20) is well-posed in the space H*(RR) for any s > —% and is (conditionally)
+ill-posed in the space H*(R) for any s < — % in the sense the corresponding solution map cannot be uniformly
+continuous. As for the IVP (4.21), it is well-posed in the space H*(T) for any s > —1. The solution
+map corresponding to the IVP (4.21) is real analytic when s > 7%, but only continuous (not even locally
+uniformly continuous) when —1 <s < —%. Whether the IVP (4.20) is well-posed in the space H*(RR) for
+any s < —% or the IVP (4.21) is well-posed in the space H*(T) for any s < —1 is still an open question. On
+the other hand, by contrast, the IVP of the KdV-Burgers equation
+
+Up + Uty + Uy — Uy =0, u(x,0)=0¢(x), xeR, >0
+is known to be well-posed in the space H*(R) for any s > —1, but is known to be ill-posed for any s < —1.
+We conjecture that the IBVP (4.18) is ill-posed in the space H*(0,L) for any s < —1.
+
+Finally, still concerning with well-posedness problem, while the approach developed recently in [18]
+studies the nonhomogeneous boundary value problems of the KdV equation on (0,L) with quite general
+boundary conditions, there are still some boundary value problems of the KdV equation that the approach
+do not work, for example
+
+Uy + Uty + e =0, x€(0,L)
+(4.22) u(x,0) = ¢(x),
+
+u(0,1) = u(L,1), uc(0,¢) = uy(L,t), e (0,¢) = uyr(L,1)
+and
+
+Uy + Uty + e =0, x€(0,L),
+(4.23) u(x,0) = ¢(x),
+u(0,1) =0, u(L,t) =0, ue(0,7) = uy(L,1).
+A common feature for these two boundary value problems is that the L>—norm of their solutions are con-
+served:
+L L
+/ WP (x,1)dx = / 0% (x)dx for any r € R.
+0 0
+
+The IBVP (4.22) is equivalent to the IVP (4.21) which was shown by Kato [38, 39] to be well-posed in the
+space H*(T) when s > % as early as in the late 1970s. Its well-posedness in the space H*(T) when s < % s

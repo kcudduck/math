@@ -1,0 +1,46 @@
+5 MORE GEOMETRY 130
+a vector; if V/(p) is a vector at a point p on M, we define the pushforward vector ¢*V at the
+point ¢(p) on N by giving its action on functions on N:
+
+(" V)(f) = V(guf) - (5.2)
+So to push forward a vector field we say “the action of ¢*V on any function is simply the
+action of V' on the pullback of that function.”
+
+This is a little abstract, and it would be nice to have a more concrete description. We
+know that a basis for vectors on M is given by the set of partial derivatives 9, = %, and
+a basis on N is given by the set of partial derivatives d, = #. Therefore we would like
+to relate the components of V' = V#9, to those of (¢*V) = (¢*V)*9,. We can find the
+sought-after relation by applying the pushed-forward vector to a test function and using the
+chain rule (2.3):
+
+(@V)*0af = VHOu(0.f)
+= V“%(f ° )
+v
+— [
+= V (‘)x“aaf . (5.3)
+This simple formula makes it irresistible to think of the pushforward operation ¢* as a matrix
+operator, (¢*V)* = (¢*)*,V#, with the matrix being given by
+oy”
+s\ I
+(@)% = 50 - (5.4)
+The behavior of a vector under a pushforward thus bears an unmistakable resemblance to the
+vector transformation law under change of coordinates. In fact it is a generalization, since
+when M and N are the same manifold the constructions are (as we shall discuss) identical;
+but don’t be fooled, since in general y and « have different allowed values, and there is no
+reason for the matrix dy®/0z* to be invertible.
+
+It is a rewarding exercise to convince yourself that, although you can push vectors forward
+from M to N (given a map ¢ : M — N), you cannot in general pull them back — just keep
+trying to invent an appropriate construction until the futility of the attempt becomes clear.
+Since one-forms are dual to vectors, you should not be surprised to hear that one-forms can
+be pulled back (but not in general pushed forward). To do this, remember that one-forms
+are linear maps from vectors to the real numbers. The pullback ¢.w of a one-form w on N
+can therefore be defined by its action on a vector V on M, by equating it with the action of
+w itself on the pushforward of V:
+
+(¢w)(V) = w(¢"V) . (5.5)
+Once again, there is a simple matrix description of the pullback operator on forms, (¢.w), =
+(¢+)“waq, which we can derive using the chain rule. It is given by
+oy~
+o _ ~J
+()™ = pnl (5.6)

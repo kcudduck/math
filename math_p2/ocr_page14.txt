@@ -1,0 +1,42 @@
+1 SPECIAL RELATIVITY AND FLAT SPACETIME 7
+t
+¢
+A
+)
+X=-t 1 x=t
+X =-t ! x =t
+!
+1
+1
+I |
+-
+— X
+- - li
+1
+!
+1
+straight lines moving at the speed of light is called a light cone; this entire set is invariant
+under Lorentz transformations. Light cones are naturally divided into future and past; the
+set of all points inside the future and past light cones of a point p are called timelike
+separated from p, while those outside the light cones are spacelike separated and those
+on the cones are lightlike or null separated from p. Referring back to (1.3), we see that the
+interval between timelike separated points is negative, between spacelike separated points is
+positive, and between null separated points is zero. (The interval is defined to be s2, not the
+square root of this quantity.) Notice the distinction between this situation and that in the
+Newtonian world; here, it is impossible to say (in a coordinate-independent way) whether a
+point that is spacelike separated from p is in the future of p, the past of p, or “at the same
+time”.
+
+To probe the structure of Minkowski space in more detail, it is necessary to introduce
+the concepts of vectors and tensors. We will start with vectors, which should be familiar. Of
+course, in spacetime vectors are four-dimensional, and are often referred to as four-vectors.
+This turns out to make quite a bit of difference; for example, there is no such thing as a
+cross product between two four-vectors.
+
+Beyond the simple fact of dimensionality, the most important thing to emphasize is that
+each vector is located at a given point in spacetime. You may be used to thinking of vectors
+as stretching from one point to another in space, and even of “free” vectors which you can
+slide carelessly from point to point. These are not useful concepts in relativity. Rather, to
+each point p in spacetime we associate the set of all possible vectors located at that point;
+this set is known as the tangent space at p, or 7,,. The name is inspired by thinking of the
+set of vectors attached to a point on a simple curved two-dimensional space as comprising a

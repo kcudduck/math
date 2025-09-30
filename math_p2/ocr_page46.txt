@@ -1,0 +1,36 @@
+2 MANIFOLDS 39
+chart will cover the manifold. A Mercator projection, traditionally used for world maps,
+misses both the North and South poles (as well as the International Date Line, which involves
+the same problem with @ that we found for S*.) Let’s take S? to be the set of points in R?
+defined by (z')? + (2%)% + (2%)? = 1. We can construct a chart from an open set U, defined
+to be the sphere minus the north pole, via “stereographic projection”:
+<3
+=  x2
+X!
+!
+Thus, we draw a straight line from the north pole to the plane defined by 2* = —1, and
+assign to the point on S? intercepted by the line the Cartesian coordinates (y',y?) of the
+appropriate point on the plane. Explicitly, the map is given by
+22! 222
+1,2 03y — (1 2
+et =y )= l—s, ——= | - 2.4
+b .5 = (4 47) (1_95-3/1_%3) (2.4)
+You are encouraged to check this for yourself. Another chart (Us, ¢2) is obtained by project-
+ing from the south pole to the plane defined by x* = +1. The resulting coordinates cover
+the sphere minus the south pole, and are given by
+2zt 222
+1,2 03y (1 L2
+o(zt 2% 2) = (2,2°) = | —= , ——= | - 2.5
+et ) = (2.2 = (55 ) 25)
+Together, these two charts cover the entire manifold, and they overlap in the region —1 <
+2% < 41. Another thing you can check is that the composition ¢, 0 ¢; ! is given by
+2= (2.6)
+[(y")? + (%))
+and is C* in the region of overlap. As long as we restrict our attention to this region, (2.6)
+is just what we normally think of as a change of coordinates.
+
+We therefore see the necessity of charts and atlases: many manifolds cannot be covered
+with a single coordinate system. (Although some can, even ones with nontrivial topology.
+Can you think of a single good coordinate system that covers the cylinder, S* x R?) Never-
+theless, it is very often most convenient to work with a single chart, and just keep track of
+the set of points which aren’t included.

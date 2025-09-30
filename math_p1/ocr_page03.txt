@@ -1,0 +1,56 @@
+EXISTENCE AND SMOOTHNESS OF THE NAVIER-STOKES EQUATION 3
+a finite blowup time 7', then the velocity (u;(x,t))1<i<3 becomes unbounded near
+the blowup time.
+
+Other unpleasant things are known to happen at the blowup time 7', if T' < oco.
+For the Euler equations (v = 0), if there is a solution (with f = 0, say) with finite
+blowup time T, then the vorticity w(z,t) = curl, u(z,t) satisfies
+
+T
+/ { sup \w(z,t)|} dt = 0o (Beale-Kato-Majda),
+0 \azer?
+so that the vorticity blows up rapidly.
+
+Many numerical computations appear to exhibit blowup for solutions of the
+Euler equations, but the extreme numerical instability of the equations makes it
+very hard to draw reliable conclusions.
+
+The above results are covered very well in the book of Bertozzi and Majda [1].
+
+Starting with Leray [5], important progress has been made in understanding weak
+solutions of the Navier—Stokes equations. To arrive at the idea of a weak solution of
+a PDE, one integrates the equation against a test function, and then integrates by
+parts (formally) to make the derivatives fall on the test function. For instance, if (1)
+and (2) hold, then, for any smooth vector field 0(z,t) = (0;(x,t))1<i<n compactly
+supported in R x (0,00), a formal integration by parts yields
+(12) //u gdxdt - Z//uluj%dzdt
+
+R3 xR Y R3xR
+= V//u<AdedtwL//f»@dzdtf//p» (div 0)dadt.
+R3xR R3 xR R3XR
+
+Note that (12) makes sense for u € L?, f € L', p € L', whereas (1) makes sense
+only if u(z,t) is twice differentiable in z. Similarly, if ¢(x,t) is a smooth function,
+compactly supported in R3 x (0,00), then a formal integration by parts and (2)
+imply
+
+(13) //u - Vapdrdt = 0.
+
+RSXR
+
+A solution of (12), (13) is called a weak solution of the Navier—Stokes equations.
+
+A long-established idea in analysis is to prove existence and regularity of solutions
+of a PDE by first constructing a weak solution, then showing that any weak solution
+is smooth. This program has been tried for Navier-Stokes with partial success.
+Leray in [5] showed that the Navier—Stokes equations (1), (2), (3) in three space
+dimensions always have a weak solution (p,u) with suitable growth properties.
+Uniqueness of weak solutions of the Navier—Stokes equation is not known. For the
+Euler equation, uniqueness of weak solutions is strikingly false. Scheffer (8], and,
+later, Schnirelman [9] exhibited weak solutions of the Euler equations on R? x R
+with compact support in spacetime. This corresponds to a fluid that starts from
+rest at time ¢t = 0, begins to move at time ¢t = 1 with no outside stimulus, and
+returns to rest at time ¢ = 2, with its motion always confined to a ball B C R®.
+
+Scheffer [7] applied ideas from geometric measure theory to prove a partial
+regularity theorem for suitable weak solutions of the Navier-Stokes equations.

@@ -1,0 +1,41 @@
+EXISTENCE AND SMOOTHNESS OF THE
+NAVIER-STOKES EQUATION
+CHARLES L. FEFFERMAN
+
+The Euler and Navier—Stokes equations describe the motion of a fluid in R"
+(n = 2 or 3). These equations are to be solved for an unknown velocity vector
+u(z,t) = (ui(x,t))1<i<n € R™ and pressure p(z,t) € R, defined for position z € R
+and time ¢ > 0. We restrict attention here to incompressible fluids filling all of R™.
+The Navier-Stokes equations are then given by
+
+1) " Quy Ip
+(1) auﬁ—;u]%:yAul— a—xi+fi(x,t) (x € R",t>0),
+) divu—i%—ﬂ (z €R™,t>0)
+- pt ox; =
+with initial conditions
+Here, u®(z) is a given, C™ divergence-free vector field on R”, fi(x,t) are the com-
+ponents of a given, externally applied force (e.g. gravity), v is a positive coefficient
+n
+02
+(the viscosity), and A = Zﬁ is the Laplacian in the space variables. The FEuler
+i=1 i
+equations are equations (1), (2), (3) with v set equal to zero.
+
+Equation (1) is just Newton’s law f = ma for a fluid element subject to the ex-
+ternal force f = (f;(2,t))1<i<n and to the forces arising from pressure and friction.
+Equation (2) just says that the fluid is incompressible. For physically reasonable
+solutions, we want to make sure u(x,t) does not grow large as |z| — oco. Hence, we
+will restrict attention to forces f and initial conditions u° that satisfy
+(4) [02u° (2)] < Carc (14 |z]) =K on R", for any o and K
+and
+(5) 1029 f(2,t)] < Camr(1+ |2| +1)7F  on R™ x [0,00), for any a,m, K.
+We accept a solution of (1), (2), (3) as physically reasonable only if it satisfies
+©) pou € C=(R™ x [0,00))
+and
+(7) / |u(z,t)>dz < C for allt >0 (bounded energy).
+
+Jrn
+Alternatively, to rule out problems at infinity, we may look for spatially periodic
+solutions of (1), (2), (3). Thus, we assume that u°(x), f(x,t) satisfy
+® Clate)=uw@), flate ) =fat) forl<j<n
+1

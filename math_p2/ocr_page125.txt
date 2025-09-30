@@ -1,0 +1,42 @@
+4 GRAVITATION 118
+
+We have now justified Einstein’s equations in two different ways: as the natural covariant
+generalization of Poisson’s equation for the Newtonian gravitational potential, and as the
+result of varying the simplest possible action we could invent for the metric. The rest of
+the course will be an exploration of the consequences of these equations, but before we start
+on that road let us briefly explore ways in which the equations could be modified. There
+are an uncountable number of such ways, but we will consider four different possibilities:
+the introduction of a cosmological constant, higher-order terms in the action, gravitational
+scalar fields, and a nonvanishing torsion tensor.
+
+The first possibility is the cosmological constant; George Gamow has quoted Einstein as
+calling this the biggest mistake of his life. Recall that in our search for the simplest possible
+action for gravity we noted that any nontrivial scalar had to be of at least second order in
+derivatives of the metric; at lower order all we can create is a constant. Although a constant
+does not by itself lead to very interesting dynamics, it has an important effect if we add it
+to the conventional Hilbert action. We therefore consider an action given by
+
+S = / d"z/=g(R - 2A) , (4.73)
+where A is some constant. The resulting field equations are
+
+1
+
+R, — §Rg,“, +Ag =0, (4.74)
+and of course there would be an energy-momentum tensor on the right hand side if we had
+included an action for matter. A is the cosmological constant; it was originally introduced
+by Einstein after it became clear that there were no solutions to his equations representing
+a static cosmology (a universe unchanging with time on large scales) with a nonzero matter
+content. If the cosmological constant is tuned just right, it is possible to find a static solution,
+but it is unstable to small perturbations. Furthermore, once Hubble demonstrated that the
+universe is expanding, it became less important to find static solutions, and Einstein rejected
+his suggestion. Like Rasputin, however, the cosmological constant has proven difficult to kill
+off. If we like we can move the additional term in (4.74) to the right hand side, and think of
+it as a kind of energy-momentum tensor, with 7, = —Ag,, (it is automatically conserved
+by metric compatibility). Then A can be interpreted as the “energy density of the vacuum,”
+a source of energy and momentum that is present even in the absence of matter fields. This
+interpretation is important because quantum field theory predicts that the vacuum should
+have some sort of energy and momentum. In ordinary quantum mechanics, an harmonic
+oscillator with frequency w and minimum classical energy Ey = 0 upon quantization has a
+ground state with energy Fy = %hw. A quantized field can be thought of as a collection of
+an infinite number of harmonic oscillators, and each mode contributes to the ground state
+energy. The result is of course infinite, and must be appropriately regularized, for example

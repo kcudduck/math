@@ -1,0 +1,44 @@
+3 CURVATURE 61
+1 o, . .
++§9 (0rgre + Orgor — Oogrr)
+1 1
+= 5(1)(0 +0-0)+ 5(())(0 +0-0)
+= 0. (3.23)
+Sadly, it vanishes. But not all of them do:
+T 1 TP
+Toe = 39 (0096 + Ongps — Opgen)
+I
+= 59”(36997‘ + o gro — Orgon)
+I
+= 5(1)(0 +0—2r)
+= —r. (3.24)
+Continuing to turn the crank, we eventually find
+T, = =0
+r‘ =0
+1
+Ff@ = FZT =
+r
+I = 0. (3.25)
+The existence of nonvanishing connection coefficients in curvilinear coordinate systems is
+the ultimate cause of the formulas for the divergence and so on that you find in books on
+electricity and magnetism.
+
+Contrariwise, even in a curved space it is still possible to make the Christoffel symbols
+vanish at any one point. This is just because, as we saw in the last section, we can always
+make the first derivative of the metric vanish at a point; so by (3.21) the connection coeffi-
+cients derived from this metric will also vanish. Of course this can only be established at a
+point, not in some neighborhood of the point.
+
+Another useful property is that the formula for the divergence of a vector (with respect
+to the Christoffel connection) has a simplified form. The covariant divergence of V* is given
+by
+
+V.Vt =0, V" + FZ/\V)‘ . (3.26)
+It’s easy to show (see pp. 106-108 of Weinberg) that the Christoffel connection satisfies
+1
+Iy = ——=0/lgl , (3.27)
+V19l
+and we therefore obtain
+I 1 "
+A ﬁam/mv ). (3.28)
+g

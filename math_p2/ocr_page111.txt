@@ -1,0 +1,36 @@
+4 GRAVITATION 104
+t
+T At,
+- i
+z
+Zo Z1
+
+“simple geometry”; a better description of what happens is to imagine that spacetime is
+curved.
+
+All of this should constitute more than enough motivation for our claim that, in the
+presence of gravity, spacetime should be thought of as a curved manifold. Let us now take
+this to be true and begin to set up how physics works in a curved spacetime. The principle of
+equivalence tells us that the laws of physics, in small enough regions of spacetime, look like
+those of special relativity. We interpret this in the language of manifolds as the statement
+that these laws, when written in Riemannian normal coordinates z# based at some point
+p, are described by equations which take the same form as they would in flat space. The
+simplest example is that of freely-falling (unaccelerated) particles. In flat space such particles
+move in straight lines; in equations, this is expressed as the vanishing of the second derivative
+of the parameterized path z#(\):
+
+d*a
+D 0. (4.8)
+According to the EEP, exactly this equation should hold in curved space, as long as the
+coordinates z* are RNC’s. What about some other coordinate system? As it stands, (4.8)
+is not an equation between tensors. However, there is a unique tensorial equation which
+reduces to (4.8) when the Christoffel symbols vanish; it is
+@-FF“EE:O. (4.9)
+dN? L7 AN dX
+Of course, this is simply the geodesic equation. In general relativity, therefore, free particles
+move along geodesics; we have mentioned this before, but now you know why it is true.
+
+As far as free particles go, we have argued that curvature of spacetime is necessary to
+describe gravity; we have not yet shown that it is sufficient. To do so, we can show how the
+usual results of Newtonian gravity fit into the picture. We define the “Newtonian limit” by
+three requirements: the particles are moving slowly (with respect to the speed of light), the

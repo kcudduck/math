@@ -1,0 +1,41 @@
+1 SPECIAL RELATIVITY AND FLAT SPACETIME 3
+ends of your journey is the same as if you had made the same trip, at the same speed, in the
+other direction. The coordinate system thus constructed is an inertial frame.
+
+An event is defined as a single moment in space and time, characterized uniquely by
+(t,7,y,2). Then, without any motivation for the moment, let us introduce the spacetime
+interval between two events:
+
+§7 = —(cAt)? + (Az)? + (Ay)* + (Az)%. (1.3)
+(Notice that it can be positive, negative, or zero even for two nonidentical points.) Here, ¢
+is some fixed conversion factor between space and time; that is, a fixed velocity. Of course
+it will turn out to be the speed of light; the important thing, however, is not that photons
+happen to travel at that speed, but that there exists a ¢ such that the spacetime interval
+is invariant under changes of coordinates. In other words, if we set up a new inertial frame
+(t',2',y', 2') by repeating our earlier procedure, but allowing for an offset in initial position,
+angle, and velocity between the new rods and the old, the interval is unchanged:
+s* = —(cAY)? + (Ax)? 4 (Ay)? + (AZ)? . (1.4)
+This is why it makes sense to think of SR as a theory of 4-dimensional spacetime, known
+as Minkowski space. (This is a special case of a 4-dimensional manifold, which we will
+deal with in detail later.) As we shall see, the coordinate transformations which we have
+implicitly defined do, in a sense, rotate space and time into each other. There is no absolute
+notion of “simultaneous events”; whether two things occur at the same time depends on the
+coordinates used. Therefore the division of Minkowski space into space and time is a choice
+we make for our own purposes, not something intrinsic to the situation.
+
+Almost all of the “paradoxes” associated with SR result from a stubborn persistence of
+the Newtonian notions of a unique time coordinate and the existence of “space at a single
+moment in time.” By thinking in terms of spacetime rather than space and time together,
+these paradoxes tend to disappear.
+
+Let’s introduce some convenient notation. Coordinates on spacetime will be denoted by
+letters with Greek superscript indices running from 0 to 3, with 0 generally denoting the
+time coordinate. Thus,
+
+20 =ct
+-
+P jz - ; (L.5)
+=z
+(Don’t start thinking of the superscripts as exponents.) Furthermore, for the sake of sim-
+plicity we will choose units in which
+c=1; (1.6)

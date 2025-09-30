@@ -1,0 +1,41 @@
+1 SPECIAL RELATIVITY AND FLAT SPACETIME 28
+Instead, let us consider electromagnetism. The three-dimensional Lorentz force is given
+by f = ¢(E + v x B), where ¢ is the charge on the particle. We would like a tensorial
+generalization of this equation. There turns out to be a unique answer:
+
+= qU Ry . (1.103)
+You can check for yourself that this reduces to the Newtonian version in the limit of small
+velocities. Notice how the requirement that the equation be tensorial, which is one way of
+guaranteeing Lorentz invariance, severely restricted the possible expressions we could get.
+This is an example of a very general phenomenon, in which a small number of an apparently
+endless variety of possible physical laws are picked out by the demands of symmetry.
+
+Although p* provides a complete description of the energy and momentum of a particle,
+for extended systems it is necessary to go further and define the energy-momentum tensor
+(sometimes called the stress-energy tensor), 7. This is a symmetric (2,0) tensor which tells
+us all we need to know about the energy-like aspects of a system: energy density, pressure,
+stress, and so forth. A general definition of 7" is “the flux of four-momentum p* across a
+surface of constant z¥”. To make this more concrete, let’s consider the very general category
+of matter which may be characterized as a fluid — a continuum of matter described by
+macroscopic quantities such as temperature, pressure, entropy, viscosity, etc. In fact this
+definition is so general that it is of little use. In general relativity essentially all interesting
+types of matter can be thought of as perfect fluids, from stars to electromagnetic fields to
+the entire universe. Schutz defines a perfect fluid to be one with no heat conduction and no
+viscosity, while Weinberg defines it as a fluid which looks isotropic in its rest frame; these
+two viewpoints turn out to be equivalent. Operationally, you should think of a perfect fluid
+as one which may be completely characterized by its pressure and density.
+
+To understand perfect fluids, let’s start with the even simpler example of dust. Dust
+is defined as a collection of particles at rest with respect to each other, or alternatively
+as a perfect fluid with zero pressure. Since the particles all have an equal velocity in any
+fixed inertial frame, we can imagine a “four-velocity field” U*(z) defined all over spacetime.
+(Indeed, its components are the same at each point.) Define the number-flux four-vector
+to be
+
+Nt =nU" | (1.104)
+where n is the number density of the particles as measured in their rest frame. Then N°
+is the number density of particles as measured in any other frame, while N is the flux of
+particles in the 2 direction. Let’s now imagine that each of the particles have the same mass
+m. Then in the rest frame the energy density of the dust is given by
+
+p=nm . (1.105)

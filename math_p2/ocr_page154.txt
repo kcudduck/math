@@ -1,0 +1,31 @@
+6 WEAK FIELDS AND GRAVITATIONAL RADIATION 147
+In this gauge, the linearized Einstein equations G, = 87GT),, simplify somewhat, to
+1
+Ohy — §T/WD}L = —167GT,, . (6.18)
+while the vacuum equations R, = 0 take on the elegant form
+Ohw =0, (6.19)
+which is simply the conventional relativistic wave equation. Together, (6.19) and (6.17)
+determine the evolution of a disturbance in the gravitational field in vacuum in the harmonic
+gauge.
+It is often convenient to work with a slightly different description of the metric pertur-
+bation. We define the “trace-reversed” perturbation Bw by
+- 1
+The name makes sense, since h*, = —h*,. (The Einstein tensor is simply the trace-reversed
+Ricci tensor.) In terms of l_lw the harmonic gauge condition becomes
+O.h*\ =0 (6.21)
+The full field equations are
+Ohy, = —167GT,, | (6.22)
+from which it follows immediately that the vacuum equations are
+Oh,, =0 . (6.23)
+From (6.22) and our previous exploration of the Newtonian limit, it is straightforward to
+derive the weak-field metric for a stationary spherical source such as a planet or star. Recall
+that previously we found that Einstein’s equations predicted that hgy obeyed the Poisson
+equation (4.51) in the weak-field limit, which implied
+hoo = —2P | (6.24)
+where @ is the conventional Newtonian potential, ® = —GM/r. Let us now assume that
+the energy-momentum tensor of our source is dominated by its rest energy density p = Too.
+(Such an assumption is not generally necessary in the weak-field limit, but will certainly
+hold for a planet or star, which is what we would like to consider for the moment.) Then
+the other components of 7}, will be much smaller than Ty, and from (6.22) the same must
+hold for Euw- If hgo is much larger than ;I,ij. we will have
+h=—h= —’r/‘“’}ilw = hoo , (6.25)

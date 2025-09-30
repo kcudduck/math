@@ -1,0 +1,5 @@
+timestamp,paper_id,pages,sha256_8,ocr_coverage,header_footer_removed,status
+2025-09-30T17:38:43.919Z,math_p1,6,c1b5f27b,0.8571,0.8571,REVIEW
+2025-09-30T17:48:20.594Z,math_p2,238,d4cbfeed,0.9958,0.9749,READY
+2025-09-30T17:53:22.723Z,math_p3,11,0522d838,0.9167,0.9167,REVIEW
+2025-09-30T18:00:10.425Z,math_p4,10,6f698888,0.9091,0.9091,REVIEW

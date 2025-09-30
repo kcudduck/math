@@ -1,0 +1,13 @@
+4 GRAVITATION 128
+someness. The possibility of picking a “bad” initial hypersurface does not arise very often,
+especially since most solutions are found globally (by solving Einstein’s equations throughout
+spacetime). The one situation in which you have to be careful is in numerical solution of Ein-
+stein’s equations, where a bad choice of hypersurface can lead to numerical difficulties even
+if in principle a complete solution exists. Closed timelike curves seem to be something that
+GR works hard to avoid — there are certainly solutions which contain them, but evolution
+from generic initial data does not usually produce them. Singularities, on the other hand,
+are practically unavoidable. The simple fact that the gravitational force is always attractive
+tends to pull matter together, increasing the curvature, and generally leading to some sort of
+singularity. This is something which we apparently must learn to live with, although there
+is some hope that a well-defined theory of quantum gravity will eliminate the singularities
+of classical GR.

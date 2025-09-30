@@ -1,0 +1,32 @@
+4 GRAVITATION 113
+clearly this does not carry over to general relativity (outside the weak-field limit). There is
+a physical reason for this, namely that in GR the gravitational field couples to itself. This
+can be thought of as a consequence of the equivalence principle — if gravitation did not
+couple to itself, a “gravitational atom” (two particles bound by their mutual gravitational
+attraction) would have a different inertial mass (due to the negative binding energy) than
+gravitational mass. From a particle physics point of view this can be expressed in terms of
+Feynman diagrams. The electromagnetic interaction between two electrons can be thought
+of as due to exchange of a virtual photon:
+
+o-
+
+photon
+
+o
+But there is no diagram in which two photons exchange another photon between themselves;
+electromagnetism is linear. The gravitational interaction, meanwhile, can be thought of
+as due to exchange of a virtual graviton (a quantized perturbation of the metric). The
+nonlinearity manifests itself as the fact that both electrons and gravitons (and anything
+else) can exchange virtual gravitons, and therefore exert a gravitational force:
+
+o
+graviton gravitons
+o
+
+There is nothing profound about this feature of gravity; it is shared by most gauge theories,
+such as quantum chromodynamics, the theory of the strong interactions. (Electromagnetism
+is actually the exception; the linearity can be traced to the fact that the relevant gauge group,
+U(1), is abelian.) But it does represent a departure from the Newtonian theory. (Of course
+this quantum mechanical language of Feynman diagrams is somewhat inappropriate for GR,
+which has not [yet] been successfully quantized, but the diagrams are just a convenient
+shorthand for remembering what interactions exist in the theory.)

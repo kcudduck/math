@@ -1,0 +1,42 @@
+1 SPECIAL RELATIVITY AND FLAT SPACETIME 24
+in three dimensions do we have an interesting map from two dual vectors to a third dual
+vector. If you wanted to you could define a map from n — 1 one-forms to a single one-form,
+but I'm not sure it would be of any use.
+
+Electrodynamics provides an especially compelling example of the use of differential
+forms. From the definition of the exterior derivative, it is clear that equation (1.78) can
+be concisely expressed as closure of the two-form F,,:
+
+dF =0. (1.91)
+Does this mean that F' is also exact? Yes; as we’ve noted, Minkowski space is topologically
+trivial, so all closed forms are exact. There must therefore be a one-form A, such that
+
+F=dA. (1.92)
+This one-form is the familiar vector potential of electromagnetism, with the 0 component
+given by the scalar potential, Ay = ¢. If one starts from the view that the A, is the
+fundamental field of electromagnetism, then (1.91) follows as an identity (as opposed to a
+dynamical law, an equation of motion). Gauge invariance is expressed by the observation
+that the theory is invariant under A — A + d\ for some scalar (zero-form) A, and this is
+also immediate from the relation (1.92). The other one of Maxwell’s equations, (1.77), can
+be expressed as an equation between three-forms:
+
+d(xF) = 4dn(xJ) , (1.93)
+
+where the current one-form J is just the current four-vector with index lowered. Filling in
+the details is left for you to do.
+
+As an intriguing aside, Hodge duality is the basis for one of the hottest topics in theoretical
+physics today. It’s hard not to notice that the equations (1.91) and (1.93) look very similar.
+Indeed, if we set J, = 0, the equations are invariant under the “duality transformations”
+
+F —xF
+
+*F — —F . (1.94)
+We therefore say that the vacuum Maxwell’s equations are duality invariant, while the invari-
+ance is spoiled in the presence of charges. We might imagine that magnetic as well as electric
+monopoles existed in nature; then we could add a magnetic current term 4 (x.Jys) to the
+right hand side of (1.91), and the equations would be invariant under duality transformations
+plus the additional replacement J < Jy;. (Of course a nonzero right hand side to (1.91) is
+inconsistent with F' = dA, so this idea only works if A, is not a fundamental variable.) Long
+ago Dirac considered the idea of magnetic monopoles and showed that a necessary condition
+for their existence is that the fundamental monopole charge be inversely proportional to

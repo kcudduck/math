@@ -1,0 +1,37 @@
+4 GRAVITATION 124
+Putting it all together, we find that (in general),
+P = = O (459)
+The harmonic gauge condition (4.85) therefore is equivalent to
+Or(V=94") = 0. (490)
+Taking the partial derivative of this with respect to ¢t = 2° yields
+2 (
+VT =~ | /)| (o)
+This condition represents a second-order differential equation for the previously uncon-
+strained metric components g%, in terms of the given initial data. We have therefore
+succeeded in fixing our gauge freedom, in that we can now solve for the evolution of the
+entire metric in harmonic coordinates. (At least locally; we have been glossing over the fact
+our gauge choice may not be well-defined globally, and we would have to resort to working
+in patches as usual. The same problem appears in gauge theories in particle physics.) Note
+that we still have some freedom remaining; our gauge condition (4.84) restricts how the
+coordinates stretch from our initial hypersurface ¥ throughout spacetime, but we can still
+choose coordinates z' on ¥ however we like. This corresponds to the fact that making a
+coordinate transformation z# — x* + 0, with O§* = 0, does not violate the harmonic gauge
+condition.
+
+We therefore have a well-defined initial value problem for general relativity; a state is
+specified by the spacelike components of the metric and their time derivatives on a spacelike
+hypersurface 3; given these, the spacelike components (4.83) of Einstein’s equations allow
+us to evolve the metric forward in time, up to an ambiguity in coordinate choice which
+may be resolved by choice of gauge. We must keep in mind that the initial data are not
+arbitrary, but must obey the constraints (4.82). (Once we impose the constraints on some
+spacelike hypersurface, the equations of motion guarantee that they remain satisfied, as you
+can check.) The constraints serve a useful purpose, of guaranteeing that the result remains
+spacetime covariant after we have split our manifold into “space” and “time.” Specifically,
+the G = 87rGT™ constraint implies that the evolution is independent of our choice of
+coordinates on X, while G = 87GTY enforces invariance under different ways of slicing
+spacetime into spacelike hypersurfaces.
+
+Once we have seen how to cast Einstein’s equations as an initial value problem, one issue
+of crucial importance is the existence of solutions to the problem. That is, once we have
+specified a spacelike hypersurface with initial data, to what extent can we be guaranteed
+that a unique spacetime will be determined? Although one can do a great deal of hard work

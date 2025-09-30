@@ -1,0 +1,40 @@
+3 CURVATURE 69
+distance in a Lorentzian spacetime; for null paths the distance is zero, for timelike paths
+it’s more convenient to use the proper time, etc. So in the name of simplicity let’s do the
+calculation just for a timelike path — the resulting equation will turn out to be good for any
+path, so we are not losing any generality. We therefore consider the proper time functional,
+dat dzv \
+= [ 2) 3.48
+i /(g“d/\d/\) (3.48)
+where the integral is over the path. To search for shortest-distance paths, we will do the
+usual calculus of variations treatment to seek extrema of this functional. (In fact they will
+turn out to be curves of mazimum proper time.)
+We want to consider the change in the proper time under infinitesimal variations of the
+path,
+ot - at 4ot
+G = G + 02705 G - (3.49)
+(The second line comes from Taylor expansion in curved spacetime, which as you can see
+uses the partial derivative, not the covariant derivative.) Plugging this into (3.48), we get
+dat da” dat da” dxt d(dx”) 12
+or = / G G g T a7 — 24, S SO gy
+TreT (g“dAdA Iy Tax ot T TN T A
+_ / da dav\ ' 1+ dat da\ "
+- g\ dx I\ an
+dat da” dxt d(6x”) 12
+X |\ =Op G ———027 — 2g,—————= dX . 3.50
+( I gy ax ot T TN T A (3:50)
+Since 627 is assumed to be small, we can expand the square root of the expression in square
+brackets to find
+—1/2
+dat dx¥ 1 dat dx¥ dzt d(6x”)
+5 :/ g 2T =g 2L 5y — g, SO gy 3.51
+T.<g“d)\d)\> (29%»(1,\73 I g " dx (3:51)
+It is helpful at this point to change the parameterization of our curve from A, which was
+arbitrary, to the proper time 7 itself, using
+dat da”\ V2
+AN = —guw——— dr . 3.52
+(ot tn) @ (352)
+We plug this into (3.51) (note: we plug it in for every appearance of d)\) to obtain
+1 dxt dz¥ dxt d(6x”)
+o = [ |30 0 = g B
+T [2% dr dar U T I Tar o

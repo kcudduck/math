@@ -1,0 +1,43 @@
+3 CURVATURE 70
+1 dzt dx”  d dz*
+= / [_ia”gwﬁﬁ + P (f/ua?)] 0x? dr | (3.53)
+where in the last line we have integrated by parts, avoiding possible boundary contributions
+by demanding that the variation dz vanish at the endpoints of the path. Since we are
+searching for stationary points, we want d7 to vanish for any variation; this implies
+1. da* dov dat da APt
+- Edag;wﬁﬁ + ?Edug/ur + guaﬁ =0, (3.54)
+where we have used dg,,/dr = (dz”/d7)0,g,,. Some shuffling of dummy indices reveals
+&z 1 dz* dz”
+gwﬁ + 5 (7aggw + (9,,9#0 + (%gw) ?W =0 s (355)
+and multiplying by the inverse metric finally leads to
+PP 1 . da* da”
+o7 597 Ougvo + ugou = 0o g) 7—7— = 0. (3.56)
+We see that this is precisely the geodesic equation (3.32), but with the specific choice of
+Christoffel connection (3.21). Thus, on a manifold with metric, extremals of the length func-
+tional are curves which parallel transport their tangent vector with respect to the Christoffel
+connection associated with that metric. It doesn’t matter if there is any other connection
+defined on the same manifold. Of course, in GR the Christoffel connection is the only one
+which is used, so the two notions are the same.
+
+The primary usefulness of geodesics in general relativity is that they are the paths fol-
+lowed by unaccelerated particles. In fact, the geodesic equation can be thought of as the
+generalization of Newton’s law f = ma for the case f = 0. It is also possible to introduce
+forces by adding terms to the right hand side; in fact, looking back to the expression (1.103)
+for the Lorentz force in special relativity, it is tempting to guess that the equation of motion
+for a particle of mass m and charge ¢ in general relativity should be
+
+d*a* da? dz®  q da”
+
+— I —— = —F",— . 3.57
+
+dr? o dr dr m- Vdr ( )
+We will talk about this more later, but in fact your guess would be correct.
+
+Having boldly derived these expressions, we should say some more careful words about
+the parameterization of a geodesic path. When we presented the geodesic equation as the
+requirement that the tangent vector be parallel transported, (3.47), we parameterized our
+path with some parameter A, whereas when we found the formula (3.56) for the extremal of
+the spacetime interval we wound up with a very specific parameterization, the proper time.
+Of course from the form of (3.56) it is clear that a transformation
+
+T—=A=ar+b, (3.58)

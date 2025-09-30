@@ -1,0 +1,31 @@
+7 THE SCHWARZSCHILD SOLUTION AND BLACK HOLES 191
+Remember that it is only valid in vacuum, for example outside a star. If the star has a radius
+larger than 2G'M, we need never worry about any event horizons at all. But we believe that
+there are stars which collapse under their own gravitational pull, shrinking down to below
+r = 2G'M and further into a singularity, resulting in a black hole. There is no need for a
+white hole, however, because the past of such a spacetime looks nothing like that of the full
+Schwarzschild solution. Roughly, a Kruskal-like diagram for stellar collapse would look like
+the following:
+=0 r=2GM
+
+interior vacuum
+
+of star (Schwarzschild)
+The shaded region is not described by Schwarzschild, so there is no need to fret about white
+holes and wormholes.
+
+While we are on the subject, we can say something about the formation of astrophysical
+black holes from massive stars. The life of a star is a constant struggle between the inward
+pull of gravity and the outward push of pressure. When the star is burning nuclear fuel
+at its core, the pressure comes from the heat produced by this burning. (We should put
+“burning” in quotes, since nuclear fusion is unrelated to oxidation.) When the fuel is used
+up, the temperature declines and the star begins to shrink as gravity starts winning the
+struggle. Eventually this process is stopped when the electrons are pushed so close together
+that they resist further compression simply on the basis of the Pauli exclusion principle (no
+two fermions can be in the same state). The resulting object is called a white dwarf. If the
+mass is sufficiently high, however, even the electron degeneracy pressure is not enough, and
+the electrons will combine with the protons in a dramatic phase transition. The result is a
+neutron star, which consists of almost entirely neutrons (although the insides of neutron
+stars are not understood terribly well). Since the conditions at the center of a neutron
+star are very different from those on earth, we do not have a perfect understanding of the
+equation of state. Nevertheless, we believe that a sufficiently massive neutron star will itself

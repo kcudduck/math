@@ -1,0 +1,19 @@
+il
+
+6. Weak Fields and Gravitational Radiation
+the weak-field limit defined — gauge transformations — linearized Einstein equations
+— gravitational plane waves — transverse traceless gauge — polarizations — gravita-
+tional radiation by sources — energy loss
+
+7. The Schwarzschild Solution and Black Holes
+spherical symmetry — the Schwarzschild metric — Birkhoff’s theorem — geodesics
+of Schwarzschild — Newtonian vs. relativistic orbits — perihelion precession — the
+event horizon — black holes — Kruskal coordinates — formation of black holes —
+Penrose diagrams — conformal infinity — no hair — charged black holes — cosmic
+censorship — extremal black holes — rotating black holes — Killing tensors — the
+Penrose process — irreducible mass — black hole thermodynamics
+
+8. Cosmology
+homogeneity and isotropy — the Robertson-Walker metric — forms of energy and
+momentum — Friedmann equations — cosmological parameters — evolution of the
+scale factor — redshift — Hubble’s law

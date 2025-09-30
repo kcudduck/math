@@ -1,0 +1,35 @@
+7 THE SCHWARZSCHILD SOLUTION AND BLACK HOLES 212
+We begin by considering more carefully the angular velocity of the hole. Obviously the
+conventional definition of angular velocity will have to be modified somewhat before we can
+apply it to something as abstract as the metric of spacetime. Let us consider the fate of a
+photon which is emitted in the ¢ direction at some radius r in the equatorial plane (0 = 7/2)
+of a Kerr black hole. The instant it is emitted its momentum has no components in the r or
+0 direction, and therefore the condition that it be null is
+ds® = 0 = gudt® + gig(dtde + dgdt) + geedd” . (7.131)
+This can be immediately solved to obtain
+@ _ 9w, <@)27ﬂ. (7.132)
+dt ) 9o oo
+If we evaluate this quantity on the Killing horizon of the Kerr metric, we have g, = 0, and
+the two solutions are
+©_o Ao 2 (7.133)
+dt dt  (2GM)? + a?
+The nonzero solution has the same sign as a; we interpret this as the photon moving around
+the hole in the same direction as the hole’s rotation. The zero solution means that the
+photon directed against the hole’s rotation doesn’t move at all in this coordinate system.
+(This isn’t a full solution to the photon’s trajectory, just the statement that its instantaneous
+velocity is zero.) This is an example of the “dragging of inertial frames” mentioned earlier.
+The point of this exercise is to note that massive particles, which must move more slowly
+than photons, are necessarily dragged along with the hole’s rotation once they are inside the
+Killing horizon. This dragging continues as we approach the outer event horizon at r,; we
+can define the angular velocity of the event horizon itself, Qg, to be the minimum angular
+velocity of a particle at the horizon. Directly from (7.132) we find that
+Qy = <%>7 (ry) = ﬁ . (7.134)
+Now let’s turn to geodesic motion, which we know will be simplified by considering the
+conserved quantities associated with the Killing vectors ¢(# = 0; and n* = 0. For the
+purposes at hand we can restrict our attention to massive particles, for which we can work
+with the four-momentum
+= mdﬂ , (7.135)
+dr
+where m is the rest mass of the particle. Then we can take as our two conserved quantities
+the actual energy and angular momentum of the particle,
+E=—(p' =m <1 - —QGPJ,ZW> Z—i + 727”6;? 107 G2 g % (7.136)

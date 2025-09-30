@@ -1,0 +1,20 @@
+2 MANIFOLDS 34
+e” x3-x
+X X
+one-to-one, onto, not
+not onto one-to-one
+x3 x2
+X X
+both neither
+both one-to-one and onto is known as invertible (or “bijective”). In this case we can define
+the inverse map ¢! : N — M by (¢! o ¢)(a) = a. (Note that the same symbol ¢! is
+used for both the preimage and the inverse map, even though the former is always defined
+and the latter is only defined in some special cases.) Thus:
+M ¢ N
+~— @
+[0} -1
+The notion of continuity of a map between topological spaces (and thus manifolds) is
+actually a very subtle one, the precise formulation of which we won’t really need. However
+the intuitive notions of continuity and differentiability of maps ¢ : R™ — R™ between
+Euclidean spaces are useful. A map from R™ to R" takes an m-tuple (2!, 22,... 2™) to an
+n-tuple (y,9% ..., y"), and can therefore be thought of as a collection of n functions ¢’ of

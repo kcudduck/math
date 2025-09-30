@@ -1,0 +1,34 @@
+7 THE SCHWARZSCHILD SOLUTION AND BLACK HOLES 168
+To this point the only difference between the two coordinates ¢ and r is that we have
+chosen r to be the one which multiplies the metric for the two-sphere. This choice was
+motivated by what we know about the metric for flat Minkowski space, which can be written
+ds? = —dt? + dr? + r2dQ?. We know that the spacetime under consideration is Lorentzian,
+so either m or n will have to be negative. Let us choose m, the coefficient of dt?, to be
+negative. This is not a choice we are simply allowed to make, and in fact we will see later
+that it can go wrong, but we will assume it for now. The assumption is not completely
+unreasonable, since we know that Minkowski space is itself spherically symmetric, and will
+therefore be described by (7.12). With this choice we can trade in the functions m and n for
+new functions « and [, such that
+ds® = —e*t g2 4 2000 qr? 4 12402 (7.13)
+This is the best we can do for a general metric in a spherically symmetric spacetime. The
+next step is to actually solve Einstein’s equations, which will allow us to determine explicitly
+the functions a(t,r) and G(¢,r). It is unfortunately necessary to compute the Christoffel
+symbols for (7.13), from which we can get the curvature tensor and thus the Ricci tensor. If
+we use labels (0,1,2,3) for (¢,7,6,¢) in the usual way, the Christoffel symbols are given by
+'Yy = Gocx Iy, = 1Y, = 2P~ 99,8
+T = 29 I =00 =08
+[ =1 [y = —re Il =1
+Tl = —resin?0 T3, = —sinfcos® T =0 (7.14)
+(Anything not written down explicitly is meant to be zero, or related to what is written
+by symmetries.) From these we get the following nonvanishing components of the Riemann
+tensor:
+RO = e 3EB + (008) — 0oadofB] + (01018 — OFa — (1)’
+Rl = —re 29
+R = —re?Psin®0 i
+Rl = —re ™9y
+Rl33 = —re *sin®6 0,0
+Ry = re 013
+Rlys = re ?sin0 0,0
+Ry = (1—e P)sin’0 . (7.15)
+Taking the contraction as usual yields the Ricci tensor:
+Ry = [028+ (30fB)? — 00adoB] + 2 P[2a + (1) — D1ad 3 + %0101]

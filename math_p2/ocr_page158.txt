@@ -1,0 +1,40 @@
+6 WEAK FIELDS AND GRAVITATIONAL RADIATION 151
+or . 1
+I (old) (o) (old)
+B, = 5 [7216000]. Tk (CO[, + 500, | (6.50)
+To check that these choices are mutually consistent, we should plug (6.48) and (6.50) back
+into (6.40), which I will leave to you. Let us assume that we have performed this transfor-
+mation, and refer to the new components Clﬂf;ew) simply as Cp,.
+
+Thus, we began with the ten independent numbers in the symmetric matrix C,,,. Choos-
+ing harmonic gauge implied the four conditions (6.35), which brought the number of indepen-
+dent components down to six. Using our remaining gauge freedom led to the one condition
+(6.40) and the four conditions (6.41); but when v = 0 (6.41) implies (6.35), so we have a
+total of four additional constraints, which brings us to two independent components. We've
+used up all of our possible freedom, so these two numbers represent the physical information
+characterizing our plane wave in this gauge. This can be seen more explicitly by choosing
+our spatial coordinates such that the wave is travelling in the 2® direction; that is,
+
+k= (w,0,0,k% = (w,0,0,w) , (6.51)
+where we know that k&* = w because the wave vector is null. In this case, k*C, = 0 and
+Co, = 0 together imply
+
+Cs =0. (6.52)
+The only nonzero components of C,, are therefore Ci1, Cia, Coi, and Cy. But C is
+traceless and symmetric, so in general we can write
+0 0 0 0
+_ 0 Cll Clg 0
+C = 0 Cn —Cy 0] - (6.53)
+0 0 0 0
+Thus, for a plane wave in this gauge travelling in the z*® direction, the two components C;
+and C)2 (along with the frequency w) completely characterize the wave.
+
+In using up all of our gauge freedom, we have gone to a subgauge of the harmonic gauge
+known as the transverse traceless gauge (or sometimes “radiation gauge”). The name
+comes from the fact that the metric perturbation is traceless and perpendicular to the wave
+vector. Of course, we have been working with the trace-reversed perturbation B;,,, rather
+than the perturbation h,,, itself; but since B;,,, is traceless (because C, is), and is equal to
+the trace-reverse of h,,, in this gauge we have
+
+EE”T = }I,E”T (transverse traceless gauge) . (6.54)
+Therefore we can drop the bars over h,,,, as long as we are in this gauge.

@@ -1,0 +1,30 @@
+4 GRAVITATION 101
+
+The solution is to retain the notion of inertial frames, but to discard the hope that they
+can be uniquely extended throughout space and time. Instead we can define locally inertial
+frames, those which follow the motion of freely falling particles in small enough regions of
+spacetime. (Every time we say “small enough regions”, purists should imagine a limiting
+procedure in which we take the appropriate spacetime volume to zero.) This is the best we
+can do, but it forces us to give up a good deal. For example, we can no longer speak with
+confidence about the relative velocity of far away objects, since the inertial reference frames
+appropriate to those objects are independent of those appropriate to us.
+
+So far we have been talking strictly about physics, without jumping to the conclusion
+that spacetime should be described as a curved manifold. It should be clear, however, why
+such a conclusion is appropriate. The idea that the laws of special relativity should be
+obeyed in sufficiently small regions of spacetime, and further that local inertial frames can
+be established in such regions, corresponds to our ability to construct Riemann normal coor-
+dinates at any one point on a manifold — coordinates in which the metric takes its canonical
+form and the Christoffel symbols vanish. The impossibility of comparing velocities (vectors)
+at widely separated regions corresponds to the path-dependence of parallel transport on a
+curved manifold. These considerations were enough to give Einstein the idea that gravity
+was a manifestation of spacetime curvature. But in fact we can be even more persuasive.
+(It is impossible to “prove” that gravity should be thought of as spacetime curvature, since
+scientific hypotheses can only be falsified, never verified [and not even really falsified, as
+Thomas Kuhn has famously argued]. But there is nothing to be dissatisfied with about
+convincing plausibility arguments, if they lead to empirically successful theories.)
+
+Let’s consider one of the celebrated predictions of the EEP, the gravitational redshift.
+Consider two boxes, a distance z apart, moving (far away from any matter, so we assume
+in the absence of any gravitational field) with some constant acceleration a. At time ¢ the
+trailing box emits a photon of wavelength .

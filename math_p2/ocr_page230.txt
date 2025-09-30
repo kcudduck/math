@@ -1,0 +1,48 @@
+8 COSMOLOGY 223
+radiation decreases as the universe expands, if there is a nonzero vacuum energy it tends
+to win out over the long term (as long as the universe doesn’t start contracting). If this
+happens, we say that the universe becomes vacuum-dominated.
+
+We now turn to Einstein’s equations. Recall that they can be written in the form (4.45):
+
+1
+R,, = 871G (Tuv — §gWT> . (8.32)
+The pv = 00 equation is ;
+a
+— 3= =4nG(p+3p) , (8.33)
+a
+and the pv = ij equations give
+a a k
+—+2 <—> +2— =4rG(p—p) - (8.34)
+a a a
+(There is only one distinct equation from uv = ij, due to isotropy.) We can use (8.33) to
+eliminate second derivatives in (8.34), and do a little cleaning up to obtain
+a drG
+—=—-——(p+3p), 8.35
+ST+, (8.35)
+and )
+a 871G k
+) =—>p—-—=. 8.36
+(a) 3 T e (8:36)
+Together these are known as the Friedmann equations, and metrics of the form (8.7)
+which obey these equations define Friedmann-Robertson-Walker (FRW) universes.
+
+There is a bunch of terminology which is associated with the cosmological parameters,
+and we will just introduce the basics here. The rate of expansion is characterized by the
+Hubble parameter, )
+
+a
+H=-. 8.37
+; (37)
+The value of the Hubble parameter at the present epoch is the Hubble constant, Hy. There
+is currently a great deal of controversy about what its actual value is, with measurements
+falling in the range of 40 to 90 km/sec/Mpc. (“Mpc” stands for “megaparsec”, which is
+3 x 10%* cm.) Note that we have to divide @ by a to get a measurable quantity, since the
+overall scale of a is irrelevant. There is also the deceleration parameter,
+ad
+4=-"7" (8.38)
+which measures the rate of change of the rate of expansion.
+Another useful quantity is the density parameter,
+8rG
+0 = -2
+3H2"

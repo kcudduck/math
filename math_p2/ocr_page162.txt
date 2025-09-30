@@ -1,0 +1,40 @@
+6 WEAK FIELDS AND GRAVITATIONAL RADIATION 155
+The general rule is that the spin S is related to the angle § under which the polarization
+modes are invariant by S = 360°/6. The gravitational field, whose waves propagate at the
+speed of light, should lead to massless particles in the quantum theory. Noticing that the
+polarization modes we have described are invariant under rotations of 180° in the x-y plane,
+we expect the associated particles — “gravitons” — to be spin-2. We are a long way from
+detecting such particles (and it would not be a surprise if we never detected them directly),
+but any respectable quantum theory of gravity should predict their existence.
+
+With plane-wave solutions to the linearized vacuum equations in our possession, it re-
+mains to discuss the generation of gravitational radiation by sources. For this purpose it is
+necessary to consider the equations coupled to matter,
+
+Ohy, = —167G T}, . (6.70)
+The solution to such an equation can be obtained using a Green’s function, in precisely the
+same way as the analogous problem in electromagnetism. Here we will review the outline of
+the method.
+
+The Green’s function G(27 —y°) for the D’Alembertian operator O is the solution of the
+wave equation in the presence of a delta-function source:
+
+0,G(z% —y°) = 6W(a" — %) , (6.71)
+where O, denotes the D’Alembertian with respect to the coordinates x7. The usefulness of
+such a function resides in the fact that the general solution to an equation such as (6.70)
+can be written
+
+hu(a7) = 167G [ G(a” = y") T (y7) d'y . (6.72)
+as can be verified immediately. (Notice that no factors of \/—g are necessary, since our
+background is simply flat spacetime.) The solutions to (6.71) have of course been worked
+out long ago, and they can be thought of as either “retarded” or “advanced,” depending on
+whether they represent waves travelling forward or backward in time. Our interest is in the
+retarded Green’s function, which represents the accumulated effects of signals to the past of
+the point under consideration. It is given by
+
+Ga" — y) = —————dllx— 3] — (2 — )] 6z — ) . (6.73)
+' drlx — | '
+Here we have used boldface to denote the spatial vectors x = (2!, 22, 2%) and y = (y',y% ¢°),
+with norm [x — y| = [6;;(2" — y*) (27 — y7)]/2. The theta function 6(z° — y°) equals 1 when
+2% > 40 and zero otherwise. The derivation of (6.73) would take us too far afield, but it can
+be found in any standard text on electrodynamics or partial differential equations in physics.

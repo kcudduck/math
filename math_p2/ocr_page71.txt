@@ -1,0 +1,29 @@
+3 CURVATURE 64
+connection; the intuitive manipulation of vectors in flat space makes implicit use of the
+Christoffel connection on this space. The crucial difference between flat and curved spaces is
+that, in a curved space, the result of parallel transporting a vector from one point to another
+will depend on the path taken between the points. Without yet assembling the complete
+mechanism of parallel transport, we can use our intuition about the two-sphere to see that
+this is the case. Start with a vector on the equator, pointing along a line of constant
+longitude. Parallel transport it up to the north pole along a line of longitude in the obvious
+way. Then take the original vector, parallel transport it along the equator by an angle 6, and
+then move it up to the north pole as before. It is clear that the vector, parallel transported
+along two paths, arrived at the same destination with two different values (rotated by 6).
+It therefore appears as if there is no natural way to uniquely move a vector from one
+tangent space to another; we can always parallel transport it, but the result depends on the
+path, and there is no natural choice of which path to take. Unlike some of the problems we
+have encountered, there is no solution to this one — we simply must learn to live with the
+fact that two vectors can only be compared in a natural way if they are elements of the same
+tangent space. For example, two particles passing by each other have a well-defined relative
+velocity (which cannot be greater than the speed of light). But two particles at different
+points on a curved manifold do not have any well-defined notion of relative velocity — the
+concept simply makes no sense. Of course, in certain special situations it is still useful to talk
+as if it did make sense, but it is necessary to understand that occasional usefulness is not a
+substitute for rigorous definition. In cosmology, for example, the light from distant galaxies
+is redshifted with respect to the frequencies we would observe from a nearby stationary
+source. Since this phenomenon bears such a close resemblance to the conventional Doppler
+effect due to relative motion, it is very tempting to say that the galaxies are “receding away
+from us” at a speed defined by their redshift. At a rigorous level this is nonsense, what
+Wittgenstein would call a “grammatical mistake” — the galaxies are not receding, since the
+notion of their velocity with respect to us is not well-defined. What is actually happening
+is that the metric of spacetime between us and the galaxies has changed (the universe has

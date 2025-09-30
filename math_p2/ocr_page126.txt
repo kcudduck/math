@@ -1,0 +1,42 @@
+4 GRAVITATION 119
+by introducing a cutoff at high frequencies. The final vacuum energy, which is the regularized
+sum of the energies of the ground state oscillations of all the fields of the theory, has no good
+reason to be zero and in fact would be expected to have a natural scale
+
+A~ m‘}) , (4.75)
+where the Planck mass mp is approximately 10! GeV, or 107 grams. Observations of the
+universe on large scales allow us to constrain the actual value of A, which turns out to be
+smaller than (4.75) by at least a factor of 10'2°. This is the largest known discrepancy between
+theoretical estimate and observational constraint in physics, and convinces many people that
+the “cosmological constant problem” is one of the most important unsolved problems today.
+On the other hand the observations do not tell us that A is strictly zero, and in fact allow
+values that can have important consequences for the evolution of the universe. This mistake
+of Einstein’s therefore continues to bedevil both physicists, who would like to understand
+why it is so small, and astronomers, who would like to determine whether it is really small
+enough to be ignored.
+
+A somewhat less intriguing generalization of the Hilbert action would be to include scalars
+of more than second order in derivatives of the metric. We could imagine an action of the
+form
+
+S = /d"x\/Tg(R + R+ R R + 03"V, RV, R+ ) , (4.76)
+where the a’s are coupling constants and the dots represent every other scalar we can make
+from the curvature tensor, its contractions, and its derivatives. Traditionally, such terms
+have been neglected on the reasonable grounds that they merely complicate a theory which
+is already both aesthetically pleasing and empirically successful. However, there are at
+least three more substantive reasons for this neglect. First, as we shall see below, Einstein’s
+equations lead to a well-posed initial value problem for the metric, in which “coordinates” and
+“momenta” specified at an initial time can be used to predict future evolution. With higher-
+derivative terms, we would require not only those data, but also some number of derivatives
+of the momenta. Second, the main source of dissatisfaction with general relativity on the part
+of particle physicists is that it cannot be renormalized (as far as we know), and Lagrangians
+with higher derivatives tend generally to make theories less renormalizable rather than more.
+Third, by the same arguments we used above when speaking about the limitations of the
+principle of equivalence, the extra terms in (4.76) should be suppressed (by powers of the
+Planck mass to some power) relative to the usual Hilbert term, and therefore would not be
+expected to be of any practical importance to the low-energy world. None of these reasons
+are completely persuasive, and indeed people continue to consider such theories, but for the
+most part these models do not attract a great deal of attention.
+
+A set of models which does attract attention are known as scalar-tensor theories of
+gravity, since they involve both the metric tensor g,, and a fundamental scalar field, A. The

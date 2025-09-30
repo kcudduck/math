@@ -1,0 +1,30 @@
+1 SPECIAL RELATIVITY AND FLAT SPACETIME 8
+plane which is tangent to the point. But inspiration aside, it is important to think of these
+vectors as being located at a single point, rather than stretching from one point to another.
+(Although this won’t stop us from drawing them as arrows on spacetime diagrams.)
+T,
+p
+‘ .
+manifold
+M
+
+Later we will relate the tangent space at each point to things we can construct from the
+spacetime itself. For right now, just think of 7}, as an abstract vector space for each point
+in spacetime. A (real) vector space is a collection of objects (“vectors”) which, roughly
+speaking, can be added together and multiplied by real numbers in a linear way. Thus, for
+any two vectors V' and W and real numbers a and b, we have
+
+(a+D0)(V+W)=aV +bV +aW + bW . (1.22)
+Every vector space has an origin, i.e. a zero vector which functions as an identity element
+under vector addition. In many vector spaces there are additional operations such as taking
+an inner (dot) product, but this is extra structure over and above the elementary concept of
+a vector space.
+
+A vector is a perfectly well-defined geometric object, as is a vector field, defined as a
+set of vectors with exactly one at each point in spacetime. (The set of all the tangent spaces
+of a manifold M is called the tangent bundle, T(M).) Nevertheless it is often useful for
+concrete purposes to decompose vectors into components with respect to some set of basis
+vectors. A basis is any set of vectors which both spans the vector space (any vector is
+a linear combination of basis vectors) and is linearly independent (no vector in the basis
+is a linear combination of other basis vectors). For any given vector space, there will be
+an infinite number of legitimate bases, but each basis will consist of the same number of

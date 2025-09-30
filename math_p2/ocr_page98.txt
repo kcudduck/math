@@ -1,0 +1,34 @@
+3 CURVATURE 91
+Translating what we know about tensors into non-coordinate bases is for the most part
+merely a matter of sticking vielbeins in the right places. The crucial exception comes when
+we begin to differentiate things. In our ordinary formalism, the covariant derivative of a
+tensor is given by its partial derivative plus correction terms, one for each index, involving
+the tensor and the connection coefficients. The same procedure will continue to be true
+for the non-coordinate basis, but we replace the ordinary connection coefficients FIAW by the
+spin connection, denoted w,",. Each Latin index gets a factor of the spin connection in
+the usual way:
+VuX“b = (()uXab + wuacX”b — w‘be“C . (3128)
+(The name “spin connection” comes from the fact that this can be used to take covari-
+ant derivatives of spinors, which is actually impossible using the conventional connection
+coefficients.) In the presence of mixed Latin and Greek indices we get terms of both kinds.
+The usual demand that a tensor be independent of the way it is written allows us to
+derive a relationship between the spin connection, the vielbeins, and the I'/\’s. Consider the
+covariant derivative of a vector X, first in a purely coordinate basis:
+VX = (V,X")dz* ®0,
+= (O X"+ T XNdat ® 0, . (3.129)
+Now find the same object in a mixed basis, and convert into the coordinate basis:
+VX = (VNX“)dx“ ® é(a)
+= (0.X" + w, X )da" ® éa)
+= (0,(e2X") + w, A X M) dat @ (e50,)
+= e7(e%0, X" + X 0,e" + w, el XN)da" ® 9,
+= (0, X"+ €20,e5X* + etehw, WX ) dat ® 0, . (3.130)
+Comparison with (3.129) reveals
+Ty = enduel + evebw, % (3.131)
+or equivalently
+W, = eﬁeifz)‘ — ep0,es . (3.132)
+A bit of manipulation allows us to write this relation as the vanishing of the covariant
+derivative of the vielbein,
+Ve, =0, (3.133)
+which is sometimes known as the “tetrad postulate.” Note that this is always true; we did
+not need to assume anything about the connection in order to derive it. Specifically, we did
+not need to assume that the connection was metric compatible or torsion free.

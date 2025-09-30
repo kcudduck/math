@@ -1,0 +1,43 @@
+5 MORE GEOMETRY 138
+where V,, represents any symmetric (torsion-free) covariant derivative (including, of course,
+one derived from a metric). You can check that all of the terms which would involve connec-
+tion coefficients if we were to expand (5.32) would cancel, leaving only (5.31). Both versions
+of the formula for a Lie derivative are useful at different times. A particularly useful formula
+is for the Lie derivative of the metric:
+£V!];n/ = ngrrg;w + (VHVA)Q/\,, + (V,,V’\)y;,)‘
+
+= V.V, +V,V,
+
+= 2V, (5.33)
+where V,, is the covariant derivative derived from g,,.
+
+Let’s put some of these ideas into the context of general relativity. You will often hear it
+proclaimed that GR is a “diffeomorphism invariant” theory. What this means is that, if the
+universe is represented by a manifold M with metric g, and matter fields ¢, and ¢ : M —
+M is a diffeomorphism, then the sets (M, g, ¢) and (M, ¢.g,., ¢«1) represent the same
+physical situation. Since diffeomorphisms are just active coordinate transformations, this is
+a highbrow way of saying that the theory is coordinate invariant. Although such a statement
+is true, it is a source of great misunderstanding, for the simple fact that it conveys very little
+information. Any semi-respectable theory of physics is coordinate invariant, including those
+based on special relativity or Newtonian mechanics; GR is not unique in this regard. When
+people say that GR is diffeomorphism invariant, more likely than not they have one of two
+(closely related) concepts in mind: the theory is free of “prior geometry”, and there is no
+preferred coordinate system for spacetime. The first of these stems from the fact that the
+metric is a dynamical variable, and along with it the connection and volume element and
+so forth. Nothing is given to us ahead of time, unlike in classical mechanics or SR. As
+a consequence, there is no way to simplify life by sticking to a specific coordinate system
+adapted to some absolute elements of the geometry. This state of affairs forces us to be very
+careful; it is possible that two purportedly distinct configurations (of matter and metric)
+in GR are actually “the same”, related by a diffeomorphism. In a path integral approach
+to quantum gravity, where we would like to sum over all possible configurations, special
+care must be taken not to overcount by allowing physically indistinguishable configurations
+to contribute more than once. In SR or Newtonian mechanics, meanwhile, the existence
+of a preferred set of coordinates saves us from such ambiguities. The fact that GR has no
+preferred coordinate system is often garbled into the statement that it is coordinate invariant
+(or “generally covariant”); both things are true, but one has more content than the other.
+
+On the other hand, the fact of diffeomorphism invariance can be put to good use. Recall
+that the complete action for gravity coupled to a set of matter fields ¢ is given by a sum of
+the Hilbert action for GR plus the matter action,
+
+§ = g Sulo] + Sulgu '] (53

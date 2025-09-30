@@ -1,0 +1,45 @@
+2 MANIFOLDS 47
+The second term in the last line should not be there if J,W, were to transform as a (0, 2)
+tensor. As you can see, it arises because the derivative of the transformation matrix does
+not vanish, as it did for Lorentz transformations in flat space.
+
+On the other hand, the exterior derivative operator d does form an antisymmetric (0, p+1)
+tensor when acted on a p-form. For p = 1 we can see this from (2.26); the offending non-
+tensorial term can be written
+
+w, Ju 0 Oty O (2.27)
+
+OxH Ozt Oxv Oz Oxv
+
+This expression is symmetric in g and ¢/, since partial derivatives commute. But the exterior
+derivative is defined to be the antisymmetrized partial derivative, so this term vanishes
+(the antisymmetric part of a symmetric expression is zero). We are then left with the
+correct tensor transformation law; extension to arbitrary p is straightforward. So the exterior
+derivative is a legitimate tensor operator; it is not, however, an adequate substitute for the
+partial derivative, since it is only defined on forms. In the next section we will define a
+covariant derivative, which can be thought of as the extension of the partial derivative to
+arbitrary manifolds.
+
+The metric tensor is such an important object in curved space that it is given a new
+symbol, g,, (while 7, is reserved specifically for the Minkowski metric). There are few
+restrictions on the components of g,,, other than that it be a symmetric (0,2) tensor. It is
+usually taken to be non-degenerate, meaning that the determinant g = |g,,| doesn’t vanish.
+This allows us to define the inverse metric g"” via
+
+9" s = 0 . (2.28)
+The symmetry of g,, implies that ¢g" is also symmetric. Just as in special relativity, the
+metric and its inverse may be used to raise and lower indices on tensors.
+
+It will take several weeks to fully appreciate the role of the metric in all of its glory, but
+for purposes of inspiration we can list the various uses to which g, will be put: (1) the
+metric supplies a notion of “past” and “future”; (2) the metric allows the computation of
+path length and proper time; (3) the metric determines the “shortest distance” between two
+points (and therefore the motion of test particles); (4) the metric replaces the Newtonian
+gravitational field ¢; (5) the metric provides a notion of locally inertial frames and therefore
+a sense of “no rotation”; (6) the metric determines causality, by defining the speed of light
+faster than which no signal can travel; (7) the metric replaces the traditional Euclidean
+three-dimensional dot product of Newtonian mechanics; and so on. Obviously these ideas
+are not all completely independent, but we get some sense of the importance of this tensor.
+
+In our discussion of path lengths in special relativity we (somewhat handwavingly) in-
+troduced the line element as ds* = 1, dz*dz”, which was used to get the length of a path.

@@ -1,0 +1,60 @@
+7 THE SCHWARZSCHILD SOLUTION AND BLACK HOLES 183
+t : P
+
+: 7 AT, > AT,
+
+I 2 ’ . s -
+
+! ST Aty
+
+| ’ 4 -
+
+I / ’ -
+
+| / , .7
+
+| 7
+
+/ e
+
+! ATI ,
+
+! 7
+
+: At
+
+‘ r
+
+2GM
+
+behaved at r = 2GM. There does exist a set of such coordinates, which we now set out to
+find. There is no way to “derive” a coordinate transformation, of course, we just say what
+the new coordinates are and plug in the formulas. But we will develop these coordinates in
+several steps, in hopes of making the choices seem somewhat motivated.
+
+The problem with our current coordinates is that dt/dr — oo along radial null geodesics
+which approach r = 2G'M; progress in the r direction becomes slower and slower with respect
+to the coordinate time ¢. We can try to fix this problem by replacing ¢ with a coordinate
+which “moves more slowly” along null geodesics. First notice that we can explicitly solve
+the condition (7.64) characterizing radial null curves to obtain
+
+t = 41"+ constant , (7.65)
+where the tortoise coordinate r* is defined by
+r
+=1+ 2GM1 (— - 1) . 7.66
+T r+ eI ( )
+(The tortoise coordinate is only sensibly related to r when r > 2GM, but beyond there our
+coordinates aren’t very good anyway.) In terms of the tortoise coordinate the Schwarzschild
+metric becomes 2GM
+/1
+ds? = (1 - —) (—dt2 + (17'*2> +72d0? | (7.67)
+r
+where r is thought of as a function of r*. This represents some progress, since the light cones
+now don’t seem to close up; furthermore, none of the metric coefficients becomes infinite at
+r = 2GM (although both gy and g,-+ become zero). The price we pay, however, is that the
+surface of interest at r = 2GM has just been pushed to infinity.
+
+Our next move is to define coordinates which are naturally adapted to the null geodesics.
+
+If we let
+a = t+r"

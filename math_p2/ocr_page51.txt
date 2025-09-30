@@ -1,0 +1,28 @@
+2 MANIFOLDS 44
+and hence (since the matrix dz* /@z* is the inverse of the matrix dz#/dz ),
+A
+VE = —VH. 2.13
+Since the basis vectors are usually not written explicitly, the rule (2.13) for transforming
+components is what we call the “vector transformation law.” We notice that it is com-
+patible with the transformation of vector components in special relativity under Lorentz
+transformations, V# = A¥ «VH, since a Lorentz transformation is a special kind of coordi-
+nate transformation, with z# = A* x2*. But (2.13) is much more general, as it encompasses
+the behavior of vectors under arbitrary changes of coordinates (and therefore bases), not just
+linear transformations. As usual, we are trying to emphasize a somewhat subtle ontological
+distinction — tensor components do not change when we change coordinates, they change
+when we change the basis in the tangent space, but we have decided to use the coordinates
+to define our basis. Therefore a change of coordinates induces a change of basis:
+xM
+Having explored the world of vectors, we continue to retrace the steps we took in flat
+space, and now consider dual vectors (one-forms). Once again the cotangent space T, is the
+set of linear maps w : 7, — R. The canonical example of a one-form is the gradient of a
+function f, denoted df. Its action on a vector % is exactly the directional derivative of the
+function:
+d df
+df {—~|=-~ . 2.14
+! (d)x) dA ( )
+It’s tempting to think, “why shouldn’t the function f itself be considered the one-form, and
+df /d\ its action?” The point is that a one-form, like a vector, exists only at the point it is
+defined, and does not depend on information at other points on M. If you know a function
+in some neighborhood of a point you can take its derivative, but not just from knowing
+its value at the point; the gradient, on the other hand, encodes precisely the information

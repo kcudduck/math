@@ -1,0 +1,40 @@
+1 SPECIAL RELATIVITY AND FLAT SPACETIME 23
+called the pth Betti number of M, and the Euler characteristic is given by the alternating
+sum "
+X(M) = > (-1)b, . (1.86)
+p=0
+Cohomology theory is the basis for much of modern differential topology.
+
+Moving back to reality, the final operation on differential forms we will introduce is
+Hodge duality. We define the “Hodge star operator” on an n-dimensional manifold as a
+map from p-forms to (n — p)-forms,
+
+1 vivp
+
+(*A) iy = HE 1o pin—p Avr oy 5 (1.87)
+mapping A to “A dual”. Unlike our other operations on forms, the Hodge dual does depend
+on the metric of the manifold (which should be obvious, since we had to raise some indices
+on the Levi-Civita tensor in order to define (1.87)). Applying the Hodge star twice returns
+
+either plus or minus the original form:
+w %A = (=1)FPP 4 (1.88)
+where s is the number of minus signs in the eigenvalues of the metric (for Minkowski space,
+
+Two facts on the Hodge dual: First, “duality” in the sense of Hodge is different than the
+relationship between vectors and dual vectors, although both can be thought of as the space
+of linear maps from the original space to R. Notice that the dimensionality of the space of
+(n — p)-forms is equal to that of the space of p-forms, so this has at least a chance of being
+true. In the case of forms, the linear map defined by an (n — p)-form acting on a p-form is
+given by the dual of the wedge product of the two forms. Thus, if A®P) is an (n — p)-form
+and B® is a p-form at some point in spacetime, we have
+
+x« (A" P ABP)eR. (1.89)
+The second fact concerns differential forms in 3-dimensional Euclidean space. The Hodge
+dual of the wedge product of two 1-forms gives another 1-form:
+
+* (UNAV); =e/*U Vi, (1.90)
+(All of the prefactors cancel.) Since 1-forms in Euclidean space are just like vectors, we have
+a map from two vectors to a single vector. You should convince yourself that this is just the
+conventional cross product, and that the appearance of the Levi-Civita tensor explains why
+the cross product changes sign under parity (interchange of two coordinates, or equivalently
+basis vectors). This is why the cross product only exists in three dimensions — because only

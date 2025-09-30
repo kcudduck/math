@@ -1,0 +1,31 @@
+6 WEAK FIELDS AND GRAVITATIONAL RADIATION 148
+and then from (6.20) we immediately obtain
+hoo = 2hgg = —4® . (6.26)
+The other components of 71“,, are negligible, from which we can derive
+_ 1 -
+and 1
+hij = hi; — 5n”-/'z = 204, . (6.28)
+The metric for a star or planet in the weak-field limit is therefore
+ds? = —(1+20)dt? 4 (1 — 2®)(da? + dy* + dz?) . (6.29)
+A somewhat less simplistic application of the weak-field limit is to gravitational radiation.
+Those of you familiar with the analogous problem in electromagnetism will notice that the
+procedure is almost precisely the same. We begin by considering the linearized equations in
+vacuum (6.23). Since the flat-space D’Alembertian has the form O = —9? + V2, the field
+equation is in the form of a wave equation for B;w- As all good physicists know, the thing to
+do when faced with such an equation is to write down complex-valued solutions, and then
+take the real part at the very end of the day. So we recognize that a particularly useful set
+of solutions to this wave equation are the plane waves, given by
+Py = Cpe®e™” (6.30)
+where C, is a constant, symmetric, (0,2) tensor, and k” is a constant vector known as the
+wave vector. To check that it is a solution, we plug in:
+0 = Oh,,
+= 170,05 by
+= 00, (ikohyu,)
+= =" kpkohyu
+= kR, (6.31)
+Since (for an interesting solution) not all of the components of hyuw will be zero everywhere,
+we must have
+kok® =0 . (6.32)
+The plane wave (6.30) is therefore a solution to the linearized equations if the wavevector
+is null; this is loosely translated into the statement that gravitational waves propagate at
+the speed of light. The timelike component of the wave vector is often referred to as the

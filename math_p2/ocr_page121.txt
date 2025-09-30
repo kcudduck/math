@@ -1,0 +1,34 @@
+4 GRAVITATION 114
+To increase your confidence that Einstein’s equations as we have derived them are indeed
+the correct field equations for the metric, let’s see how they can be derived from a more
+modern viewpoint, starting from an action principle. (In fact the equations were first derived
+by Hilbert, not Einstein, and Hilbert did it using the action principle. But he had been
+inspired by Einstein’s previous papers on the subject, and Einstein himself derived the
+equations independently, so they are rightly named after Einstein. The action, however, is
+rightly called the Hilbert action.) The action should be the integral over spacetime of a
+Lagrange density (“Lagrangian” for short, although strictly speaking the Lagrangian is the
+integral over space of the Lagrange density):
+S = / d"vLy . (4.54)
+The Lagrange density is a tensor density, which can be written as \/—g times a scalar. What
+scalars can we make out of the metric? Since we know that the metric can be set equal to
+its canonical form and its first derivatives set to zero at any one point, any nontrivial scalar
+must involve at least second derivatives of the metric. The Riemann tensor is of course
+made from second derivatives of the metric, and we argued earlier that the only independent
+scalar we could construct from the Riemann tensor was the Ricci scalar R. What we did not
+show, but is nevertheless true, is that any nontrivial tensor made from the metric and its
+first and second derivatives can be expressed in terms of the metric and the Riemann tensor.
+Therefore, the only independent scalar constructed from the metric, which is no higher than
+second order in its derivatives, is the Ricci scalar. Hilbert figured that this was therefore the
+simplest possible choice for a Lagrangian, and proposed
+Ly=+v—gR. (4.55)
+The equations of motion should come from varying the action with respect to the metric.
+In fact let us consider variations with respect to the inverse metric g"”, which are slightly
+easier but give an equivalent set of equations. Using R = g"” R, in general we will have
+6 = [ @ [V=g9"Ru + V=gRudg" + R3v/=g]
+= (69)1 +(6S)2+ (6S)s . (4.56)
+The second term (0.5)s is already in the form of some expression times dg*”; let’s examine
+the others more closely.
+Recall that the Ricci tensor is the contraction of the Riemann tensor, which is given by
+Ry =030, + T4, T, — (A=) . (4.57)
+The variation of this with respect the metric can be found first varying the connection with
+respect to the metric, and then substituting into this expression. Let us however consider

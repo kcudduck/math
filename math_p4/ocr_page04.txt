@@ -1,0 +1,36 @@
+Multi-Symplectic Structure for SGN equations 3/9
+YA ;
+: '9
+Figure 1. Sketch of the fluid domain.
+1. Introduction
+
+The present manuscript is devoted to a further study of the celebrated Serre-Green—
+Naghdi model of fully nonlinear long water waves propagating in shallow water. Namely,
+we unveil another variational structure of these equations. The Hamiltonian formulation
+for the Serre equations can be found, for example, in [16]. However, this structure is non-
+canonical and highly non-trivial, at least at the first sight. In this article, we propose a
+multi-symplectic structure for the same system of Serre equations. The multi-symplectic
+structure generalises the classical Hamiltonian formulations [2] to the case of Partial Dif-
+ferential Equations (PDEs) such that the space and time variables are treated on the equal
+footing [5] (see also |19, Chapter 12]).
+
+Let us recall some basic facts about the Serre equations in 2D (one horizontal dimen-
+sion). Assuming that derivatives are ‘small’ (i.e., long waves in shallow water) but finite
+amplitudes,™ Serre [24, 25| derived the system of equations
+
+he + O.[hu] = 0, (1.1)
+up + uuy + ghy + %h’lﬁl[h2~/] = 0, (1.2)
+where
+vy = h[u_,f—uzt—uumL (1.3)
+is the fluid vertical acceleration at the free surface. In these equations, x is the horizontal
+coordinate, t is the time, u is the depth-averaged horizontal velocity and h is the total
+water depth (bottom to free surface). A sketch of the domain is shown in Figure 1.
+
+These equations were independently rediscovered later by Su and Gardner [27] and again
+by Green, Laws and Naghdi [15]. These approximations being valid in shallow water
+without assuming small amplitude waves, they are sometimes called weakly-dispersive fully-
+nonlinear approzimation [30] and are a generalisation of the Saint-Venant [26, 29| and of
+the Boussinesq equations [3, 11|. The derivations above are straightforward, one can refer
+to [18], for example.
+
+*1It should be noted that the steady version of these equations were derived earlier by Rayleigh [20].

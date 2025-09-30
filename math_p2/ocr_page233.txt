@@ -1,0 +1,32 @@
+8 COSMOLOGY 226
+For the closed universes (k = +1), (8.36) becomes
+. 8nG
+i = Tr—/)a,z -1. (8.46)
+3
+The argument that pa®> — 0 as a — oo still applies; but in that case (8.46) would be-
+come negative, which can’t happen. Therefore the universe does not expand indefinitely; a
+possesses an upper bound ap,,. As a approaches ayax, (8.35) implies
+drG
+i — 7%(;; + 3)max < 0 . (8.47)
+Thus d is finite and negative at this point, so a reaches an.x and starts decreasing, whereupon
+(since @ < 0) it will inevitably continue to contract to zero — the Big Crunch. Thus, the
+closed universes (again, under our assumptions of positive p and nonnegative p) are closed
+in time as well as space.
+a(t)
+k =-1 -
+k=0
+|
+N N\ N \ t
+s bang = now s crunch <
+We will now list some of the exact solutions corresponding to only one type of energy
+density. For dust-only universes (p = 0), it is convenient to define a development angle
+¢(t), rather than using ¢ as a parameter directly. The solutions are then, for open universes,
+a:(,%(cosh(/bfl) (k= —1) (8.48)
+t = 5(sinh ¢ — ) ’ ’
+for flat universes,
+90\ /3
+a= (T) 3 (k=0), (8.49)
+and for closed universes,
+c
+a=%(1—cos¢) B
+{t _ é((b —sing) (k=+41), (8.50)

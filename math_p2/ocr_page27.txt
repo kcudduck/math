@@ -1,0 +1,37 @@
+1 SPECIAL RELATIVITY AND FLAT SPACETIME 20
+give us tensor in this special case, as long as we keep our wits about us. (The one exception
+to this warning is the partial derivative of a scalar, d,¢, which is a perfectly good tensor
+[the gradient] in any spacetime.)
+
+We have now accumulated enough tensor know-how to illustrate some of these concepts
+using actual physics. Specifically, we will examine Maxwell’s equations of electrodynam-
+ics. In 19" -century notation, these are
+
+VxB-9E = 4nJ
+V-E = 4mp
+VxE+0B = 0
+V-B = 0. (1.73)
+Here, E and B are the electric and magnetic field 3-vectors, J is the current, p is the
+charge density, and Vx and V- are the conventional curl and divergence. These equations
+are invariant under Lorentz transformations, of course; that’s how the whole business got
+started. But they don’t look obviously invariant; our tensor notation can fix that. Let’s
+begin by writing these equations in just a slightly different notation,
+OE = ArJ°
+B = 0. (1.74)
+In these expressions, spatial indices have been raised and lowered with abandon, without
+any attempt to keep straight where the metric appears. This is because d;; is the metric on
+flat 3-space, with 6% its inverse (they are equal as matrices). We can therefore raise and
+lower indices at will, since the components don’t change. Meanwhile, the three-dimensional
+Levi-Civita tensor €¢7* is defined just as the four-dimensional one, although with one fewer
+index. We have replaced the charge density by JO; this is legitimate because the density and
+current together form the current 4-vector, J* = (p, J1, J?, J3).
+
+From these expressions, and the definition (1.58) of the field strength tensor F,, it is
+easy to get a completely tensorial 20'"-century version of Maxwell’s equations. Begin by
+noting that we can express the field strength with upper indices as
+
+Y g
+F9 = *B, . (1.75)
+(To check this, note for example that FO = n®pt Fy) and F'2 = €!2B;.) Then the first two
+equations in (1.74) become
+0;F7 — 9oF% = 4rmJ’

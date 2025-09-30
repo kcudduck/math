@@ -1,0 +1,32 @@
+7 THE SCHWARZSCHILD SOLUTION AND BLACK HOLES 182
+One way of understanding a geometry is to explore its causal structure, as defined by the
+light cones. We therefore consider radial null curves, those for which 6 and ¢ are constant
+and ds? = 0: »
+ds? =0=— (1 - ﬂ) dt* + <1 - @) dr? | (7.63)
+from which we see that i T
+s (1 - T) . (7.64)
+This of course measures the slope of the light cones on a spacetime diagram of the ¢-r plane.
+For large r the slope is £1, as it would be in flat space, while as we approach r = 2GM we
+get dt/dr — +oo, and the light cones “close up”:
+t |
+~l7 r
+2GM
+Thus a light ray which approaches r = 2GM never seems to get there, at least in this
+coordinate system; instead it seems to asymptote to this radius.
+
+As we will see, this is an illusion, and the light ray (or a massive particle) actually has no
+trouble reaching » = 2G M. But an observer far away would never be able to tell. If we stayed
+outside while an intrepid observational general relativist dove into the black hole, sending
+back signals all the time, we would simply see the signals reach us more and more slowly. This
+should be clear from the pictures, and is confirmed by our computation of Ar; /A7, when we
+discussed the gravitational redshift (7.61). As infalling astronauts approach r = 2GM, any
+fixed interval A7y of their proper time corresponds to a longer and longer interval A7, from
+our point of view. This continues forever; we would never see the astronaut cross r = 2GM,
+we would just see them move more and more slowly (and become redder and redder, almost
+as if they were embarrassed to have done something as stupid as diving into a black hole).
+
+The fact that we never see the infalling astronauts reach r = 2GM is a meaningful
+statement, but the fact that their trajectory in the ¢-r plane never reaches there is not. It
+is highly dependent on our coordinate system, and we would like to ask a more coordinate-
+independent question (such as, do the astronauts reach this radius in a finite amount of their
+proper time?). The best way to do this is to change coordinates to a system which is better

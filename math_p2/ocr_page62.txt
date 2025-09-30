@@ -1,0 +1,42 @@
+December 1997 Lecture Notes on General Relativity Sean M. Carroll
+3 Curvature
+
+In our discussion of manifolds, it became clear that there were various notions we could talk
+about as soon as the manifold was defined; we could define functions, take their derivatives,
+consider parameterized paths, set up tensors, and so on. Other concepts, such as the volume
+of a region or the length of a path, required some additional piece of structure, namely the
+introduction of a metric. It would be natural to think of the notion of “curvature”, which we
+have already used informally, is something that depends on the metric. Actually this turns
+out to be not quite true, or at least incomplete. In fact there is one additional structure
+we need to introduce — a “connection” — which is characterized by the curvature. We will
+show how the existence of a metric implies a certain connection, whose curvature may be
+thought of as that of the metric.
+
+The connection becomes necessary when we attempt to address the problem of the partial
+derivative not being a good tensor operator. What we would like is a covariant derivative;
+that is, an operator which reduces to the partial derivative in flat space with Cartesian
+coordinates, but transforms as a tensor on an arbitrary manifold. It is conventional to spend
+a certain amount of time motivating the introduction of a covariant derivative, but in fact
+the need is obvious; equations such as J,7* = 0 are going to have to be generalized to
+curved space somehow. So let’s agree that a covariant derivative would be a good thing to
+have, and go about setting it up.
+
+In flat space in Cartesian coordinates, the partial derivative operator 0, is a map from
+(k. 1) tensor fields to (k, I+1) tensor fields, which acts linearly on its arguments and obeys the
+Leibniz rule on tensor products. All of this continues to be true in the more general situation
+we would now like to consider, but the map provided by the partial derivative depends on the
+coordinate system used. We would therefore like to define a covariant derivative operator
+V to perform the functions of the partial derivative, but in a way independent of coordinates.
+We therefore require that V be a map from (k, [) tensor fields to (k,!+1) tensor fields which
+has these two properties:
+
+1. linearity: V(T +S5)=VT + VS ;
+
+2. Leibniz (product) rule: V(T ® S)=(VI) @S +T® (VS) .
+
+If V is going to obey the Leibniz rule, it can always be written as the partial derivative
+plus some linear transformation. That is, to take the covariant derivative we first take the
+partial derivative, and then apply a correction to make the result covariant. (We aren’t going
+to prove this reasonable-sounding statement, but Wald goes into detail if you are interested.)
+
+55

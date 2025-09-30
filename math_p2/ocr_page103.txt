@@ -1,0 +1,8 @@
+3 CURVATURE 96
+partial derivatives along curves have nothing to do with internal vectors. It follows in turn
+that there is nothing like the vielbeins, which relate orthonormal bases to coordinate bases.
+The torsion tensor, in particular, is only defined for a connection on the tangent bundle, not
+for any gauge theory connections; it can be thought of as the covariant exterior derivative
+of the vielbein, and no such construction is available on an internal bundle. You should
+appreciate the relationship between the different uses of the notion of a connection, without
+getting carried away.

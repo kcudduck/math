@@ -1,0 +1,32 @@
+3 CURVATURE 63
+introduce a topology
+(open sets)
+topological
+space
+locally like R"
+!ntroduce a connection
+manifold
+with
+connection
+introduce a metric
+Riemannian (automatically
+manifold has a
+connection)
+
+Having set up the machinery of connections, the first thing we will do is discuss parallel
+transport. Recall that in flat space it was unnecessary to be very careful about the fact
+that vectors were elements of tangent spaces defined at individual points; it is actually very
+natural to compare vectors at different points (where by “compare” we mean add, subtract,
+take the dot product, etc.). The reason why it is natural is because it makes sense, in flat
+space, to “move a vector from one point to another while keeping it constant.” Then once
+we get the vector from one point to another we can do the usual operations allowed in a
+vector space.
+
+keep vector
+constant
+q
+p
+
+The concept of moving a vector along a path, keeping constant all the while, is known
+
+as parallel transport. As we shall see, parallel transport is defined whenever we have a

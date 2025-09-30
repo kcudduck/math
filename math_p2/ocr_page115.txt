@@ -1,0 +1,42 @@
+4 GRAVITATION 108
+The problem in writing this as a tensor equation should be clear: the partial derivatives can
+be commuted, but covariant derivatives cannot. If we simply replace the partials in (4.30)
+by covariant derivatives, we get a different answer than we would if we had first exchanged
+the order of the derivatives (leaving the equation in flat space invariant) and then replaced
+them. The difference is given by
+
+yrv,v, X" -Y"v, v, X" =-R,Y"X". (4.31)
+The prescription for generalizing laws from flat to curved spacetimes does not guide us in
+choosing the order of the derivatives, and therefore is ambiguous about whether a term
+such as that in (4.31) should appear in the presence of gravity. (The problem of ordering
+covariant derivatives is similar to the problem of operator-ordering ambiguities in quantum
+mechanics.)
+
+In the literature you can find various prescriptions for dealing with ambiguities such as
+this, most of which are sensible pieces of advice such as remembering to preserve gauge
+invariance for electromagnetism. But deep down the real answer is that there is no way to
+resolve these problems by pure thought alone; the fact is that there may be more than one
+way to adapt a law of physics to curved space, and ultimately only experiment can decide
+between the alternatives.
+
+In fact, let us be honest about the principle of equivalence: it serves as a useful guideline,
+but it does not deserve to be treated as a fundamental principle of nature. From the modern
+point of view, we do not expect the EEP to be rigorously true. Consider the following
+alternative version of (4.24):
+
+V(14 aR)F™| = 4w J" (4.32)
+where R is the Ricci scalar and « is some coupling constant. If this equation correctly
+described electrodynamics in curved spacetime, it would be possible to measure R even in
+an arbitrarily small region, by doing experiments with charged particles. The equivalence
+principle therefore demands that o = 0. But otherwise this is a perfectly respectable equa-
+tion, consistent with charge conservation and other desirable features of electromagnetism,
+which reduces to the usual equation in flat space. Indeed, in a world governed by quantum
+mechanics we expect all possible couplings between different fields (such as gravity and elec-
+tromagnetism) that are consistent with the symmetries of the theory (in this case, gauge
+invariance). So why is it reasonable to set & = 07 The real reason is one of scales. Notice that
+the Ricci tensor involves second derivatives of the metric, which is dimensionless, so R has
+dimensions of (length)~2 (with ¢ = 1). Therefore o must have dimensions of (length)?. But
+since the coupling represented by « is of gravitational origin, the only reasonable expectation
+for the relevant length scale is
+
+an~ly, (4.33)

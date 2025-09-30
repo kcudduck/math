@@ -1,0 +1,27 @@
+December 1997 Lecture Notes on General Relativity Sean M. Carroll
+1 Special Relativity and Flat Spacetime
+
+We will begin with a whirlwind tour of special relativity (SR) and life in flat spacetime.
+The point will be both to recall what SR is all about, and to introduce tensors and related
+concepts that will be crucial later on, without the extra complications of curvature on top
+of everything else. Therefore, for this section we will always be working in flat spacetime,
+and furthermore we will only use orthonormal (Cartesian-like) coordinates. Needless to say
+it is possible to do SR in any coordinate system you like, but it turns out that introducing
+the necessary tools for doing so would take us halfway to curved spaces anyway, so we will
+put that off for a while.
+
+It is often said that special relativity is a theory of 4-dimensional spacetime: three of
+space, one of time. But of course, the pre-SR world of Newtonian mechanics featured three
+spatial dimensions and a time parameter. Nevertheless, there was not much temptation to
+consider these as different aspects of a single 4-dimensional spacetime. Why not?
+
+t
+=~ fixed time
+
+Consider a garden-variety 2-dimensional plane. It is typically convenient to label the
+points on such a plane by introducing coordinates, for example by defining orthogonal = and
+y axes and projecting each point onto these axes in the usual way. However, it is clear that
+most of the interesting geometrical facts about the plane are independent of our choice of
+coordinates. As a simple example, we can consider the distance between two points, given
+
+1

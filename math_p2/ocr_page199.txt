@@ -1,0 +1,38 @@
+7 THE SCHWARZSCHILD SOLUTION AND BLACK HOLES 192
+be unable to resist the pull of gravity, and will continue to collapse. Since a fluid of neutrons
+is the densest material of which we can presently conceive, it is believed that the inevitable
+outcome of such a collapse is a black hole.
+
+The process is summarized in the following diagram of radius vs. mass:
+
+M/Moq D
+neutron
+1.5 £ stars
+B
+<" dwarfs
+0.5 C
+A
+1 2 3 4 log R (km)
+
+The point of the diagram is that, for any given mass M, the star will decrease in radius
+until it hits the line. White dwarfs are found between points A and B, and neutron stars
+between points C' and D. Point B is at a height of somewhat less than 1.4 solar masses; the
+height of D is less certain, but probably less than 2 solar masses. The process of collapse
+is complicated, and during the evolution the star can lose or gain mass, so the endpoint of
+any given star is hard to predict. Nevertheless white dwarfs are all over the place, neutron
+stars are not uncommon, and there are a number of systems which are strongly believed to
+contain black holes. (Of course, you can'’t directly see the black hole. What you can see is
+radiation from matter accreting onto the hole, which heats up as it gets closer and emits
+radiation.)
+
+We have seen that the Kruskal coordinate system provides a very useful representation
+of the Schwarzschild geometry. Before moving on to other types of black holes, we will
+introduce one more way of thinking about this spacetime, the Penrose (or Carter-Penrose,
+or conformal) diagram. The idea is to do a conformal transformation which brings the entire
+manifold onto a compact region such that we can fit the spacetime on a piece of paper.
+
+Let’s begin with Minkowski space, to see how the technique works. The metric in polar
+coordinates is
+
+ds? = —dt* + dr? 4 r2dQ* . (7.86)
+Nothing unusual will happen to the 6, ¢ coordinates, but we will want to keep careful track

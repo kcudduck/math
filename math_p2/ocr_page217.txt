@@ -1,0 +1,42 @@
+7 THE SCHWARZSCHILD SOLUTION AND BLACK HOLES 210
+outer event s
+horizon ) Klll.mg
+Ty / horizon
+ergosphere
+inner event horizon
+
+Before rushing to draw Penrose diagrams, we need to understand the nature of the true
+curvature singularity; this does not occur at » = 0 in this spacetime, but rather at p = 0.
+Since p? = r? + a®cos?§ is the sum of two manifestly nonnegative quantities, it can only
+vanish when both quantities are zero, or
+
+™
+r=20, 0=—. (7.129)
+2
+This seems like a funny result, but remember that » = 0 is not a point in space, but a disk;
+the set of points r = 0, § = 7/2 is actually the ring at the edge of this disk. The rotation
+has “softened” the Schwarzschild singularity, spreading it out over a ring.
+
+What happens if you go inside the ring? A careful analytic continuation (which we will
+not perform) would reveal that you exit to another asymptotically flat spacetime, but not an
+identical copy of the one you came from. The new spacetime is described by the Kerr metric
+with r < 0. As a result, A never vanishes and there are no horizons. The Penrose diagram
+is much like that for Reissner-Nordstrem, except now you can pass through the singularity.
+
+Not only do we have the usual strangeness of these distinct asymptotically flat regions
+connected to ours through the black hole, but the region near the ring singularity has addi-
+tional pathologies: closed timelike curves. If you consider trajectories which wind around in
+¢ while keeping # and ¢ constant and r a small negative value, the line element along such
+a path is
+
+2GM
+ds* = a? (1 + —) de?* (7.130)
+r
+which is negative for small negative r. Since these paths are closed, they are obviously
+CTC’s. You can therefore meet yourself in the past, with all that entails.
+
+Of course, everything we say about the analytic extension of Kerr is subject to the same
+caveats we mentioned for Schwarzschild and Reissner-Nordstrgm; it is unlikely that realistic
+gravitational collapse leads to these bizarre spacetimes. It is nevertheless always useful to
+have exact solutions. Furthermore, for the Kerr metric there are strange things happening
+even if we stay outside the event horizon, to which we now turn.

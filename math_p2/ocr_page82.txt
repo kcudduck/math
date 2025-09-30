@@ -1,0 +1,35 @@
+3 CURVATURE 75
+It is antisymmetric in the last two indices:
+
+Rp(r/u/ = _Rpm/p, . (364)
+(Of course, if (3.63) is taken as a definition of the Riemann tensor, there is a convention that
+needs to be chosen for the ordering of the indices. There is no agreement at all on what this
+convention should be, so be careful.)
+
+Knowing what we do about parallel transport, we could very carefully perform the nec-
+essary manipulations to see what happens to the vector under this operation, and the result
+would be a formula for the curvature tensor in terms of the connection coefficients. It is much
+quicker, however, to consider a related operation, the commutator of two covariant deriva-
+tives. The relationship between this and parallel transport around a loop should be evident;
+the covariant derivative of a tensor in a certain direction measures how much the tensor
+changes relative to what it would have been if it had been parallel transported (since the
+covariant derivative of a tensor in a direction along which it is parallel transported is zero).
+The commutator of two covariant derivatives, then, measures the difference between parallel
+transporting the tensor first one way and then the other, versus the opposite ordering.
+
+Vu/
+V.
+Vv L/ v
+Vi
+The actual computation is very straightforward. Considering a vector field V*, we take
+V., V,JV? = V,V,VF -V, V,V*
+= 0,(V,V?) — F;\“,V)\V” + T,V V7 — (n e v)
+= 0,0,V" + (0.I0,)V° + 10,0,V —T,0VF =T, I5,V°
+19,0,V + 0, TV — (o> v)
+X A A
+= (0.0, =9I, + /Ty, —T), T, )V — AL VAV? . (3.65)
+In the last step we have relabeled some dummy indices and eliminated some terms that
+cancel when antisymmetrized. We recognize that the last term is simply the torsion tensor,
+and that the left hand side is manifestly a tensor; therefore the expression in parentheses
+must be a tensor itself. We write
+V,, VIVP = R,V =T, V| (3.66)

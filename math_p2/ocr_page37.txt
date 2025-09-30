@@ -1,0 +1,32 @@
+1 SPECIAL RELATIVITY AND FLAT SPACETIME 30
+
+As further examples, let’s consider the energy-momentum tensors of electromagnetism
+and scalar field theory. Without any explanation at all, these are given by
+
+R VSO R
+tm = (FHAEY ) 1" FYFy\), (1.111)
+and 1
+T e = 107 060 ) — 57/“”(7/A”3A(b&,(b +m2¢?) . (1.112)
+You can check for yourself that, for example, 7% in each case is equal to what you would
+expect the energy density to be.
+
+Besides being symmetric, 7" has the even more important property of being conserved.
+In this context, conservation is expressed as the vanishing of the “divergence”:
+
+0,T* =0. (1.113)
+This is a set of four equations, one for each value of v. The v = 0 equation corresponds to
+conservation of energy, while 9, T"% = 0 expresses conservation of the k™" component of the
+momentum. We are not going to prove this in general; the proof follows for any individual
+source of matter from the equations of motion obeyed by that kind of matter. In fact, one
+way to define 7" would be “a (2,0) tensor with units of energy per volume, which is con-
+served.” You can prove conservation of the energy-momentum tensor for electromagnetism,
+for example, by taking the divergence of (1.111) and using Maxwell’s equations as previously
+discussed.
+
+A final aside: we have already mentioned that in general relativity gravitation does not
+count as a “force.” As a related point, the gravitational field also does not have an energy-
+momentum tensor. In fact it is very hard to come up with a sensible local expression for the
+energy of a gravitational field; a number of suggestions have been made, but they all have
+their drawbacks. Although there is no “correct” answer, it is an important issue from the
+point of view of asking seemingly reasonable questions such as “What is the energy emitted
+per second from a binary pulsar as the result of gravitational radiation?”

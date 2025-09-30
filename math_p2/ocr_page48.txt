@@ -1,0 +1,40 @@
+2 MANIFOLDS 41
+the z direction” — if the tangent space is merely an abstract vector space associated with
+each point, it’s hard to know what this should mean. Now it’s time to fix the problem.
+
+Let’s imagine that we wanted to construct the tangent space at a point p in a manifold
+M, using only things that are intrinsic to M (no embeddings in higher-dimensional spaces
+etc.). One first guess might be to use our intuitive knowledge that there are objects called
+“tangent vectors to curves” which belong in the tangent space. We might therefore consider
+the set of all parameterized curves through p — that is, the space of all (nondegenerate)
+maps v : R — M such that p is in the image of 7. The temptation is to define the tangent
+space as simply the space of all tangent vectors to these curves at the point p. But this is
+obviously cheating; the tangent space T}, is supposed to be the space of vectors at p, and
+before we have defined this we don’t have an independent notion of what “the tangent vector
+to a curve” is supposed to mean. In some coordinate system z* any curve through p defines
+an element of R™ specified by the n real numbers da#/d)\ (where \ is the parameter along
+the curve), but this map is clearly coordinate-dependent, which is not what we want.
+
+Nevertheless we are on the right track, we just have to make things independent of
+coordinates. To this end we define F to be the space of all smooth functions on M (that
+is, C°° maps f : M — R). Then we notice that each curve through p defines an operator
+on this space, the directional derivative, which maps f — df /d\ (at p). We will make the
+following claim: the tangent space T), can be identified with the space of directional derivative
+operators along curves through p. To establish this idea we must demonstrate two things:
+first, that the space of directional derivatives is a vector space, and second that it is the
+vector space we want (it has the same dimensionality as M, yields a natural idea of a vector
+pointing along a certain direction, and so on).
+
+The first claim, that directional derivatives form a vector space, seems straightforward
+enough. Imagine two operators % and % representing derivatives along two curves through
+p. There is no problem adding these and scaling by real numbers, to obtain a new operator
+a% + b%. It is not immediately obvious, however, that the space closes; i.e., that the
+resulting operator is itself a derivative operator. A good derivative operator is one that
+acts linearly on functions, and obeys the conventional Leibniz (product) rule on products
+of functions. Our new operator is manifestly linear, so we need to verify that it obeys the
+Leibniz rule. We have
+
+(ad(—i\ + b%) (fg) = afg—i + ag% + bfj—i + bg;i—{7
+= (a% + b;%) g+ (a% + b%) f. (2.8)
+As we had hoped, the product rule is satisfied, and the set of directional derivatives is
+therefore a vector space.

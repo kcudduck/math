@@ -1,0 +1,7 @@
+Errata
+The further condition p(z + e;,t) = p(x, t) should be made explicit in Eqn (8).
+Eqn (10) should read:
+00 00;
+R3xR ij R3XR
+= v ﬂ N L ﬂ £ 0dadt + ﬂ p- (div0) dadt
+R3xR R3xR R3xR

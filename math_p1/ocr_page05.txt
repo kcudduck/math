@@ -1,5 +1,0 @@
-EXISTENCE AND SMOOTHNESS OF THE NAVIER-STOKES EQUATION 5
-[8] V. Scheffer, An inviscid flow with compact support in spacetime, J. Geom. Analysis 3 (1993),
-343-401.
-[9] A. Shnirelman, On the nonuniqueness of weak solutions of the Euler equation, Comm. Pure
-& Appl. Math. 50 (1997), 1260-1286.

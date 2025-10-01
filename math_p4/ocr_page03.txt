@@ -1,8 +1,0 @@
-CONTENTS
-1 ntroduction . .............. .. .. ... 3
-2 Multi-symplectic formulation . . . ... ......................4
-3 Conservationlaws . ............... ... .. . ... b
-4 Discussion . . . .. ittt e e e e el B
-A The workflow pattern . . . ... ... ... ... ... ... . T
-Acknowledgments . ... .. .. ... T
-References . .. ... ... ... ... T

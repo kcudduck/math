@@ -1,0 +1,46 @@
+math on  main [?] via 🐍 v3.13.7 (venv)
+❯ lm -d math
+~/.config/fish/functions/lm.fish (line 1): No matches for wildcard '"$localdir"/$P.image*.png'. See `help wildcards-globbing`.
+ls "$localdir"/$P.image*.png 2>/dev/null
+   ^~~~~~~~~~~~~~~~~~~~~~~~^
+in command substitution
+        called on line 173 of file ~/.config/fish/functions/lm.fish
+in function 'lm' with arguments '-d math'
+~/.config/fish/functions/lm.fish (line 173): Unmatched wildcard
+        set -l figs (ls "$localdir"/$P.image*.png 2>/dev/null)
+                    ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+in function 'lm' with arguments '-d math'
+lm: wrote /home/user/Documents/repos/math/math_p1/math_p1.manifest.md
+~/.config/fish/functions/lm.fish (line 1): No matches for wildcard '"$localdir"/$P.image*.png'. See `help wildcards-globbing`.
+ls "$localdir"/$P.image*.png 2>/dev/null
+   ^~~~~~~~~~~~~~~~~~~~~~~~^
+in command substitution
+        called on line 173 of file ~/.config/fish/functions/lm.fish
+in function 'lm' with arguments '-d math'
+~/.config/fish/functions/lm.fish (line 173): Unmatched wildcard
+        set -l figs (ls "$localdir"/$P.image*.png 2>/dev/null)
+                    ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+in function 'lm' with arguments '-d math'
+lm: wrote /home/user/Documents/repos/math/math_p2/math_p2.manifest.md
+~/.config/fish/functions/lm.fish (line 1): No matches for wildcard '"$localdir"/$P.image*.png'. See `help wildcards-globbing`.
+ls "$localdir"/$P.image*.png 2>/dev/null
+   ^~~~~~~~~~~~~~~~~~~~~~~~^
+in command substitution
+        called on line 173 of file ~/.config/fish/functions/lm.fish
+in function 'lm' with arguments '-d math'
+~/.config/fish/functions/lm.fish (line 173): Unmatched wildcard
+        set -l figs (ls "$localdir"/$P.image*.png 2>/dev/null)
+                    ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+in function 'lm' with arguments '-d math'
+lm: wrote /home/user/Documents/repos/math/math_p3/math_p3.manifest.md
+~/.config/fish/functions/lm.fish (line 1): No matches for wildcard '"$localdir"/$P.image*.png'. See `help wildcards-globbing`.
+ls "$localdir"/$P.image*.png 2>/dev/null
+   ^~~~~~~~~~~~~~~~~~~~~~~~^
+in command substitution
+        called on line 173 of file ~/.config/fish/functions/lm.fish
+in function 'lm' with arguments '-d math'
+~/.config/fish/functions/lm.fish (line 173): Unmatched wildcard
+        set -l figs (ls "$localdir"/$P.image*.png 2>/dev/null)
+                    ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+in function 'lm' with arguments '-d math'
+lm: wrote /home/user/Documents/repos/math/math_p4/math_p4.manifest.md

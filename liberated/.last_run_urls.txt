@@ -1,0 +1,6 @@
+https://raw.githubusercontent.com/kcudduck/math/main/liberated/math/math_p1/math_p1.text.md
+https://raw.githubusercontent.com/kcudduck/math/main/liberated/math/math_p1/math_p1.manifest.json
+https://raw.githubusercontent.com/kcudduck/math/main/liberated/math/math_p2/math_p2.text.md
+https://raw.githubusercontent.com/kcudduck/math/main/liberated/math/math_p2/math_p2.manifest.json
+https://raw.githubusercontent.com/kcudduck/math/main/liberated/math/math_p3/math_p3.text.md
+https://raw.githubusercontent.com/kcudduck/math/main/liberated/math/math_p3/math_p3.manifest.json

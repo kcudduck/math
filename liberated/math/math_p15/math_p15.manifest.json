@@ -1,0 +1,21 @@
+{
+  "doc": "math_p15",
+  "sha256": "0bcd6c82",
+  "pages": 6,
+  "pdf": "/papers/FontIdentificationinHistoricalDocumentsUsingActiveLearning.pdf",
+  "generated": "2025-10-02T08:30:28.416Z",
+  "pk": {
+    "doc": "math_p15",
+    "sha256": "0bcd6c82",
+    "pages": 6
+  },
+  "rasters": [
+    "math/math_p15/math_p15.page01.png",
+    "math/math_p15/math_p15.page02.png",
+    "math/math_p15/math_p15.page03.png",
+    "math/math_p15/math_p15.page04.png",
+    "math/math_p15/math_p15.page05.png",
+    "math/math_p15/math_p15.page06.png"
+  ],
+  "ocr": []
+}

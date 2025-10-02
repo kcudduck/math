@@ -1,0 +1,24 @@
+{
+  "doc": "math_p9",
+  "sha256": "38691d14",
+  "pages": 9,
+  "pdf": "/papers/DeepFontIdentifyYourFontfromAnImage.pdf",
+  "generated": "2025-10-02T08:29:16.543Z",
+  "pk": {
+    "doc": "math_p9",
+    "sha256": "38691d14",
+    "pages": 9
+  },
+  "rasters": [
+    "math/math_p9/math_p9.page01.png",
+    "math/math_p9/math_p9.page02.png",
+    "math/math_p9/math_p9.page03.png",
+    "math/math_p9/math_p9.page04.png",
+    "math/math_p9/math_p9.page05.png",
+    "math/math_p9/math_p9.page06.png",
+    "math/math_p9/math_p9.page07.png",
+    "math/math_p9/math_p9.page08.png",
+    "math/math_p9/math_p9.page09.png"
+  ],
+  "ocr": []
+}

@@ -1,0 +1,24 @@
+{
+  "doc": "math_p19",
+  "sha256": "3f63490c",
+  "pages": 9,
+  "pdf": "/papers/MachineLearningforMolecularandMaterialsScience.pdf",
+  "generated": "2025-10-02T08:31:17.725Z",
+  "pk": {
+    "doc": "math_p19",
+    "sha256": "3f63490c",
+    "pages": 9
+  },
+  "rasters": [
+    "math/math_p19/math_p19.page01.png",
+    "math/math_p19/math_p19.page02.png",
+    "math/math_p19/math_p19.page03.png",
+    "math/math_p19/math_p19.page04.png",
+    "math/math_p19/math_p19.page05.png",
+    "math/math_p19/math_p19.page06.png",
+    "math/math_p19/math_p19.page07.png",
+    "math/math_p19/math_p19.page08.png",
+    "math/math_p19/math_p19.page09.png"
+  ],
+  "ocr": []
+}

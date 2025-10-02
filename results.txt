@@ -1,46 +1,94 @@
-math on  main [?] via 🐍 v3.13.7 (venv)
-❯ lm -d math
-~/.config/fish/functions/lm.fish (line 1): No matches for wildcard '"$localdir"/$P.image*.png'. See `help wildcards-globbing`.
-ls "$localdir"/$P.image*.png 2>/dev/null
-   ^~~~~~~~~~~~~~~~~~~~~~~~^
-in command substitution
-        called on line 173 of file ~/.config/fish/functions/lm.fish
-in function 'lm' with arguments '-d math'
-~/.config/fish/functions/lm.fish (line 173): Unmatched wildcard
-        set -l figs (ls "$localdir"/$P.image*.png 2>/dev/null)
-                    ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
-in function 'lm' with arguments '-d math'
-lm: wrote /home/user/Documents/repos/math/math_p1/math_p1.manifest.md
-~/.config/fish/functions/lm.fish (line 1): No matches for wildcard '"$localdir"/$P.image*.png'. See `help wildcards-globbing`.
-ls "$localdir"/$P.image*.png 2>/dev/null
-   ^~~~~~~~~~~~~~~~~~~~~~~~^
-in command substitution
-        called on line 173 of file ~/.config/fish/functions/lm.fish
-in function 'lm' with arguments '-d math'
-~/.config/fish/functions/lm.fish (line 173): Unmatched wildcard
-        set -l figs (ls "$localdir"/$P.image*.png 2>/dev/null)
-                    ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
-in function 'lm' with arguments '-d math'
-lm: wrote /home/user/Documents/repos/math/math_p2/math_p2.manifest.md
-~/.config/fish/functions/lm.fish (line 1): No matches for wildcard '"$localdir"/$P.image*.png'. See `help wildcards-globbing`.
-ls "$localdir"/$P.image*.png 2>/dev/null
-   ^~~~~~~~~~~~~~~~~~~~~~~~^
-in command substitution
-        called on line 173 of file ~/.config/fish/functions/lm.fish
-in function 'lm' with arguments '-d math'
-~/.config/fish/functions/lm.fish (line 173): Unmatched wildcard
-        set -l figs (ls "$localdir"/$P.image*.png 2>/dev/null)
-                    ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
-in function 'lm' with arguments '-d math'
-lm: wrote /home/user/Documents/repos/math/math_p3/math_p3.manifest.md
-~/.config/fish/functions/lm.fish (line 1): No matches for wildcard '"$localdir"/$P.image*.png'. See `help wildcards-globbing`.
-ls "$localdir"/$P.image*.png 2>/dev/null
-   ^~~~~~~~~~~~~~~~~~~~~~~~^
-in command substitution
-        called on line 173 of file ~/.config/fish/functions/lm.fish
-in function 'lm' with arguments '-d math'
-~/.config/fish/functions/lm.fish (line 173): Unmatched wildcard
-        set -l figs (ls "$localdir"/$P.image*.png 2>/dev/null)
-                    ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
-in function 'lm' with arguments '-d math'
-lm: wrote /home/user/Documents/repos/math/math_p4/math_p4.manifest.md
+math on  main [✘!?] via  v24.9.0 via 🐍 v3.13.7 (venv)
+❯ node liberator_auto.js "papers/KdV review.pdf"
+
+
+math on  main [✘!?] via  v24.9.0 via 🐍 v3.13.7 (venv)
+❯ ls
+beast_mode_wrapper.js                keys.txt      liberator_auto.js*     papers/
+chat/                                ledger.csv    lm_cli.js              results.txt
+chat1.troubleshooting.defragged.md   lib_auto.js*  lm.fish
+chat2.troubleshooting2.defragged.md  liberated/    old.liberator_auto.js
+
+math on  main [✘!?] via  v24.9.0 via 🐍 v3.13.7 (venv)
+❯ ls -1t liberated/*/*/*.text.md | head -n1 | xargs -I{} sh -c 'echo "==> {}"; sed -n "1,80p" "{}"'
+==> liberated/math/math_p1/math_p1.text.md
+PKvNext Document
+
+KEY: math_p1 | math |  | 0522d838 | 11 | /papers/KdV review.pdf
+<!-- PK START doc=math_p1 -->
+
+
+<!-- PK PAGE 1 doc=KdV review.pdf -->
+INITIAL BOUNDARY VALUE PROBLEM FOR KORTEWEG-DE VRIES EQUATION: A
+                                                                  REVIEW AND OPEN PROBLEMS
+                                                               ROBERTO A. CAPISTRANO–FILHO, SHU-MING SUN, AND BING-YU ZHANG
+                                                   A BSTRACT. In the last 40 years the study of initial boundary value problem for the Korteweg-de Vries equation
+                                                   has had the attention of researchers from various research fields. In this note we present a review of the main
+                                                   results about this topic and also introduce interesting open problems which still requires attention from the
+                                                   mathematical point of view.
+arXiv:1810.02698v2 [math.AP] 2 Mar 2019
+                                                                                              1. I NTRODUCTION
+                                                In 1834 John Scott Russell, a Scottish naval engineer, was observing the Union Canal in Scotland
+                                          when he unexpectedly witnessed a very special physical phenomenon which he called a wave of translation
+                                          [54]. He saw a particular wave traveling through this channel without losing its shape or velocity, and was
+                                          so captivated by this event that he focused his attention on these waves for several years, not only built
+                                          water wave tanks at his home conducting practical and theoretical research into these types of waves, but
+                                          also challenged the mathematical community to prove theoretically the existence of his solitary waves and
+                                          to give an a priori demonstration a posteriori.
+                                                A number of researchers took up Russell’s challenge. Boussinesq was the first to explain the existence
+                                          of Scott Russell’s solitary wave mathematically. He employed a variety of asymptotically equivalent equa-
+                                          tions to describe water waves in the small-amplitude, long-wave regime. In fact, several works presented
+                                          to the Paris Academy of Sciences in 1871 and 1872, Boussinesq addressed the problem of the persistence
+                                          of solitary waves of permanent form on a fluid interface [12, 13, 14, 15]. It is important to mention that in
+                                          1876, the English physicist Lord Rayleigh obtained a different result [50].
+                                                After Boussinesq theory, the Dutch mathematicians D. J. Korteweg and his student G. de Vries de-
+                                          rived a nonlinear partial differential equation in 1895 that possesses a solution describing the phenomenon
+                                          discovered by Russell,
+$$
+                                                                                                               1 ∂ 2η
+$$
+                                                                                    r                                  
+$$
+                                                                            ∂η     3 g ∂ 1 2 3
+$$
+$$
+                                          (1.1)                                 =               η + αη + β 2 ,
+$$
+$$
+                                                                            ∂t     2 l ∂x 2          2         3 ∂x
+$$
+                                          in which η is the surface elevation above the equilibrium level, l is an arbitrary constant related to the motion
+                                                                                                   3
+$$
+                                          of the liquid, g is the gravitational constant, and β = l3 − ρTgl with surface capillary tension T and density
+$$
+                                          ρ . The equation (1.1) is called the Korteweg-de Vries equation in the literature, often abbreviated as the
+                                          KdV equation, although it had appeared explicitly in Boussinesq’s massive 1877 Memoir [15], as equation
+                                          (283bis) in a footnote on page 3601.
+                                                Eliminating the physical constants by using the following change of variables
+                                                                                r                                         
+                                                                              1 g                x               1     1
+$$
+                                                                         t→          t, x → − , u → −              η+ α
+$$
+                                                                              2 lβ              β                2     3
+                                          one obtains the standard Korteweg-de Vries equation
+$$
+                                                                                             ut + 6uux + uxxx = 0,
+$$
+                                          which is now commonly accepted as a mathematical model for the unidirectional propagation of small-
+                                          amplitude long waves in nonlinear dispersive systems.
+                                             2010 Mathematics Subject Classification. 35Q53, 35Q35, 53C35.
+                                             Key words and phrases. KdV equation, Well-posedness, Non-homogeneous boundary value problem, Boundary integral oper-
+                                          ators, Initial boundary value problem.
+                                             1The interested readers are referred to [37, 49] for history and origins of the Korteweg-de Vries equation.
+                                                                                                         1
+
+
+<!-- PK PAGE 2 doc=KdV review.pdf -->
+2                                          CAPISTRANO–FILHO, SUN, AND ZHANG
+      This note is concerned with the main results already obtained for the initial-boundary value problem
+(IBVP) of the KdV equation posed on a finite interval (0, L). The first paper which treated this problem was
+given by Bubnov in 1979 [16] when he considered the IBVP of the KdV equation on the finite interval (0, 1)
+with general boundary conditions. After that, many authors worked on improving the existing results and
+presenting new results in the last 30 years.

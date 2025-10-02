@@ -1,0 +1,23 @@
+{
+  "doc": "math_p21",
+  "sha256": "a9ba2de4",
+  "pages": 8,
+  "pdf": "/papers/MultiSourceDepthEstimationUtilizingRealSyntheticandMonocularDepthDatawithCustomLossFunctions.pdf",
+  "generated": "2025-10-02T08:31:35.669Z",
+  "pk": {
+    "doc": "math_p21",
+    "sha256": "a9ba2de4",
+    "pages": 8
+  },
+  "rasters": [
+    "math/math_p21/math_p21.page01.png",
+    "math/math_p21/math_p21.page02.png",
+    "math/math_p21/math_p21.page03.png",
+    "math/math_p21/math_p21.page04.png",
+    "math/math_p21/math_p21.page05.png",
+    "math/math_p21/math_p21.page06.png",
+    "math/math_p21/math_p21.page07.png",
+    "math/math_p21/math_p21.page08.png"
+  ],
+  "ocr": []
+}

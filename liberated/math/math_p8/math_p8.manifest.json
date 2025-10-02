@@ -1,0 +1,39 @@
+{
+  "doc": "math_p8",
+  "sha256": "d0560e22",
+  "pages": 24,
+  "pdf": "/papers/DeepFit3DSurfaceFittingviaNeuralNetworkWeightedLeastSquare.pdf",
+  "generated": "2025-10-02T08:29:09.030Z",
+  "pk": {
+    "doc": "math_p8",
+    "sha256": "d0560e22",
+    "pages": 24
+  },
+  "rasters": [
+    "math/math_p8/math_p8.page01.png",
+    "math/math_p8/math_p8.page02.png",
+    "math/math_p8/math_p8.page03.png",
+    "math/math_p8/math_p8.page04.png",
+    "math/math_p8/math_p8.page05.png",
+    "math/math_p8/math_p8.page06.png",
+    "math/math_p8/math_p8.page07.png",
+    "math/math_p8/math_p8.page08.png",
+    "math/math_p8/math_p8.page09.png",
+    "math/math_p8/math_p8.page10.png",
+    "math/math_p8/math_p8.page11.png",
+    "math/math_p8/math_p8.page12.png",
+    "math/math_p8/math_p8.page13.png",
+    "math/math_p8/math_p8.page14.png",
+    "math/math_p8/math_p8.page15.png",
+    "math/math_p8/math_p8.page16.png",
+    "math/math_p8/math_p8.page17.png",
+    "math/math_p8/math_p8.page18.png",
+    "math/math_p8/math_p8.page19.png",
+    "math/math_p8/math_p8.page20.png",
+    "math/math_p8/math_p8.page21.png",
+    "math/math_p8/math_p8.page22.png",
+    "math/math_p8/math_p8.page23.png",
+    "math/math_p8/math_p8.page24.png"
+  ],
+  "ocr": []
+}

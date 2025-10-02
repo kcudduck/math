@@ -1,0 +1,35 @@
+{
+  "doc": "math_p20",
+  "sha256": "72027c18",
+  "pages": 20,
+  "pdf": "/papers/MultiInformationDiffusionforJointDepthandSurfaceNormalEstimation.pdf",
+  "generated": "2025-10-02T08:31:29.873Z",
+  "pk": {
+    "doc": "math_p20",
+    "sha256": "72027c18",
+    "pages": 20
+  },
+  "rasters": [
+    "math/math_p20/math_p20.page01.png",
+    "math/math_p20/math_p20.page02.png",
+    "math/math_p20/math_p20.page03.png",
+    "math/math_p20/math_p20.page04.png",
+    "math/math_p20/math_p20.page05.png",
+    "math/math_p20/math_p20.page06.png",
+    "math/math_p20/math_p20.page07.png",
+    "math/math_p20/math_p20.page08.png",
+    "math/math_p20/math_p20.page09.png",
+    "math/math_p20/math_p20.page10.png",
+    "math/math_p20/math_p20.page11.png",
+    "math/math_p20/math_p20.page12.png",
+    "math/math_p20/math_p20.page13.png",
+    "math/math_p20/math_p20.page14.png",
+    "math/math_p20/math_p20.page15.png",
+    "math/math_p20/math_p20.page16.png",
+    "math/math_p20/math_p20.page17.png",
+    "math/math_p20/math_p20.page18.png",
+    "math/math_p20/math_p20.page19.png",
+    "math/math_p20/math_p20.page20.png"
+  ],
+  "ocr": []
+}

@@ -1,0 +1,28 @@
+{
+  "doc": "math_p4",
+  "sha256": "32c1dcf0",
+  "pages": 13,
+  "pdf": "/papers/CanMultimodalLargeLanguageModelsUnderstandSpatialRelations.pdf",
+  "generated": "2025-10-02T08:28:21.758Z",
+  "pk": {
+    "doc": "math_p4",
+    "sha256": "32c1dcf0",
+    "pages": 13
+  },
+  "rasters": [
+    "math/math_p4/math_p4.page01.png",
+    "math/math_p4/math_p4.page02.png",
+    "math/math_p4/math_p4.page03.png",
+    "math/math_p4/math_p4.page04.png",
+    "math/math_p4/math_p4.page05.png",
+    "math/math_p4/math_p4.page06.png",
+    "math/math_p4/math_p4.page07.png",
+    "math/math_p4/math_p4.page08.png",
+    "math/math_p4/math_p4.page09.png",
+    "math/math_p4/math_p4.page10.png",
+    "math/math_p4/math_p4.page11.png",
+    "math/math_p4/math_p4.page12.png",
+    "math/math_p4/math_p4.page13.png"
+  ],
+  "ocr": []
+}

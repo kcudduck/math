@@ -1,0 +1,30 @@
+{
+  "doc": "math_p12",
+  "sha256": "30a73391",
+  "pages": 15,
+  "pdf": "/papers/Deep_learning_assisted_Volume_Visualization.pdf",
+  "generated": "2025-10-02T08:29:52.290Z",
+  "pk": {
+    "doc": "math_p12",
+    "sha256": "30a73391",
+    "pages": 15
+  },
+  "rasters": [
+    "math/math_p12/math_p12.page01.png",
+    "math/math_p12/math_p12.page02.png",
+    "math/math_p12/math_p12.page03.png",
+    "math/math_p12/math_p12.page04.png",
+    "math/math_p12/math_p12.page05.png",
+    "math/math_p12/math_p12.page06.png",
+    "math/math_p12/math_p12.page07.png",
+    "math/math_p12/math_p12.page08.png",
+    "math/math_p12/math_p12.page09.png",
+    "math/math_p12/math_p12.page10.png",
+    "math/math_p12/math_p12.page11.png",
+    "math/math_p12/math_p12.page12.png",
+    "math/math_p12/math_p12.page13.png",
+    "math/math_p12/math_p12.page14.png",
+    "math/math_p12/math_p12.page15.png"
+  ],
+  "ocr": []
+}

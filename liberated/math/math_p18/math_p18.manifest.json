@@ -1,0 +1,26 @@
+{
+  "doc": "math_p18",
+  "sha256": "95af8f9a",
+  "pages": 11,
+  "pdf": "/papers/Lai_Font-Agent_Enhancing_Font_Understanding_with_Large_Language_Models_CVPR_2025_paper.pdf",
+  "generated": "2025-10-02T08:31:09.212Z",
+  "pk": {
+    "doc": "math_p18",
+    "sha256": "95af8f9a",
+    "pages": 11
+  },
+  "rasters": [
+    "math/math_p18/math_p18.page01.png",
+    "math/math_p18/math_p18.page02.png",
+    "math/math_p18/math_p18.page03.png",
+    "math/math_p18/math_p18.page04.png",
+    "math/math_p18/math_p18.page05.png",
+    "math/math_p18/math_p18.page06.png",
+    "math/math_p18/math_p18.page07.png",
+    "math/math_p18/math_p18.page08.png",
+    "math/math_p18/math_p18.page09.png",
+    "math/math_p18/math_p18.page10.png",
+    "math/math_p18/math_p18.page11.png"
+  ],
+  "ocr": []
+}

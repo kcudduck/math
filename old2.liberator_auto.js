@@ -1,29 +1,16 @@
 #!/usr/bin/env node
 /**
  * liberator_auto.js — repo-aware, zero-flag runner
- * TEXT + OCR fallback + PAGE IMAGES (PNG)
+ * TEXT + OCR fallback + PAGE IMAGES (PNG) + rasters[] in manifest
  *
- * Manifest now contains RAW URLs for ALL outputs, with the .text.md FIRST.
- *   {
- *     "text":      "<raw url to .text.md>",
- *     "manifest":  "<raw url to this manifest>",
- *     "doc":       "<docId>",
- *     "sha256":    "<sha8>",
- *     "pages":     <int>,
- *     "pdf":       "/papers/...pdf",
- *     "generated": "ISO time",
- *     "pk": { "doc":..., "sha256":..., "pages":... },
- *     "rasters":   [ "<raw url to page01.png>", ... ],
- *     "ocr":       [ "<raw url to page01.ocr.txt>", ... ]
- *   }
- *
- * Usage:
+ * Usage (no flags):
  *   node liberator_auto.js                 # scans repoRoot/papers recursively
  *   node liberator_auto.js <pdf|dir>       # process a single PDF or a directory
  *
- * Env toggles:
- *   IMG_DPI=300     # page image DPI (default 200)
- *   OCR_LANG=eng    # tesseract language(s), e.g., eng+deu
+ * Outputs per paper:
+ *   liberated/<domain>/<docId>/<docId>.text.md
+ *   liberated/<domain>/<docId>/<docId>.manifest.json (with rasters[])
+ *   liberated/<domain>/<docId>/<docId>.pageNN.png
  */
 
 const fs = require('fs');
@@ -198,18 +185,16 @@ function textMd(docId, key, body){
   ].join('\n');
 }
 
-function manifest(docId, sha, pagesCount, pdfRepoRel, textUrl, maniUrl, rasterUrls=[], ocrUrls=[]){
+function manifest(docId, sha, pagesCount, pdfRepoRel, rasters=[], ocrFiles=[]){
   return JSON.stringify({
-    text: textUrl,
-    manifest: maniUrl,
     doc: docId,
     sha256: sha,
     pages: pagesCount,
     pdf: pdfRepoRel,
     generated: new Date().toISOString(),
     pk: { doc: docId, sha256: sha, pages: pagesCount },
-    rasters: rasterUrls,
-    ocr: ocrUrls
+    rasters: rasters.map(p => p.replace(/\\/g,'/').replace(/^.*\/liberated\//,'')),
+    ocr: ocrFiles.map(p => p.replace(/\\/g,'/').replace(/^.*\/liberated\//,''))
   }, null, 2) + '\n';
 }
 
@@ -229,34 +214,25 @@ function runOne(pdfAbs, ctx, urls){
   const rasterPaths = rasterizeAllPages(pdfAbs, docDir, docId);
 
   const key = keyLine(docId, domain, sha, pagesCount, pdfRepoRel);
-  const textFile = path.join(docDir, `${docId}.text.md`);
-  const maniFile = path.join(docDir, `${docId}.manifest.json`);
-
   const text = textMd(docId, key, body);
-  fs.writeFileSync(textFile, text, 'utf8');
+  const mani = manifest(docId, sha, pagesCount, pdfRepoRel, rasterPaths, []);
 
-  const base = `https://raw.githubusercontent.com/${owner}/${repo}/${br}`;
-  const textUrl = base + repoRel(textFile, root);
-  const maniUrl = base + repoRel(maniFile, root);
-  const rasterUrls = rasterPaths.map(p => base + repoRel(p, root));
-  const ocrUrls = []; // reserved for future per-page OCR outputs
-
-  const mani = manifest(docId, sha, pagesCount, pdfRepoRel, textUrl, maniUrl, rasterUrls, ocrUrls);
-  fs.writeFileSync(maniFile, mani, 'utf8');
-
+  fs.writeFileSync(path.join(docDir, `${docId}.text.md`), text, 'utf8');
+  fs.writeFileSync(path.join(docDir, `${docId}.manifest.json`), mani, 'utf8');
   if (!ledger.get(sha)) ledgerAppend(root, sha, docId, domain);
 
   const log = [
     `pdf=${repoRel(pdfAbs, root)}`,
     `pages=${pagesCount}`,
     `ocred_pages=${ocredCount}`,
-    `rasters=${rasterUrls.length}`,
+    `rasters=${rasterPaths.length}`,
     `nonEmpty=${nonEmpty}`
   ].join('\n') + '\n';
   fs.writeFileSync(path.join(docDir, '.extract.log'), log, 'utf8');
 
-  urls.push(textUrl);
-  urls.push(maniUrl);
+  const base = `https://raw.githubusercontent.com/${owner}/${repo}/${br}`;
+  urls.push(base + repoRel(path.join(docDir, `${docId}.text.md`), root));
+  urls.push(base + repoRel(path.join(docDir, `${docId}.manifest.json`), root));
 }
 
 function main(){

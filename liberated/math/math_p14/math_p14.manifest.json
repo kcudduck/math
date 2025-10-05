@@ -1,27 +1,29 @@
 {
+  "text": "https://raw.githubusercontent.com/kcudduck/math/main/liberated/math/math_p14/math_p14.text.md",
+  "manifest": "https://raw.githubusercontent.com/kcudduck/math/main/liberated/math/math_p14/math_p14.manifest.json",
   "doc": "math_p14",
   "sha256": "f2a9a32e",
   "pages": 12,
   "pdf": "/papers/FineGrainedImageClassificationBasedonCross-AttentionNetwork.pdf",
-  "generated": "2025-10-02T08:30:23.750Z",
+  "generated": "2025-10-05T22:24:07.942Z",
   "pk": {
     "doc": "math_p14",
     "sha256": "f2a9a32e",
     "pages": 12
   },
   "rasters": [
-    "math/math_p14/math_p14.page01.png",
-    "math/math_p14/math_p14.page02.png",
-    "math/math_p14/math_p14.page03.png",
-    "math/math_p14/math_p14.page04.png",
-    "math/math_p14/math_p14.page05.png",
-    "math/math_p14/math_p14.page06.png",
-    "math/math_p14/math_p14.page07.png",
-    "math/math_p14/math_p14.page08.png",
-    "math/math_p14/math_p14.page09.png",
-    "math/math_p14/math_p14.page10.png",
-    "math/math_p14/math_p14.page11.png",
-    "math/math_p14/math_p14.page12.png"
+    "https://raw.githubusercontent.com/kcudduck/math/main/liberated/math/math_p14/math_p14.page01.png",
+    "https://raw.githubusercontent.com/kcudduck/math/main/liberated/math/math_p14/math_p14.page02.png",
+    "https://raw.githubusercontent.com/kcudduck/math/main/liberated/math/math_p14/math_p14.page03.png",
+    "https://raw.githubusercontent.com/kcudduck/math/main/liberated/math/math_p14/math_p14.page04.png",
+    "https://raw.githubusercontent.com/kcudduck/math/main/liberated/math/math_p14/math_p14.page05.png",
+    "https://raw.githubusercontent.com/kcudduck/math/main/liberated/math/math_p14/math_p14.page06.png",
+    "https://raw.githubusercontent.com/kcudduck/math/main/liberated/math/math_p14/math_p14.page07.png",
+    "https://raw.githubusercontent.com/kcudduck/math/main/liberated/math/math_p14/math_p14.page08.png",
+    "https://raw.githubusercontent.com/kcudduck/math/main/liberated/math/math_p14/math_p14.page09.png",
+    "https://raw.githubusercontent.com/kcudduck/math/main/liberated/math/math_p14/math_p14.page10.png",
+    "https://raw.githubusercontent.com/kcudduck/math/main/liberated/math/math_p14/math_p14.page11.png",
+    "https://raw.githubusercontent.com/kcudduck/math/main/liberated/math/math_p14/math_p14.page12.png"
   ],
   "ocr": []
 }

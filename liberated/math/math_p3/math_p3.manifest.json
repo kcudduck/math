@@ -1,26 +1,28 @@
 {
+  "text": "https://raw.githubusercontent.com/kcudduck/math/main/liberated/math/math_p3/math_p3.text.md",
+  "manifest": "https://raw.githubusercontent.com/kcudduck/math/main/liberated/math/math_p3/math_p3.manifest.json",
   "doc": "math_p3",
   "sha256": "22c75b73",
   "pages": 11,
   "pdf": "/papers/Adversarialtransferlearningforcross-domainvisualrecognition.pdf",
-  "generated": "2025-10-02T08:28:12.176Z",
+  "generated": "2025-10-05T22:21:58.392Z",
   "pk": {
     "doc": "math_p3",
     "sha256": "22c75b73",
     "pages": 11
   },
   "rasters": [
-    "math/math_p3/math_p3.page01.png",
-    "math/math_p3/math_p3.page02.png",
-    "math/math_p3/math_p3.page03.png",
-    "math/math_p3/math_p3.page04.png",
-    "math/math_p3/math_p3.page05.png",
-    "math/math_p3/math_p3.page06.png",
-    "math/math_p3/math_p3.page07.png",
-    "math/math_p3/math_p3.page08.png",
-    "math/math_p3/math_p3.page09.png",
-    "math/math_p3/math_p3.page10.png",
-    "math/math_p3/math_p3.page11.png"
+    "https://raw.githubusercontent.com/kcudduck/math/main/liberated/math/math_p3/math_p3.page01.png",
+    "https://raw.githubusercontent.com/kcudduck/math/main/liberated/math/math_p3/math_p3.page02.png",
+    "https://raw.githubusercontent.com/kcudduck/math/main/liberated/math/math_p3/math_p3.page03.png",
+    "https://raw.githubusercontent.com/kcudduck/math/main/liberated/math/math_p3/math_p3.page04.png",
+    "https://raw.githubusercontent.com/kcudduck/math/main/liberated/math/math_p3/math_p3.page05.png",
+    "https://raw.githubusercontent.com/kcudduck/math/main/liberated/math/math_p3/math_p3.page06.png",
+    "https://raw.githubusercontent.com/kcudduck/math/main/liberated/math/math_p3/math_p3.page07.png",
+    "https://raw.githubusercontent.com/kcudduck/math/main/liberated/math/math_p3/math_p3.page08.png",
+    "https://raw.githubusercontent.com/kcudduck/math/main/liberated/math/math_p3/math_p3.page09.png",
+    "https://raw.githubusercontent.com/kcudduck/math/main/liberated/math/math_p3/math_p3.page10.png",
+    "https://raw.githubusercontent.com/kcudduck/math/main/liberated/math/math_p3/math_p3.page11.png"
   ],
   "ocr": []
 }
